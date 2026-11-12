@@ -1,0 +1,2442 @@
+{
+ "levels": [
+  {
+   "id": 1,
+   "label": "İlk kelimeler",
+   "ageMin": 3,
+   "ageMax": 6
+  },
+  {
+   "id": 2,
+   "label": "Okul Türkçesi",
+   "ageMin": 6,
+   "ageMax": 10
+  },
+  {
+   "id": 3,
+   "label": "Zengin Türkçe",
+   "ageMin": 9,
+   "ageMax": 17
+  }
+ ],
+ "words": [
+  {
+   "id": "w1-01",
+   "level": 1,
+   "tr": "ev",
+   "emoji": "🏠",
+   "nl": "het huis",
+   "fr": "la maison",
+   "category": "aile"
+  },
+  {
+   "id": "w1-02",
+   "level": 1,
+   "tr": "anne",
+   "emoji": "👩",
+   "nl": "de mama",
+   "fr": "la maman",
+   "category": "aile"
+  },
+  {
+   "id": "w1-03",
+   "level": 1,
+   "tr": "baba",
+   "emoji": "👨",
+   "nl": "de papa",
+   "fr": "le papa",
+   "category": "aile"
+  },
+  {
+   "id": "w1-04",
+   "level": 1,
+   "tr": "kardeş",
+   "emoji": "🧒",
+   "nl": "de broer / de zus",
+   "fr": "le frère / la sœur",
+   "category": "aile"
+  },
+  {
+   "id": "w1-05",
+   "level": 1,
+   "tr": "dede",
+   "emoji": "👴",
+   "nl": "de opa",
+   "fr": "le papy",
+   "category": "aile"
+  },
+  {
+   "id": "w1-06",
+   "level": 1,
+   "tr": "nine",
+   "emoji": "👵",
+   "nl": "de oma",
+   "fr": "la mamie",
+   "category": "aile"
+  },
+  {
+   "id": "w1-07",
+   "level": 1,
+   "tr": "bebek",
+   "emoji": "👶",
+   "nl": "de baby",
+   "fr": "le bébé",
+   "category": "aile"
+  },
+  {
+   "id": "w1-08",
+   "level": 1,
+   "tr": "kedi",
+   "emoji": "🐱",
+   "nl": "de kat",
+   "fr": "le chat",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-09",
+   "level": 1,
+   "tr": "köpek",
+   "emoji": "🐶",
+   "nl": "de hond",
+   "fr": "le chien",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-10",
+   "level": 1,
+   "tr": "kuş",
+   "emoji": "🐦",
+   "nl": "de vogel",
+   "fr": "l'oiseau",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-11",
+   "level": 1,
+   "tr": "balık",
+   "emoji": "🐟",
+   "nl": "de vis",
+   "fr": "le poisson",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-12",
+   "level": 1,
+   "tr": "at",
+   "emoji": "🐴",
+   "nl": "het paard",
+   "fr": "le cheval",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-13",
+   "level": 1,
+   "tr": "inek",
+   "emoji": "🐮",
+   "nl": "de koe",
+   "fr": "la vache",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-14",
+   "level": 1,
+   "tr": "tavşan",
+   "emoji": "🐰",
+   "nl": "het konijn",
+   "fr": "le lapin",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-15",
+   "level": 1,
+   "tr": "ayı",
+   "emoji": "🐻",
+   "nl": "de beer",
+   "fr": "l'ours",
+   "category": "hayvan"
+  },
+  {
+   "id": "w1-16",
+   "level": 1,
+   "tr": "elma",
+   "emoji": "🍎",
+   "nl": "de appel",
+   "fr": "la pomme",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-17",
+   "level": 1,
+   "tr": "muz",
+   "emoji": "🍌",
+   "nl": "de banaan",
+   "fr": "la banane",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-18",
+   "level": 1,
+   "tr": "ekmek",
+   "emoji": "🍞",
+   "nl": "het brood",
+   "fr": "le pain",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-19",
+   "level": 1,
+   "tr": "su",
+   "emoji": "💧",
+   "nl": "het water",
+   "fr": "l'eau",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-20",
+   "level": 1,
+   "tr": "süt",
+   "emoji": "🥛",
+   "nl": "de melk",
+   "fr": "le lait",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-21",
+   "level": 1,
+   "tr": "peynir",
+   "emoji": "🧀",
+   "nl": "de kaas",
+   "fr": "le fromage",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-22",
+   "level": 1,
+   "tr": "yumurta",
+   "emoji": "🥚",
+   "nl": "het ei",
+   "fr": "l'œuf",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-23",
+   "level": 1,
+   "tr": "çorba",
+   "emoji": "🍲",
+   "nl": "de soep",
+   "fr": "la soupe",
+   "category": "yiyecek"
+  },
+  {
+   "id": "w1-24",
+   "level": 1,
+   "tr": "kırmızı",
+   "emoji": "🔴",
+   "nl": "rood",
+   "fr": "rouge",
+   "category": "renk"
+  },
+  {
+   "id": "w1-25",
+   "level": 1,
+   "tr": "mavi",
+   "emoji": "🔵",
+   "nl": "blauw",
+   "fr": "bleu",
+   "category": "renk"
+  },
+  {
+   "id": "w1-26",
+   "level": 1,
+   "tr": "sarı",
+   "emoji": "🟡",
+   "nl": "geel",
+   "fr": "jaune",
+   "category": "renk"
+  },
+  {
+   "id": "w1-27",
+   "level": 1,
+   "tr": "yeşil",
+   "emoji": "🟢",
+   "nl": "groen",
+   "fr": "vert",
+   "category": "renk"
+  },
+  {
+   "id": "w1-28",
+   "level": 1,
+   "tr": "siyah",
+   "emoji": "⚫",
+   "nl": "zwart",
+   "fr": "noir",
+   "category": "renk"
+  },
+  {
+   "id": "w1-29",
+   "level": 1,
+   "tr": "beyaz",
+   "emoji": "⚪",
+   "nl": "wit",
+   "fr": "blanc",
+   "category": "renk"
+  },
+  {
+   "id": "w1-30",
+   "level": 1,
+   "tr": "bir",
+   "emoji": "1️⃣",
+   "nl": "een",
+   "fr": "un",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-31",
+   "level": 1,
+   "tr": "iki",
+   "emoji": "2️⃣",
+   "nl": "twee",
+   "fr": "deux",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-32",
+   "level": 1,
+   "tr": "üç",
+   "emoji": "3️⃣",
+   "nl": "drie",
+   "fr": "trois",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-33",
+   "level": 1,
+   "tr": "dört",
+   "emoji": "4️⃣",
+   "nl": "vier",
+   "fr": "quatre",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-34",
+   "level": 1,
+   "tr": "beş",
+   "emoji": "5️⃣",
+   "nl": "vijf",
+   "fr": "cinq",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-35",
+   "level": 1,
+   "tr": "altı",
+   "emoji": "6️⃣",
+   "nl": "zes",
+   "fr": "six",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-36",
+   "level": 1,
+   "tr": "yedi",
+   "emoji": "7️⃣",
+   "nl": "zeven",
+   "fr": "sept",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-37",
+   "level": 1,
+   "tr": "sekiz",
+   "emoji": "8️⃣",
+   "nl": "acht",
+   "fr": "huit",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-38",
+   "level": 1,
+   "tr": "dokuz",
+   "emoji": "9️⃣",
+   "nl": "negen",
+   "fr": "neuf",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-39",
+   "level": 1,
+   "tr": "on",
+   "emoji": "🔟",
+   "nl": "tien",
+   "fr": "dix",
+   "category": "sayı"
+  },
+  {
+   "id": "w1-40",
+   "level": 1,
+   "tr": "el",
+   "emoji": "✋",
+   "nl": "de hand",
+   "fr": "la main",
+   "category": "vücut"
+  },
+  {
+   "id": "w1-41",
+   "level": 1,
+   "tr": "göz",
+   "emoji": "👁️",
+   "nl": "het oog",
+   "fr": "l'œil",
+   "category": "vücut"
+  },
+  {
+   "id": "w1-42",
+   "level": 1,
+   "tr": "kulak",
+   "emoji": "👂",
+   "nl": "het oor",
+   "fr": "l'oreille",
+   "category": "vücut"
+  },
+  {
+   "id": "w1-43",
+   "level": 1,
+   "tr": "burun",
+   "emoji": "👃",
+   "nl": "de neus",
+   "fr": "le nez",
+   "category": "vücut"
+  },
+  {
+   "id": "w1-44",
+   "level": 1,
+   "tr": "ağız",
+   "emoji": "👄",
+   "nl": "de mond",
+   "fr": "la bouche",
+   "category": "vücut"
+  },
+  {
+   "id": "w1-45",
+   "level": 1,
+   "tr": "ayak",
+   "emoji": "🦶",
+   "nl": "de voet",
+   "fr": "le pied",
+   "category": "vücut"
+  },
+  {
+   "id": "w1-46",
+   "level": 1,
+   "tr": "güneş",
+   "emoji": "☀️",
+   "nl": "de zon",
+   "fr": "le soleil",
+   "category": "doğa"
+  },
+  {
+   "id": "w1-47",
+   "level": 1,
+   "tr": "ay",
+   "emoji": "🌙",
+   "nl": "de maan",
+   "fr": "la lune",
+   "category": "doğa"
+  },
+  {
+   "id": "w1-48",
+   "level": 1,
+   "tr": "yıldız",
+   "emoji": "⭐",
+   "nl": "de ster",
+   "fr": "l'étoile",
+   "category": "doğa"
+  },
+  {
+   "id": "w1-49",
+   "level": 1,
+   "tr": "yağmur",
+   "emoji": "🌧️",
+   "nl": "de regen",
+   "fr": "la pluie",
+   "category": "doğa"
+  },
+  {
+   "id": "w1-50",
+   "level": 1,
+   "tr": "ağaç",
+   "emoji": "🌳",
+   "nl": "de boom",
+   "fr": "l'arbre",
+   "category": "doğa"
+  },
+  {
+   "id": "w1-51",
+   "level": 1,
+   "tr": "çiçek",
+   "emoji": "🌸",
+   "nl": "de bloem",
+   "fr": "la fleur",
+   "category": "doğa"
+  },
+  {
+   "id": "w1-52",
+   "level": 1,
+   "tr": "top",
+   "emoji": "⚽",
+   "nl": "de bal",
+   "fr": "le ballon",
+   "category": "oyun"
+  },
+  {
+   "id": "w1-53",
+   "level": 1,
+   "tr": "oyuncak",
+   "emoji": "🧸",
+   "nl": "het speelgoed",
+   "fr": "le jouet",
+   "category": "oyun"
+  },
+  {
+   "id": "w1-54",
+   "level": 1,
+   "tr": "araba",
+   "emoji": "🚗",
+   "nl": "de auto",
+   "fr": "la voiture",
+   "category": "ulaşım"
+  },
+  {
+   "id": "w1-55",
+   "level": 1,
+   "tr": "otobüs",
+   "emoji": "🚌",
+   "nl": "de bus",
+   "fr": "le bus",
+   "category": "ulaşım"
+  },
+  {
+   "id": "w1-56",
+   "level": 1,
+   "tr": "mutlu",
+   "emoji": "😊",
+   "nl": "blij",
+   "fr": "content",
+   "category": "duygu"
+  },
+  {
+   "id": "w1-57",
+   "level": 1,
+   "tr": "üzgün",
+   "emoji": "😢",
+   "nl": "verdrietig",
+   "fr": "triste",
+   "category": "duygu"
+  },
+  {
+   "id": "w1-58",
+   "level": 1,
+   "tr": "kızgın",
+   "emoji": "😠",
+   "nl": "boos",
+   "fr": "fâché",
+   "category": "duygu"
+  },
+  {
+   "id": "w1-59",
+   "level": 1,
+   "tr": "merhaba",
+   "emoji": "👋",
+   "nl": "hallo",
+   "fr": "bonjour",
+   "category": "kelime"
+  },
+  {
+   "id": "w1-60",
+   "level": 1,
+   "tr": "teşekkürler",
+   "emoji": "🙏",
+   "nl": "dank je",
+   "fr": "merci",
+   "category": "kelime"
+  },
+  {
+   "id": "w2-01",
+   "level": 2,
+   "tr": "okul",
+   "emoji": "🏫",
+   "nl": "de school",
+   "fr": "l'école",
+   "category": "okul"
+  },
+  {
+   "id": "w2-02",
+   "level": 2,
+   "tr": "öğretmen",
+   "emoji": "👩‍🏫",
+   "nl": "de leerkracht",
+   "fr": "l'enseignant",
+   "category": "okul"
+  },
+  {
+   "id": "w2-03",
+   "level": 2,
+   "tr": "sınıf",
+   "emoji": "🏫",
+   "nl": "de klas",
+   "fr": "la classe",
+   "category": "okul"
+  },
+  {
+   "id": "w2-04",
+   "level": 2,
+   "tr": "kitap",
+   "emoji": "📕",
+   "nl": "het boek",
+   "fr": "le livre",
+   "category": "okul"
+  },
+  {
+   "id": "w2-05",
+   "level": 2,
+   "tr": "defter",
+   "emoji": "📓",
+   "nl": "het schrift",
+   "fr": "le cahier",
+   "category": "okul"
+  },
+  {
+   "id": "w2-06",
+   "level": 2,
+   "tr": "kalem",
+   "emoji": "✏️",
+   "nl": "het potlood",
+   "fr": "le crayon",
+   "category": "okul"
+  },
+  {
+   "id": "w2-07",
+   "level": 2,
+   "tr": "silgi",
+   "emoji": "🧽",
+   "nl": "de gom",
+   "fr": "la gomme",
+   "category": "okul"
+  },
+  {
+   "id": "w2-08",
+   "level": 2,
+   "tr": "çanta",
+   "emoji": "🎒",
+   "nl": "de boekentas",
+   "fr": "le cartable",
+   "category": "okul"
+  },
+  {
+   "id": "w2-09",
+   "level": 2,
+   "tr": "ödev",
+   "emoji": "📝",
+   "nl": "het huiswerk",
+   "fr": "les devoirs",
+   "category": "okul"
+  },
+  {
+   "id": "w2-10",
+   "level": 2,
+   "tr": "teneffüs",
+   "emoji": "⛹️",
+   "nl": "de speeltijd",
+   "fr": "la récréation",
+   "category": "okul"
+  },
+  {
+   "id": "w2-11",
+   "level": 2,
+   "tr": "arkadaş",
+   "emoji": "🤝",
+   "nl": "de vriend",
+   "fr": "l'ami",
+   "category": "okul"
+  },
+  {
+   "id": "w2-12",
+   "level": 2,
+   "tr": "mutfak",
+   "emoji": "🍳",
+   "nl": "de keuken",
+   "fr": "la cuisine",
+   "category": "ev"
+  },
+  {
+   "id": "w2-13",
+   "level": 2,
+   "tr": "yatak odası",
+   "emoji": "🛏️",
+   "nl": "de slaapkamer",
+   "fr": "la chambre",
+   "category": "ev"
+  },
+  {
+   "id": "w2-14",
+   "level": 2,
+   "tr": "banyo",
+   "emoji": "🛁",
+   "nl": "de badkamer",
+   "fr": "la salle de bain",
+   "category": "ev"
+  },
+  {
+   "id": "w2-15",
+   "level": 2,
+   "tr": "pencere",
+   "emoji": "🖼️",
+   "nl": "het raam",
+   "fr": "la fenêtre",
+   "category": "ev"
+  },
+  {
+   "id": "w2-16",
+   "level": 2,
+   "tr": "kapı",
+   "emoji": "🚪",
+   "nl": "de deur",
+   "fr": "la porte",
+   "category": "ev"
+  },
+  {
+   "id": "w2-17",
+   "level": 2,
+   "tr": "masa",
+   "emoji": "🍽️",
+   "nl": "de tafel",
+   "fr": "la table",
+   "category": "ev"
+  },
+  {
+   "id": "w2-18",
+   "level": 2,
+   "tr": "sandalye",
+   "emoji": "💺",
+   "nl": "de stoel",
+   "fr": "la chaise",
+   "category": "ev"
+  },
+  {
+   "id": "w2-19",
+   "level": 2,
+   "tr": "sabah",
+   "emoji": "🌅",
+   "nl": "de ochtend",
+   "fr": "le matin",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-20",
+   "level": 2,
+   "tr": "öğle",
+   "emoji": "🕛",
+   "nl": "de middag",
+   "fr": "le midi",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-21",
+   "level": 2,
+   "tr": "akşam",
+   "emoji": "🌆",
+   "nl": "de avond",
+   "fr": "le soir",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-22",
+   "level": 2,
+   "tr": "gece",
+   "emoji": "🌃",
+   "nl": "de nacht",
+   "fr": "la nuit",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-23",
+   "level": 2,
+   "tr": "dün",
+   "emoji": "⬅️",
+   "nl": "gisteren",
+   "fr": "hier",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-24",
+   "level": 2,
+   "tr": "bugün",
+   "emoji": "📍",
+   "nl": "vandaag",
+   "fr": "aujourd'hui",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-25",
+   "level": 2,
+   "tr": "yarın",
+   "emoji": "➡️",
+   "nl": "morgen",
+   "fr": "demain",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-26",
+   "level": 2,
+   "tr": "hafta",
+   "emoji": "📅",
+   "nl": "de week",
+   "fr": "la semaine",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-27",
+   "level": 2,
+   "tr": "pazartesi",
+   "emoji": "📅",
+   "nl": "maandag",
+   "fr": "lundi",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-28",
+   "level": 2,
+   "tr": "cuma",
+   "emoji": "📅",
+   "nl": "vrijdag",
+   "fr": "vendredi",
+   "category": "zaman"
+  },
+  {
+   "id": "w2-29",
+   "level": 2,
+   "tr": "kış",
+   "emoji": "❄️",
+   "nl": "de winter",
+   "fr": "l'hiver",
+   "category": "mevsim"
+  },
+  {
+   "id": "w2-30",
+   "level": 2,
+   "tr": "ilkbahar",
+   "emoji": "🌷",
+   "nl": "de lente",
+   "fr": "le printemps",
+   "category": "mevsim"
+  },
+  {
+   "id": "w2-31",
+   "level": 2,
+   "tr": "yaz",
+   "emoji": "🏖️",
+   "nl": "de zomer",
+   "fr": "l'été",
+   "category": "mevsim"
+  },
+  {
+   "id": "w2-32",
+   "level": 2,
+   "tr": "sonbahar",
+   "emoji": "🍂",
+   "nl": "de herfst",
+   "fr": "l'automne",
+   "category": "mevsim"
+  },
+  {
+   "id": "w2-33",
+   "level": 2,
+   "tr": "doktor",
+   "emoji": "🩺",
+   "nl": "de dokter",
+   "fr": "le médecin",
+   "category": "meslek"
+  },
+  {
+   "id": "w2-34",
+   "level": 2,
+   "tr": "polis",
+   "emoji": "👮",
+   "nl": "de politie",
+   "fr": "la police",
+   "category": "meslek"
+  },
+  {
+   "id": "w2-35",
+   "level": 2,
+   "tr": "itfaiyeci",
+   "emoji": "🚒",
+   "nl": "de brandweerman",
+   "fr": "le pompier",
+   "category": "meslek"
+  },
+  {
+   "id": "w2-36",
+   "level": 2,
+   "tr": "aşçı",
+   "emoji": "👨‍🍳",
+   "nl": "de kok",
+   "fr": "le cuisinier",
+   "category": "meslek"
+  },
+  {
+   "id": "w2-37",
+   "level": 2,
+   "tr": "koşmak",
+   "emoji": "🏃",
+   "nl": "lopen",
+   "fr": "courir",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-38",
+   "level": 2,
+   "tr": "yüzmek",
+   "emoji": "🏊",
+   "nl": "zwemmen",
+   "fr": "nager",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-39",
+   "level": 2,
+   "tr": "okumak",
+   "emoji": "📖",
+   "nl": "lezen",
+   "fr": "lire",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-40",
+   "level": 2,
+   "tr": "yazmak",
+   "emoji": "✍️",
+   "nl": "schrijven",
+   "fr": "écrire",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-41",
+   "level": 2,
+   "tr": "çizmek",
+   "emoji": "🖍️",
+   "nl": "tekenen",
+   "fr": "dessiner",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-42",
+   "level": 2,
+   "tr": "uyumak",
+   "emoji": "😴",
+   "nl": "slapen",
+   "fr": "dormir",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-43",
+   "level": 2,
+   "tr": "yemek yemek",
+   "emoji": "🍽️",
+   "nl": "eten",
+   "fr": "manger",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-44",
+   "level": 2,
+   "tr": "içmek",
+   "emoji": "🥤",
+   "nl": "drinken",
+   "fr": "boire",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-45",
+   "level": 2,
+   "tr": "oynamak",
+   "emoji": "🎲",
+   "nl": "spelen",
+   "fr": "jouer",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-46",
+   "level": 2,
+   "tr": "yardım etmek",
+   "emoji": "🤲",
+   "nl": "helpen",
+   "fr": "aider",
+   "category": "fiil"
+  },
+  {
+   "id": "w2-47",
+   "level": 2,
+   "tr": "büyük",
+   "emoji": "🐘",
+   "nl": "groot",
+   "fr": "grand",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-48",
+   "level": 2,
+   "tr": "küçük",
+   "emoji": "🐭",
+   "nl": "klein",
+   "fr": "petit",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-49",
+   "level": 2,
+   "tr": "sıcak",
+   "emoji": "🔥",
+   "nl": "warm",
+   "fr": "chaud",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-50",
+   "level": 2,
+   "tr": "soğuk",
+   "emoji": "🧊",
+   "nl": "koud",
+   "fr": "froid",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-51",
+   "level": 2,
+   "tr": "hızlı",
+   "emoji": "🐆",
+   "nl": "snel",
+   "fr": "rapide",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-52",
+   "level": 2,
+   "tr": "yavaş",
+   "emoji": "🐢",
+   "nl": "traag",
+   "fr": "lent",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-53",
+   "level": 2,
+   "tr": "cesur",
+   "emoji": "🦁",
+   "nl": "dapper",
+   "fr": "courageux",
+   "category": "sıfat"
+  },
+  {
+   "id": "w2-54",
+   "level": 2,
+   "tr": "yorgun",
+   "emoji": "🥱",
+   "nl": "moe",
+   "fr": "fatigué",
+   "category": "duygu"
+  },
+  {
+   "id": "w2-55",
+   "level": 2,
+   "tr": "heyecanlı",
+   "emoji": "🤩",
+   "nl": "enthousiast",
+   "fr": "excité",
+   "category": "duygu"
+  },
+  {
+   "id": "w2-56",
+   "level": 2,
+   "tr": "korkmuş",
+   "emoji": "😨",
+   "nl": "bang",
+   "fr": "effrayé",
+   "category": "duygu"
+  },
+  {
+   "id": "w2-57",
+   "level": 2,
+   "tr": "şaşırmış",
+   "emoji": "😮",
+   "nl": "verrast",
+   "fr": "surpris",
+   "category": "duygu"
+  },
+  {
+   "id": "w2-58",
+   "level": 2,
+   "tr": "özür dilerim",
+   "emoji": "🙇",
+   "nl": "sorry",
+   "fr": "pardon",
+   "category": "kelime"
+  },
+  {
+   "id": "w2-59",
+   "level": 2,
+   "tr": "lütfen",
+   "emoji": "🙂",
+   "nl": "alsjeblieft",
+   "fr": "s'il te plaît",
+   "category": "kelime"
+  },
+  {
+   "id": "w3-01",
+   "level": 3,
+   "tr": "hayal",
+   "emoji": "💭",
+   "nl": "de droom / de fantasie",
+   "fr": "le rêve / l'imagination",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-02",
+   "level": 3,
+   "tr": "cesaret",
+   "emoji": "🦁",
+   "nl": "de moed",
+   "fr": "le courage",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-03",
+   "level": 3,
+   "tr": "sabır",
+   "emoji": "⏳",
+   "nl": "het geduld",
+   "fr": "la patience",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-04",
+   "level": 3,
+   "tr": "saygı",
+   "emoji": "🤝",
+   "nl": "het respect",
+   "fr": "le respect",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-05",
+   "level": 3,
+   "tr": "özgürlük",
+   "emoji": "🕊️",
+   "nl": "de vrijheid",
+   "fr": "la liberté",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-06",
+   "level": 3,
+   "tr": "dostluk",
+   "emoji": "🤝",
+   "nl": "de vriendschap",
+   "fr": "l'amitié",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-07",
+   "level": 3,
+   "tr": "sorumluluk",
+   "emoji": "🧭",
+   "nl": "de verantwoordelijkheid",
+   "fr": "la responsabilité",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-08",
+   "level": 3,
+   "tr": "merak",
+   "emoji": "🔍",
+   "nl": "de nieuwsgierigheid",
+   "fr": "la curiosité",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-09",
+   "level": 3,
+   "tr": "umut",
+   "emoji": "🌱",
+   "nl": "de hoop",
+   "fr": "l'espoir",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-10",
+   "level": 3,
+   "tr": "adalet",
+   "emoji": "⚖️",
+   "nl": "de rechtvaardigheid",
+   "fr": "la justice",
+   "category": "soyut"
+  },
+  {
+   "id": "w3-11",
+   "level": 3,
+   "tr": "gelenek",
+   "emoji": "🎎",
+   "nl": "de traditie",
+   "fr": "la tradition",
+   "category": "kültür"
+  },
+  {
+   "id": "w3-12",
+   "level": 3,
+   "tr": "bayram",
+   "emoji": "🎉",
+   "nl": "het feest",
+   "fr": "la fête",
+   "category": "kültür"
+  },
+  {
+   "id": "w3-13",
+   "level": 3,
+   "tr": "misafir",
+   "emoji": "🧳",
+   "nl": "de gast",
+   "fr": "l'invité",
+   "category": "kültür"
+  },
+  {
+   "id": "w3-14",
+   "level": 3,
+   "tr": "komşu",
+   "emoji": "🏘️",
+   "nl": "de buur",
+   "fr": "le voisin",
+   "category": "kültür"
+  },
+  {
+   "id": "w3-15",
+   "level": 3,
+   "tr": "memleket",
+   "emoji": "🗺️",
+   "nl": "het geboorteland",
+   "fr": "le pays natal",
+   "category": "kültür"
+  },
+  {
+   "id": "w3-16",
+   "level": 3,
+   "tr": "özlem",
+   "emoji": "💌",
+   "nl": "het verlangen / de heimwee",
+   "fr": "la nostalgie",
+   "category": "duygu"
+  },
+  {
+   "id": "w3-17",
+   "level": 3,
+   "tr": "gurur",
+   "emoji": "🏅",
+   "nl": "de trots",
+   "fr": "la fierté",
+   "category": "duygu"
+  },
+  {
+   "id": "w3-18",
+   "level": 3,
+   "tr": "utanç",
+   "emoji": "😳",
+   "nl": "de schaamte",
+   "fr": "la honte",
+   "category": "duygu"
+  },
+  {
+   "id": "w3-19",
+   "level": 3,
+   "tr": "kıskançlık",
+   "emoji": "😒",
+   "nl": "de jaloezie",
+   "fr": "la jalousie",
+   "category": "duygu"
+  },
+  {
+   "id": "w3-20",
+   "level": 3,
+   "tr": "huzur",
+   "emoji": "🍃",
+   "nl": "de rust",
+   "fr": "la paix intérieure",
+   "category": "duygu"
+  },
+  {
+   "id": "w3-21",
+   "level": 3,
+   "tr": "deney",
+   "emoji": "🧪",
+   "nl": "het experiment",
+   "fr": "l'expérience",
+   "category": "bilim"
+  },
+  {
+   "id": "w3-22",
+   "level": 3,
+   "tr": "gezegen",
+   "emoji": "🌌",
+   "nl": "de planeet",
+   "fr": "la planète",
+   "category": "bilim"
+  },
+  {
+   "id": "w3-23",
+   "level": 3,
+   "tr": "iklim",
+   "emoji": "🌍",
+   "nl": "het klimaat",
+   "fr": "le climat",
+   "category": "bilim"
+  },
+  {
+   "id": "w3-24",
+   "level": 3,
+   "tr": "enerji",
+   "emoji": "⚡",
+   "nl": "de energie",
+   "fr": "l'énergie",
+   "category": "bilim"
+  },
+  {
+   "id": "w3-25",
+   "level": 3,
+   "tr": "mıknatıs",
+   "emoji": "🧲",
+   "nl": "de magneet",
+   "fr": "l'aimant",
+   "category": "bilim"
+  },
+  {
+   "id": "w3-26",
+   "level": 3,
+   "tr": "kesir",
+   "emoji": "➗",
+   "nl": "de breuk",
+   "fr": "la fraction",
+   "category": "matematik"
+  },
+  {
+   "id": "w3-27",
+   "level": 3,
+   "tr": "toplama",
+   "emoji": "➕",
+   "nl": "de optelling",
+   "fr": "l'addition",
+   "category": "matematik"
+  },
+  {
+   "id": "w3-28",
+   "level": 3,
+   "tr": "çarpma",
+   "emoji": "✖️",
+   "nl": "de vermenigvuldiging",
+   "fr": "la multiplication",
+   "category": "matematik"
+  },
+  {
+   "id": "w3-29",
+   "level": 3,
+   "tr": "problem",
+   "emoji": "🧩",
+   "nl": "het vraagstuk",
+   "fr": "le problème",
+   "category": "matematik"
+  },
+  {
+   "id": "w3-30",
+   "level": 3,
+   "tr": "cevap",
+   "emoji": "✅",
+   "nl": "het antwoord",
+   "fr": "la réponse",
+   "category": "okul"
+  },
+  {
+   "id": "w3-31",
+   "level": 3,
+   "tr": "soru",
+   "emoji": "❓",
+   "nl": "de vraag",
+   "fr": "la question",
+   "category": "okul"
+  },
+  {
+   "id": "w3-32",
+   "level": 3,
+   "tr": "sınav",
+   "emoji": "📝",
+   "nl": "de toets / het examen",
+   "fr": "l'examen",
+   "category": "okul"
+  },
+  {
+   "id": "w3-33",
+   "level": 3,
+   "tr": "karne",
+   "emoji": "📄",
+   "nl": "het rapport",
+   "fr": "le bulletin",
+   "category": "okul"
+  },
+  {
+   "id": "w3-34",
+   "level": 3,
+   "tr": "tatil",
+   "emoji": "🏝️",
+   "nl": "de vakantie",
+   "fr": "les vacances",
+   "category": "okul"
+  },
+  {
+   "id": "w3-35",
+   "level": 3,
+   "tr": "kütüphane",
+   "emoji": "📚",
+   "nl": "de bibliotheek",
+   "fr": "la bibliothèque",
+   "category": "şehir"
+  },
+  {
+   "id": "w3-36",
+   "level": 3,
+   "tr": "belediye",
+   "emoji": "🏛️",
+   "nl": "het gemeentehuis",
+   "fr": "la maison communale",
+   "category": "şehir"
+  },
+  {
+   "id": "w3-37",
+   "level": 3,
+   "tr": "eczane",
+   "emoji": "💊",
+   "nl": "de apotheek",
+   "fr": "la pharmacie",
+   "category": "şehir"
+  },
+  {
+   "id": "w3-38",
+   "level": 3,
+   "tr": "hastane",
+   "emoji": "🏥",
+   "nl": "het ziekenhuis",
+   "fr": "l'hôpital",
+   "category": "şehir"
+  },
+  {
+   "id": "w3-39",
+   "level": 3,
+   "tr": "istasyon",
+   "emoji": "🚉",
+   "nl": "het station",
+   "fr": "la gare",
+   "category": "şehir"
+  },
+  {
+   "id": "w3-40",
+   "level": 3,
+   "tr": "pazar yeri",
+   "emoji": "🧺",
+   "nl": "de markt",
+   "fr": "le marché",
+   "category": "şehir"
+  },
+  {
+   "id": "w3-41",
+   "level": 3,
+   "tr": "karar vermek",
+   "emoji": "🤔",
+   "nl": "beslissen",
+   "fr": "décider",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-42",
+   "level": 3,
+   "tr": "anlatmak",
+   "emoji": "🗣️",
+   "nl": "vertellen",
+   "fr": "raconter",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-43",
+   "level": 3,
+   "tr": "dinlemek",
+   "emoji": "👂",
+   "nl": "luisteren",
+   "fr": "écouter",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-44",
+   "level": 3,
+   "tr": "paylaşmak",
+   "emoji": "🍰",
+   "nl": "delen",
+   "fr": "partager",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-45",
+   "level": 3,
+   "tr": "denemek",
+   "emoji": "🔁",
+   "nl": "proberen",
+   "fr": "essayer",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-46",
+   "level": 3,
+   "tr": "başarmak",
+   "emoji": "🏆",
+   "nl": "slagen",
+   "fr": "réussir",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-47",
+   "level": 3,
+   "tr": "hatırlamak",
+   "emoji": "🧠",
+   "nl": "zich herinneren",
+   "fr": "se souvenir",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-48",
+   "level": 3,
+   "tr": "korumak",
+   "emoji": "🛡️",
+   "nl": "beschermen",
+   "fr": "protéger",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-49",
+   "level": 3,
+   "tr": "tasarruf etmek",
+   "emoji": "🐷",
+   "nl": "sparen",
+   "fr": "économiser",
+   "category": "fiil"
+  },
+  {
+   "id": "w3-50",
+   "level": 3,
+   "tr": "düşünceli",
+   "emoji": "💗",
+   "nl": "attent",
+   "fr": "attentionné",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-51",
+   "level": 3,
+   "tr": "dürüst",
+   "emoji": "🤞",
+   "nl": "eerlijk",
+   "fr": "honnête",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-52",
+   "level": 3,
+   "tr": "yaratıcı",
+   "emoji": "🎨",
+   "nl": "creatief",
+   "fr": "créatif",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-53",
+   "level": 3,
+   "tr": "çalışkan",
+   "emoji": "🐝",
+   "nl": "ijverig",
+   "fr": "travailleur",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-54",
+   "level": 3,
+   "tr": "kararlı",
+   "emoji": "💪",
+   "nl": "vastberaden",
+   "fr": "déterminé",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-55",
+   "level": 3,
+   "tr": "meraklı",
+   "emoji": "🔭",
+   "nl": "nieuwsgierig",
+   "fr": "curieux",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-56",
+   "level": 3,
+   "tr": "şefkatli",
+   "emoji": "🤗",
+   "nl": "zorgzaam",
+   "fr": "bienveillant",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-57",
+   "level": 3,
+   "tr": "gerçekçi",
+   "emoji": "📏",
+   "nl": "realistisch",
+   "fr": "réaliste",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-58",
+   "level": 3,
+   "tr": "kısa süreli",
+   "emoji": "⏱️",
+   "nl": "kortstondig",
+   "fr": "de courte durée",
+   "category": "sıfat"
+  },
+  {
+   "id": "w3-59",
+   "level": 3,
+   "tr": "ortak",
+   "emoji": "🔗",
+   "nl": "gemeenschappelijk",
+   "fr": "commun",
+   "category": "sıfat"
+  }
+ ],
+ "idioms": [
+  {
+   "id": "i01",
+   "tr": "Ağzı kulaklarına varmak",
+   "meaning": "Çok sevinmek",
+   "example": "Karnesini görünce ağzı kulaklarına vardı."
+  },
+  {
+   "id": "i02",
+   "tr": "Etekleri zil çalmak",
+   "meaning": "Çok sevinçli olmak",
+   "example": "Tatil başlayınca etekleri zil çalıyordu."
+  },
+  {
+   "id": "i03",
+   "tr": "Kulak vermek",
+   "meaning": "Dikkatle dinlemek",
+   "example": "Öğretmenine kulak verdi ve soruyu çözdü."
+  },
+  {
+   "id": "i04",
+   "tr": "Göz kulak olmak",
+   "meaning": "Korumak, ilgilenmek",
+   "example": "Abla, küçük kardeşine göz kulak oldu."
+  },
+  {
+   "id": "i05",
+   "tr": "Burnu havada",
+   "meaning": "Kendini beğenmiş",
+   "example": "Yeni bisikletiyle burnu havada dolaşıyordu."
+  },
+  {
+   "id": "i06",
+   "tr": "Eli açık",
+   "meaning": "Cömert",
+   "example": "Dedem çok eli açıktır, herkese ikram eder."
+  },
+  {
+   "id": "i07",
+   "tr": "Ayağını yorganına göre uzatmak",
+   "meaning": "Harcamayı gelire göre yapmak",
+   "example": "Harçlığını biriktirdi; ayağını yorganına göre uzattı."
+  },
+  {
+   "id": "i08",
+   "tr": "Damlaya damlaya göl olur",
+   "meaning": "Küçük birikimler büyür",
+   "example": "Her hafta 1 € koydu; damlaya damlaya göl oldu."
+  },
+  {
+   "id": "i09",
+   "tr": "Taşı gediğine koymak",
+   "meaning": "Yerinde ve doğru söz söylemek",
+   "example": "Toplantıda taşı gediğine koydu."
+  },
+  {
+   "id": "i10",
+   "tr": "Dili tutulmak",
+   "meaning": "Şaşkınlıktan konuşamamak",
+   "example": "Sürprizi görünce dili tutuldu."
+  },
+  {
+   "id": "i11",
+   "tr": "Gözden düşmek",
+   "meaning": "Değerini kaybetmek",
+   "example": "Yalan söyleyince gözden düştü."
+  },
+  {
+   "id": "i12",
+   "tr": "Kafa yormak",
+   "meaning": "Çok düşünmek",
+   "example": "Bulmacaya saatlerce kafa yordu."
+  },
+  {
+   "id": "i13",
+   "tr": "Ateş pahası",
+   "meaning": "Çok pahalı",
+   "example": "Bu ayakkabı ateş pahası!"
+  },
+  {
+   "id": "i14",
+   "tr": "İki dirhem bir çekirdek",
+   "meaning": "Çok şık giyinmiş",
+   "example": "Bayram sabahı iki dirhem bir çekirdekti."
+  },
+  {
+   "id": "i15",
+   "tr": "Pire için yorgan yakmak",
+   "meaning": "Küçük bir sorun için büyük zarara girmek",
+   "example": "Küçük bir kavga için arkadaşlığı bozma; pire için yorgan yakma."
+  },
+  {
+   "id": "i16",
+   "tr": "Sabreden derviş muradına ermiş",
+   "meaning": "Sabırlı olan isteğine kavuşur",
+   "example": "Fidanı her gün suladı; sabreden derviş muradına ermiş."
+  },
+  {
+   "id": "i17",
+   "tr": "Bir elin nesi var, iki elin sesi var",
+   "meaning": "Birlikte çalışmak güçlüdür",
+   "example": "Odayı birlikte toplayınca çabuk bitti: bir elin nesi var, iki elin sesi var."
+  },
+  {
+   "id": "i18",
+   "tr": "Ağaç yaşken eğilir",
+   "meaning": "Alışkanlık küçükken kazanılır",
+   "example": "Diş fırçalamayı küçükken öğret; ağaç yaşken eğilir."
+  },
+  {
+   "id": "i19",
+   "tr": "Komşu komşunun külüne muhtaçtır",
+   "meaning": "İnsanlar birbirine ihtiyaç duyar",
+   "example": "Komşumuz anahtarımızı sakladı; komşu komşunun külüne muhtaçtır."
+  },
+  {
+   "id": "i20",
+   "tr": "Tatlı dil yılanı deliğinden çıkarır",
+   "meaning": "Güzel söz her kapıyı açar",
+   "example": "Kibarca isteyince kardeşi hemen yardım etti."
+  },
+  {
+   "id": "i21",
+   "tr": "Ayıkla pirincin taşını",
+   "meaning": "İşin içinden çıkmak zor",
+   "example": "Dolap karman çorman; ayıkla pirincin taşını!"
+  },
+  {
+   "id": "i22",
+   "tr": "Dereyi görmeden paçaları sıvamak",
+   "meaning": "Vakit gelmeden hazırlanmak",
+   "example": "Daha bilet almadan bavulu hazırladı; dereyi görmeden paçaları sıvadı."
+  },
+  {
+   "id": "i23",
+   "tr": "Etle tırnak gibi",
+   "meaning": "Çok yakın",
+   "example": "İki kardeş etle tırnak gibidir."
+  },
+  {
+   "id": "i24",
+   "tr": "Gözü arkada kalmak",
+   "meaning": "Bıraktığı şeyi düşünmek",
+   "example": "Oyuncağını parkta unuttu, gözü arkada kaldı."
+  },
+  {
+   "id": "i25",
+   "tr": "İğneyle kuyu kazmak",
+   "meaning": "Çok sabır isteyen iş yapmak",
+   "example": "Bu yapbozu bitirmek iğneyle kuyu kazmak gibi."
+  },
+  {
+   "id": "i26",
+   "tr": "Kulağına küpe olmak",
+   "meaning": "Bir dersi unutmamak",
+   "example": "Yanan ocağa dokunmak kulağına küpe oldu."
+  },
+  {
+   "id": "i27",
+   "tr": "Lafı ağzında gevelemek",
+   "meaning": "Açık konuşmamak",
+   "example": "Lafı ağzında geveleme, ne istediğini söyle."
+  },
+  {
+   "id": "i28",
+   "tr": "Nabzına göre şerbet vermek",
+   "meaning": "Herkesi memnun edecek şekilde konuşmak",
+   "example": "Herkese nabzına göre şerbet verdi."
+  },
+  {
+   "id": "i29",
+   "tr": "Su gibi okumak",
+   "meaning": "Takılmadan okumak",
+   "example": "Türkçe kitabını su gibi okudu."
+  },
+  {
+   "id": "i30",
+   "tr": "Yüreği ağzına gelmek",
+   "meaning": "Çok korkmak",
+   "example": "Gök gürleyince yüreği ağzına geldi."
+  }
+ ],
+ "reading": [
+  {
+   "id": "r1",
+   "level": 1,
+   "title": "Kedi Pamuk",
+   "text": "Pamuk beyaz bir kedidir. Süt içmeyi sever. Güneşte uyur. Akşam olunca Ela ile oynar.",
+   "questions": [
+    "Pamuk ne renk?",
+    "Pamuk ne içmeyi sever?",
+    "Akşam kiminle oynar?"
+   ]
+  },
+  {
+   "id": "r2",
+   "level": 1,
+   "title": "Yağmur",
+   "text": "Bugün yağmur yağıyor. Deniz sarı çizmelerini giydi. Su birikintisine zıpladı. Annesi güldü.",
+   "questions": [
+    "Hava nasıl?",
+    "Deniz ne giydi?",
+    "Annesi ne yaptı?"
+   ]
+  },
+  {
+   "id": "r3",
+   "level": 1,
+   "title": "Pazar kahvaltısı",
+   "text": "Pazar sabahı herkes masada. Babam yumurta pişirdi. Ninem çay koydu. Ben zeytin ve peynir yedim.",
+   "questions": [
+    "Kahvaltı hangi gün?",
+    "Yumurtayı kim pişirdi?",
+    "Sen ne yedin?"
+   ]
+  },
+  {
+   "id": "r4",
+   "level": 2,
+   "title": "Kütüphanede",
+   "text": "Ada her çarşamba kütüphaneye gider. Bu hafta dinozorlar hakkında bir kitap aldı. Kitapta en büyük dinozorun bir otobüs kadar uzun olduğunu okudu. Eve gelince kardeşine anlattı.",
+   "questions": [
+    "Ada kütüphaneye hangi gün gider?",
+    "Kitap ne hakkında?",
+    "Okuduğunu kime anlattı?"
+   ]
+  },
+  {
+   "id": "r5",
+   "level": 2,
+   "title": "Bayram sabahı",
+   "text": "Bayram sabahı erkenden kalktık. Yeni kıyafetlerimizi giydik. Dedemin elini öptük, o da bize şeker verdi. Sonra komşulara bayramlaşmaya gittik.",
+   "questions": [
+    "Bayram sabahı ne giydiler?",
+    "Dede ne verdi?",
+    "Sonra nereye gittiler?"
+   ]
+  },
+  {
+   "id": "r6",
+   "level": 2,
+   "title": "Trende",
+   "text": "Ailecek trenle Gent'e gittik. Biletimiz yoktu, çünkü küçük çocuklar bedava. Pencereden inekleri ve rüzgâr değirmenlerini saydım. Tam on iki inek gördüm!",
+   "questions": [
+    "Nereye gittiler?",
+    "Neden çocukların bileti yoktu?",
+    "Kaç inek saydı?"
+   ]
+  },
+  {
+   "id": "r7",
+   "level": 2,
+   "title": "Kumbara",
+   "text": "Emir yeni bir top almak istiyor. Top 15 avro. Emir her hafta harçlığından 3 avro biriktiriyor. Annesi 'Kaç hafta sonra alabilirsin?' diye sordu.",
+   "questions": [
+    "Top kaç avro?",
+    "Emir haftada kaç avro biriktiriyor?",
+    "Topu kaç hafta sonra alabilir?"
+   ]
+  },
+  {
+   "id": "r8",
+   "level": 3,
+   "title": "İki dil, bir kalp",
+   "text": "Selin okulda Hollandaca, evde Türkçe konuşuyor. Bazen iki dili karıştırdığında arkadaşları gülüyor. Öğretmeni ona, iki dil bilmenin beyni bir sporcu gibi çalıştırdığını söyledi. Selin artık bununla gurur duyuyor ve küçük kardeşine Türkçe masallar okuyor.",
+   "questions": [
+    "Selin hangi dilleri konuşuyor?",
+    "Öğretmeni iki dil bilmeyi neye benzetti?",
+    "Selin şimdi ne yapıyor?"
+   ]
+  },
+  {
+   "id": "r9",
+   "level": 3,
+   "title": "Nasreddin Hoca ve kazan",
+   "text": "Nasreddin Hoca komşusundan bir kazan ödünç alır. Geri verirken içine küçük bir tencere koyar ve 'Kazanınız doğurdu' der. Komşu sevinir. Bir süre sonra Hoca yine kazanı alır ama geri getirmez. Komşu sorunca 'Kazanınız öldü' der. Komşu 'Kazan ölür mü?' diye şaşırınca Hoca güler: 'Doğurduğuna inandın da öldüğüne neden inanmıyorsun?'",
+   "questions": [
+    "Hoca ilk seferde kazanın içine ne koydu?",
+    "Komşu neden şaşırdı?",
+    "Bu fıkra bize ne anlatıyor?"
+   ]
+  },
+  {
+   "id": "r10",
+   "level": 3,
+   "title": "Atık sorumluluğu",
+   "text": "Belçika'da çöpler renkli torbalara ayrılır. Plastik, metal ve içecek kartonları mavi torbaya (PMD) gider. Kâğıt ve karton ayrı toplanır. Cam şişeler cam konteynerine atılır. Defne her pazar ailesine hangi torbanın ne zaman çıkacağını hatırlatıyor.",
+   "questions": [
+    "PMD torbasına neler girer?",
+    "Cam şişeler nereye atılır?",
+    "Defne ne yapıyor?"
+   ]
+  }
+ ],
+ "situations": [
+  {
+   "id": "school",
+   "emoji": "🏫",
+   "label": "Okulda"
+  },
+  {
+   "id": "doctor",
+   "emoji": "🩺",
+   "label": "Doktorda"
+  },
+  {
+   "id": "pharmacy",
+   "emoji": "💊",
+   "label": "Eczanede"
+  },
+  {
+   "id": "municipality",
+   "emoji": "🏛️",
+   "label": "Belediyede"
+  },
+  {
+   "id": "emergency",
+   "emoji": "🚨",
+   "label": "Acil durumda"
+  },
+  {
+   "id": "shop",
+   "emoji": "🛒",
+   "label": "Alışverişte"
+  },
+  {
+   "id": "transport",
+   "emoji": "🚆",
+   "label": "Ulaşımda"
+  },
+  {
+   "id": "neighbour",
+   "emoji": "🏘️",
+   "label": "Komşuyla"
+  }
+ ],
+ "phrases": [
+  {
+   "id": "p01",
+   "situation": "school",
+   "tr": "Çocuğum bugün hasta, okula gelemeyecek.",
+   "nl": "Mijn kind is vandaag ziek en kan niet naar school komen.",
+   "fr": "Mon enfant est malade aujourd'hui et ne pourra pas venir à l'école."
+  },
+  {
+   "id": "p02",
+   "situation": "school",
+   "tr": "Öğretmenle görüşmek istiyorum.",
+   "nl": "Ik wil graag met de leerkracht spreken.",
+   "fr": "Je voudrais parler avec l'enseignant."
+  },
+  {
+   "id": "p03",
+   "situation": "school",
+   "tr": "Çocuğumu bugün saat 3'te erken alacağım.",
+   "nl": "Ik haal mijn kind vandaag om 15 uur vroeger op.",
+   "fr": "Je viendrai chercher mon enfant plus tôt aujourd'hui, à 15 heures."
+  },
+  {
+   "id": "p04",
+   "situation": "school",
+   "tr": "Çocuğumun fıstık alerjisi var.",
+   "nl": "Mijn kind is allergisch voor pinda's.",
+   "fr": "Mon enfant est allergique aux arachides."
+  },
+  {
+   "id": "p05",
+   "situation": "school",
+   "tr": "Ödev konusunda yardıma ihtiyacı var.",
+   "nl": "Hij/zij heeft hulp nodig bij het huiswerk.",
+   "fr": "Il/elle a besoin d'aide pour les devoirs."
+  },
+  {
+   "id": "p06",
+   "situation": "school",
+   "tr": "Okul gezisinin ücretini taksitle ödeyebilir miyim?",
+   "nl": "Kan ik de schooluitstap in schijven betalen?",
+   "fr": "Puis-je payer l'excursion scolaire en plusieurs fois?"
+  },
+  {
+   "id": "p07",
+   "situation": "school",
+   "tr": "Veli toplantısı ne zaman?",
+   "nl": "Wanneer is het oudercontact?",
+   "fr": "Quand a lieu la réunion des parents?"
+  },
+  {
+   "id": "p08",
+   "situation": "doctor",
+   "tr": "Randevu almak istiyorum.",
+   "nl": "Ik wil graag een afspraak maken.",
+   "fr": "Je voudrais prendre un rendez-vous."
+  },
+  {
+   "id": "p09",
+   "situation": "doctor",
+   "tr": "Çocuğumun ateşi var, 39 derece.",
+   "nl": "Mijn kind heeft koorts, 39 graden.",
+   "fr": "Mon enfant a de la fièvre, 39 degrés."
+  },
+  {
+   "id": "p10",
+   "situation": "doctor",
+   "tr": "İki gündür öksürüyor.",
+   "nl": "Hij/zij hoest al twee dagen.",
+   "fr": "Il/elle tousse depuis deux jours."
+  },
+  {
+   "id": "p11",
+   "situation": "doctor",
+   "tr": "Karnı ağrıyor ve kusuyor.",
+   "nl": "Hij/zij heeft buikpijn en moet overgeven.",
+   "fr": "Il/elle a mal au ventre et vomit."
+  },
+  {
+   "id": "p12",
+   "situation": "doctor",
+   "tr": "Bu ilacı nasıl kullanmalıyım?",
+   "nl": "Hoe moet ik dit geneesmiddel gebruiken?",
+   "fr": "Comment dois-je utiliser ce médicament?"
+  },
+  {
+   "id": "p13",
+   "situation": "doctor",
+   "tr": "Okul için doktor raporu gerekiyor.",
+   "nl": "Ik heb een doktersattest nodig voor school.",
+   "fr": "J'ai besoin d'un certificat médical pour l'école."
+  },
+  {
+   "id": "p14",
+   "situation": "doctor",
+   "tr": "Aşı kartını getirdim.",
+   "nl": "Ik heb de vaccinatiekaart meegebracht.",
+   "fr": "J'ai apporté la carte de vaccination."
+  },
+  {
+   "id": "p15",
+   "situation": "pharmacy",
+   "tr": "Çocuklar için ateş düşürücü var mı?",
+   "nl": "Heeft u iets tegen koorts voor kinderen?",
+   "fr": "Avez-vous quelque chose contre la fièvre pour enfants?"
+  },
+  {
+   "id": "p16",
+   "situation": "pharmacy",
+   "tr": "Reçetem var.",
+   "nl": "Ik heb een voorschrift.",
+   "fr": "J'ai une ordonnance."
+  },
+  {
+   "id": "p17",
+   "situation": "pharmacy",
+   "tr": "Kaç yaşından itibaren kullanılabilir?",
+   "nl": "Vanaf welke leeftijd mag dit gebruikt worden?",
+   "fr": "À partir de quel âge peut-on l'utiliser?"
+  },
+  {
+   "id": "p18",
+   "situation": "municipality",
+   "tr": "Kids-ID için başvurmak istiyorum.",
+   "nl": "Ik wil een Kids-ID aanvragen.",
+   "fr": "Je voudrais demander une Kids-ID."
+  },
+  {
+   "id": "p19",
+   "situation": "municipality",
+   "tr": "Adres değişikliği yapmak istiyorum.",
+   "nl": "Ik wil mijn adreswijziging doorgeven.",
+   "fr": "Je voudrais déclarer mon changement d'adresse."
+  },
+  {
+   "id": "p20",
+   "situation": "municipality",
+   "tr": "Bu formu doldurmama yardım eder misiniz?",
+   "nl": "Kunt u mij helpen dit formulier in te vullen?",
+   "fr": "Pouvez-vous m'aider à remplir ce formulaire?"
+  },
+  {
+   "id": "p21",
+   "situation": "municipality",
+   "tr": "Hangi belgeler gerekiyor?",
+   "nl": "Welke documenten zijn nodig?",
+   "fr": "Quels documents faut-il?"
+  },
+  {
+   "id": "p22",
+   "situation": "emergency",
+   "tr": "Yardım edin! Ambulans lazım.",
+   "nl": "Help! We hebben een ambulance nodig.",
+   "fr": "Au secours ! Il nous faut une ambulance."
+  },
+  {
+   "id": "p23",
+   "situation": "emergency",
+   "tr": "Çocuğum bir şey yuttu.",
+   "nl": "Mijn kind heeft iets ingeslikt.",
+   "fr": "Mon enfant a avalé quelque chose."
+  },
+  {
+   "id": "p24",
+   "situation": "emergency",
+   "tr": "Nefes alamıyor.",
+   "nl": "Hij/zij kan niet ademen.",
+   "fr": "Il/elle n'arrive pas à respirer."
+  },
+  {
+   "id": "p25",
+   "situation": "emergency",
+   "tr": "Adresimiz şu: …",
+   "nl": "Ons adres is: …",
+   "fr": "Notre adresse est : …"
+  },
+  {
+   "id": "p26",
+   "situation": "emergency",
+   "tr": "Çocuğum kayboldu.",
+   "nl": "Mijn kind is verdwenen.",
+   "fr": "Mon enfant a disparu."
+  },
+  {
+   "id": "p27",
+   "situation": "shop",
+   "tr": "Bu ne kadar?",
+   "nl": "Hoeveel kost dit?",
+   "fr": "Combien ça coûte ?"
+  },
+  {
+   "id": "p28",
+   "situation": "shop",
+   "tr": "Kartla ödeyebilir miyim?",
+   "nl": "Kan ik met de kaart betalen?",
+   "fr": "Puis-je payer par carte ?"
+  },
+  {
+   "id": "p29",
+   "situation": "shop",
+   "tr": "Poşet istemiyorum, teşekkürler.",
+   "nl": "Geen zakje, dank u.",
+   "fr": "Pas de sac, merci."
+  },
+  {
+   "id": "p30",
+   "situation": "shop",
+   "tr": "Helal ürün var mı?",
+   "nl": "Heeft u halal producten?",
+   "fr": "Avez-vous des produits halal ?"
+  },
+  {
+   "id": "p31",
+   "situation": "transport",
+   "tr": "Gent'e bir bilet lütfen.",
+   "nl": "Een ticket naar Gent, alstublieft.",
+   "fr": "Un billet pour Gand, s'il vous plaît."
+  },
+  {
+   "id": "p32",
+   "situation": "transport",
+   "tr": "Bu otobüs istasyona gidiyor mu?",
+   "nl": "Gaat deze bus naar het station?",
+   "fr": "Ce bus va-t-il à la gare ?"
+  },
+  {
+   "id": "p33",
+   "situation": "transport",
+   "tr": "Çocuklar ücretsiz mi?",
+   "nl": "Reizen kinderen gratis?",
+   "fr": "Les enfants voyagent-ils gratuitement ?"
+  },
+  {
+   "id": "p34",
+   "situation": "neighbour",
+   "tr": "Paketimi alabilir misiniz?",
+   "nl": "Kunt u mijn pakje aannemen?",
+   "fr": "Pouvez-vous réceptionner mon colis ?"
+  },
+  {
+   "id": "p35",
+   "situation": "neighbour",
+   "tr": "Cumartesi doğum günü partisi var, biraz gürültü olabilir.",
+   "nl": "Zaterdag is er een verjaardagsfeestje, het kan wat lawaaierig zijn.",
+   "fr": "Samedi il y a un anniversaire, il y aura peut-être un peu de bruit."
+  },
+  {
+   "id": "p36",
+   "situation": "neighbour",
+   "tr": "Hoş geldiniz, ben yeni komşunuzum.",
+   "nl": "Welkom, ik ben uw nieuwe buur.",
+   "fr": "Bienvenue, je suis votre nouveau voisin."
+  }
+ ],
+ "culture": [
+  {
+   "id": "k01",
+   "kind": "bayram",
+   "emoji": "🍬",
+   "title": "Ramazan Bayramı (Şeker Bayramı)",
+   "text": "Ramazan ayının bitişini kutlayan üç günlük bayram. Büyüklerin eli öpülür, çocuklara şeker ve harçlık verilir, akraba ve komşular ziyaret edilir.",
+   "idea": "Çocuğunuzla bayram kartı hazırlayıp komşulara şeker götürün."
+  },
+  {
+   "id": "k02",
+   "kind": "bayram",
+   "emoji": "🐑",
+   "title": "Kurban Bayramı",
+   "text": "Paylaşmanın bayramı. Kurban eti ihtiyaç sahipleriyle, komşularla ve akrabalarla paylaşılır.",
+   "idea": "Çocuğa paylaşmayı anlatın: bu bayramda bir oyuncağını ihtiyacı olan biriyle paylaşabilir."
+  },
+  {
+   "id": "k03",
+   "kind": "bayram",
+   "emoji": "🇹🇷",
+   "title": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "text": "Dünyanın çocuklara armağan edilen ilk bayramı. Türkiye'de çocuklar şiir okur, gösteriler yapar.",
+   "idea": "Evde bir 'çocuk meclisi' kurun: o gün aile kararlarını çocuklar versin."
+  },
+  {
+   "id": "k04",
+   "kind": "bayram",
+   "emoji": "🌷",
+   "title": "Nevruz / Hıdrellez",
+   "text": "Baharın gelişini kutlayan eski gelenekler. Hıdrellez'de (5–6 Mayıs) dilekler gül ağacına asılır.",
+   "idea": "Bir kâğıda dilek yazıp bitkinin dalına asın."
+  },
+  {
+   "id": "k05",
+   "kind": "bayram",
+   "emoji": "🎆",
+   "title": "Yılbaşı ve Belçika bayramları",
+   "text": "Belçika'da Sinterklaas (6 Aralık) çocuklar için büyük bir gündür; 21 Temmuz Belçika Ulusal Günü'dür.",
+   "idea": "İki kültürün bayramlarını aile takvimine ekleyin."
+  },
+  {
+   "id": "k06",
+   "kind": "gelenek",
+   "emoji": "☕",
+   "title": "Türk kahvesi ve misafirlik",
+   "text": "'Bir fincan kahvenin kırk yıl hatırı vardır.' Misafire önce su, sonra kahve ya da çay ikram edilir.",
+   "idea": "Çocuk misafire su ikram etsin."
+  },
+  {
+   "id": "k07",
+   "kind": "gelenek",
+   "emoji": "🤲",
+   "title": "El öpmek",
+   "text": "Büyüklere saygının işareti. Bayramlarda ve ziyaretlerde büyüklerin eli öpülüp başa konur.",
+   "idea": "Çocuğa nedenini anlatın: saygı ve sevgi."
+  },
+  {
+   "id": "k08",
+   "kind": "gelenek",
+   "emoji": "🧿",
+   "title": "Nazar boncuğu",
+   "text": "Kötü bakışlardan koruduğuna inanılan mavi boncuk. Cam ustalığının güzel bir örneğidir.",
+   "idea": "Birlikte boncuk ya da kâğıttan nazarlık yapın."
+  },
+  {
+   "id": "k09",
+   "kind": "gelenek",
+   "emoji": "🍮",
+   "title": "Aşure",
+   "text": "Herkesin katkısıyla pişip komşulara dağıtılan tatlı; paylaşmanın simgesi.",
+   "idea": "Aşureyi birlikte yapıp Belçikalı komşularınıza da götürün."
+  },
+  {
+   "id": "k10",
+   "kind": "gelenek",
+   "emoji": "👶",
+   "title": "Kırk çıkarma ve diş buğdayı",
+   "text": "Bebek doğduktan 40 gün sonra ve ilk dişi çıkınca yapılan aile kutlamaları.",
+   "idea": "Hatıralar'a 'ilk diş' anısı ekleyin."
+  },
+  {
+   "id": "k11",
+   "kind": "masal",
+   "emoji": "🦊",
+   "title": "Keloğlan",
+   "text": "Zekâsı ve iyi kalbiyle zorlukları aşan halk kahramanı.",
+   "idea": "Akşam masalında Keloğlan'ın bir zorluğu nasıl aştığını birlikte uydurun."
+  },
+  {
+   "id": "k12",
+   "kind": "masal",
+   "emoji": "🐢",
+   "title": "Nasreddin Hoca",
+   "text": "Fıkralarıyla güldürürken düşündüren halk bilgesi. Mezarı Akşehir'dedir.",
+   "idea": "Haftada bir Hoca fıkrası anlatıp 'Bu fıkra ne öğretiyor?' diye sorun."
+  },
+  {
+   "id": "k13",
+   "kind": "masal",
+   "emoji": "🎭",
+   "title": "Karagöz ve Hacivat",
+   "text": "Gölge oyununun iki ünlü karakteri. Karagöz saf ve dobra, Hacivat bilgiç ve kibardır.",
+   "idea": "Bir kutu, bir lamba ve kartondan gölge tiyatrosu yapın."
+  },
+  {
+   "id": "k14",
+   "kind": "masal",
+   "emoji": "🦅",
+   "title": "Dede Korkut",
+   "text": "Oğuzların destan ve hikâyeleri; cesaret, dostluk ve aile bağları anlatılır.",
+   "idea": "Gençlerle bir Dede Korkut hikâyesi okuyun."
+  },
+  {
+   "id": "k15",
+   "kind": "masal",
+   "emoji": "📜",
+   "title": "Yunus Emre",
+   "text": "'Gelin tanış olalım, işi kolay kılalım' diyen sevgi şairi.",
+   "idea": "Bir dörtlüğünü birlikte ezberleyin."
+  },
+  {
+   "id": "k16",
+   "kind": "oyun",
+   "emoji": "🙈",
+   "title": "Saklambaç",
+   "text": "Ebe gözlerini kapatıp sayar, diğerleri saklanır. 'Önüm arkam sağım solum sobe!'",
+   "idea": "Bahçede ya da parkta oynayın."
+  },
+  {
+   "id": "k17",
+   "kind": "oyun",
+   "emoji": "🧣",
+   "title": "Mendil kapmaca",
+   "text": "İki takım, ortada mendil. Numarası söylenen koşup mendili kapar.",
+   "idea": "Doğum günü partisinde oynayın."
+  },
+  {
+   "id": "k18",
+   "kind": "oyun",
+   "emoji": "🐍",
+   "title": "Yılan",
+   "text": "El ele tutuşan çocuklar bir yılan olur, baştaki kuyruktakini yakalamaya çalışır.",
+   "idea": "5 kişi ve üstü için."
+  },
+  {
+   "id": "k19",
+   "kind": "oyun",
+   "emoji": "⚪",
+   "title": "Bilye (misket)",
+   "text": "Yere çizilen dairede bilyeyle hedefe atış.",
+   "idea": "Halıda kalemle yapılmış dairede de oynanabilir."
+  },
+  {
+   "id": "k20",
+   "kind": "oyun",
+   "emoji": "🦶",
+   "title": "Seksek",
+   "text": "Yere çizilen karelerde tek ayakla zıplama.",
+   "idea": "Tebeşirle kaldırıma çizin."
+  },
+  {
+   "id": "k21",
+   "kind": "oyun",
+   "emoji": "🧺",
+   "title": "Yakan top",
+   "text": "İki takım; topla vurulan oyundan çıkar.",
+   "idea": "Okul arkadaşlarıyla Belçika versiyonu 'trefbal' ile karşılaştırın."
+  },
+  {
+   "id": "k22",
+   "kind": "oyun",
+   "emoji": "👐",
+   "title": "Ebe sobe / Elim sende",
+   "text": "Kovalamaca. Ebe birine dokununca 'elim sende' der.",
+   "idea": "Tatil günü sabah enerjisi için."
+  },
+  {
+   "id": "k23",
+   "kind": "müzik",
+   "emoji": "🎵",
+   "title": "Ninni: 'Dandini dandini dastana'",
+   "text": "Kuşaktan kuşağa aktarılan ünlü ninni.",
+   "idea": "Bebeğe ninni söylerken dedelerden kayıt alın; Hatıralar'a ekleyin."
+  },
+  {
+   "id": "k24",
+   "kind": "müzik",
+   "emoji": "🎶",
+   "title": "Çocuk şarkısı: 'Bak postacı geliyor'",
+   "text": "Okul öncesinde sevilen bir şarkı.",
+   "idea": "Şarkıyla günleri sayın."
+  },
+  {
+   "id": "k25",
+   "kind": "yemek",
+   "emoji": "🥙",
+   "title": "Gözleme ve pide",
+   "text": "Hamur işi aile yemekleri; birlikte açmak eğlencelidir.",
+   "idea": "Çocukla birlikte hamur açın; tarif: Ev → Tarifler."
+  },
+  {
+   "id": "k26",
+   "kind": "yemek",
+   "emoji": "🍵",
+   "title": "Çay kültürü",
+   "text": "İnce belli bardakta demlik çayı; sohbetin eşlikçisi.",
+   "idea": "Çocuğa 'çocuk çayı' olarak ıhlamur ya da meyve çayı."
+  },
+  {
+   "id": "k27",
+   "kind": "dil",
+   "emoji": "🔤",
+   "title": "Türk alfabesi: 29 harf",
+   "text": "Ç, Ğ, I, İ, Ö, Ş, Ü Hollandaca ve Fransızcada yoktur; ğ (yumuşak g) kelimenin başında olmaz.",
+   "idea": "Her gün bir 'özel harf' ile başlayan kelime bulun."
+  },
+  {
+   "id": "k28",
+   "kind": "dil",
+   "emoji": "🗣️",
+   "title": "Ünlü uyumu",
+   "text": "Türkçede ekler kelimenin son ünlüsüne göre değişir: ev-ler, okul-lar.",
+   "idea": "Oyun: kelime söyleyin, çocuk çoğulunu söylesin."
+  }
+ ]
+}

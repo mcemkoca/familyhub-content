@@ -1,0 +1,37 @@
+name: Publish content
+on:
+  push:
+    branches: [main]
+    paths: ["content/**", "scripts/**", ".github/workflows/publish.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/validate.py
+      - name: Build and sign
+        env:
+          FEED_PRIVATE_KEY: ${{ secrets.FEED_PRIVATE_KEY }}
+          FEED_NOTES: ${{ github.event.head_commit.message }}
+        run: |
+          umask 077
+          printf '%s\n' "$FEED_PRIVATE_KEY" > "$RUNNER_TEMP/key.pem"
+          python3 scripts/build.py $(( ${{ github.run_number }} + 100 )) "$RUNNER_TEMP/key.pem"
+          rm -f "$RUNNER_TEMP/key.pem"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

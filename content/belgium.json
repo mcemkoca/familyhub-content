@@ -1,0 +1,307 @@
+{
+ "checked": "Kasım 2026",
+ "articles": [
+  {
+   "id": "b01",
+   "emoji": "🚨",
+   "title": "Acil durum ve yardım hatları",
+   "region": "all",
+   "summary": "Telefonuna kaydet: hepsi Belçika genelinde.",
+   "bullets": [
+    "112 · ambulans, itfaiye (Avrupa acil numarası)",
+    "101 · polis",
+    "070 245 245 · Zehir Danışma Merkezi (Antigifcentrum / Centre Antipoisons)",
+    "1733 · nöbetçi ev doktoru (gece ve hafta sonu)",
+    "0903 99 000 · nöbetçi eczane (ücretli hat)",
+    "116 000 · Child Focus (kayıp ya da istismar edilen çocuk)",
+    "102 · Awel: çocuk ve gençler için dinleme hattı (Flamanca)",
+    "106 · Tele-Onthaal: yetişkinler için konuşma hattı (Flamanca)",
+    "1813 · İntihar önleme hattı (Zelfmoordlijn)",
+    "1712 · şiddet ve istismar yardım hattı"
+   ],
+   "body": [
+    "Çocuklarınıza 112'yi ve ev adresinizi ezberletin. Uygulamadaki Rehber'e bu numaraları ekleyebilirsiniz."
+   ],
+   "links": [
+    {
+     "label": "vlaanderen.be · Hulpdiensten en infolijnen",
+     "url": "https://www.vlaanderen.be/openbare-hulpdiensten-en-infolijnen"
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "emoji": "🎒",
+   "title": "Zorunlu eğitim ve okula kayıt",
+   "region": "all",
+   "summary": "Belçika'da zorunlu eğitim 5 yaşında başlar, 18 yaşında biter.",
+   "bullets": [
+    "Çocuk 5 yaşına girdiği yılın 1 Eylül'ünden itibaren eğitim zorunludur.",
+    "Flaman toplumunda 5 yaşındaki çocuk bir okul yılında en az 290 yarım gün anaokuluna gitmelidir.",
+    "Zorunluluk 18 yaşında (ya da ortaöğretim diploması alınınca) sona erer.",
+    "Kayıt kuralları ve tarihleri topluluğa ve şehre göre değişir; büyük şehirlerde kayıt dönemleri çok erken açılır."
+   ],
+   "body": [
+    "Anaokuluna (kleuterschool / école maternelle) 2,5 yaşından itibaren başlanabilir. Okul seçerken dil (Flamanca/Fransızca), uzaklık ve okul sonrası bakım (naschoolse opvang / garderie) imkânına bakın."
+   ],
+   "links": [
+    {
+     "label": "vlaanderen.be · Leerplicht van 5 tot 18 jaar",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming/leerplicht/leerplicht-van-5-tot-18-jaar"
+    },
+    {
+     "label": "wallonie.be · Okula kayıt (NL)",
+     "url": "https://wallonie.be/nl/demarches/inschrijven-van-kinderen-het-lager-onderwijs-kleuterschool-basisschool"
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "emoji": "🏖️",
+   "title": "Okul tatilleri 2026-2027",
+   "region": "all",
+   "summary": "Flaman ve Fransız topluluklarının tatilleri farklı! Çocuğunuzun okulunun diline bakın.",
+   "bullets": [],
+   "body": [
+    "Brüksel'de Flamanca okullar Flaman takvimini, Fransızca okullar Fédération Wallonie-Bruxelles takvimini izler. Tatilleri uygulamanın takvimine ekleyebilirsiniz."
+   ],
+   "links": [
+    {
+     "label": "vlaanderen.be · Schoolvakanties",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming/wat-mag-en-moet-op-school/schoolvakanties-vrije-dagen-en-afwezigheden/schoolvakanties"
+    },
+    {
+     "label": "jeminforme.be · Congés scolaires",
+     "url": "https://www.jeminforme.be/conges-scolaires"
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "emoji": "💶",
+   "title": "Çocuk parası (kinderbijslag / allocations familiales)",
+   "region": "all",
+   "summary": "Çocuk parası bölgeye göre ödenir: Flandre, Brüksel ve Valon bölgesi ayrı sistemler.",
+   "bullets": [
+    "Flandre · Groeipakket (1 Eylül 2026'dan itibaren): doğumda tek seferlik başlangıç tutarı 1.310,75 €.",
+    "Flandre · 2019 ve sonrası doğan her çocuk için temel tutar ayda 190,66 €.",
+    "Flandre · yıllık okul bonusu: 0-4 yaş 23,82 €, 5-11 yaş 41,70 €, 12-17 yaş 59,57 €, 18-24 yaş 71,48 €.",
+    "Flandre · çocuk bakımı (kinderopvang) desteği: bakım günü başına 3,78 €.",
+    "Brüksel · Famiris ve özel ödeme kurumları; Valon bölgesi · FAMIWAL ve özel ödeme kurumları üzerinden ödenir. Tutarlar Flandre'den farklıdır."
+   ],
+   "body": [
+    "Taşınırken bölge değiştirirseniz ödeme kurumunuza haber verin. Gelire göre ek ödemeler olabilir; ödeme kurumunuzun sitesinden kontrol edin. Uygulamadaki Bütçe bölümüne çocuk parasını gelir olarak ekleyebilirsiniz."
+   ],
+   "links": [
+    {
+     "label": "vlaanderen.be · Bedragen en betaaldata",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    },
+    {
+     "label": "wallonie.be · Allocations familiales",
+     "url": "https://wallonie.be/fr/demarches/beneficier-dallocations-familiales-en-wallonie"
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "emoji": "🆔",
+   "title": "Kids-ID: çocuklar için kimlik",
+   "region": "all",
+   "summary": "12 yaş altı Belçikalı çocuklar için elektronik kimlik; yurt dışı seyahatte gerekli olabilir.",
+   "bullets": [
+    "Belediyede (gemeente / commune) çocuk ve velayet sahibi ebeveynle başvurulur.",
+    "Hazırlanması yaklaşık 2-3 hafta; seyahatten bir ay önce başvurun. Ücretli acil prosedür vardır.",
+    "3 yıl geçerlidir; 12 yaşını geçse de süresi bitene kadar geçerli kalır.",
+    "Kart üzerindeki “Hallo Ouders” hattı, aktive edilirse 7 kişiyi sırayla arar; kimse açmazsa Child Focus'a bağlanır."
+   ],
+   "body": [
+    "Belçika'da Kids-ID zorunlu değildir, ama pasaport istenmeyen ülkelere seyahatte gerekir. Türk vatandaşı çocuklar için Türkiye'ye seyahatte gerekli belgeleri konsolosluktan kontrol edin."
+   ],
+   "links": [
+    {
+     "label": "vlaanderen.be · Kids-ID",
+     "url": "https://www.vlaanderen.be/kids-id"
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "emoji": "🚆",
+   "title": "Çocuklarla toplu taşıma",
+   "region": "all",
+   "summary": "Trende 12 yaş altı ücretsiz, otobüs ve tramvayda küçükler için indirimler.",
+   "bullets": [
+    "NMBS/SNCB tren: 12 yaş altı çocuklar, geçerli bileti olan en az 12 yaşında bir yolcuyla ücretsiz seyahat eder (en fazla 4 çocuk). Çocuk yaşını gösteren kimlik taşımalıdır.",
+    "De Lijn: 6 yaş altı çocuklar ücretsiz, ancak 12 yaş üstü ücretli bir yolcuyla birlikte olmalı.",
+    "De Lijn Buzzy Pazz (6-11 yaş): yıllık 68 € + 10 € MOBIB kart ücreti; birçok belediye bir kısmını öder.",
+    "Kalabalık aileler için trende ek indirim kartı vardır."
+   ],
+   "body": [
+    "Brüksel (STIB/MIVB) ve Valon bölgesi (TEC) tarifeleri farklıdır; kendi sitelerinden güncel bilgiyi kontrol edin."
+   ],
+   "links": [
+    {
+     "label": "wallonie.be · Moins de 12 ans gratuit en train",
+     "url": "https://www.wallonie.be/fr/demarches/se-deplacer-gratuitement-en-train-pour-les-enfants-ages-de-moins-de-12-ans"
+    },
+    {
+     "label": "De Lijn · Buzzy Pazz 6-11",
+     "url": "https://www.delijn.be/en/content/buzzy-pazz/kind/"
+    },
+    {
+     "label": "NMBS · Kroostrijke gezinnen",
+     "url": "https://www.belgiantrain.be/nl/products/special-conditions/large-families"
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "emoji": "💉",
+   "title": "Aşılar ve çocuk sağlığı takibi",
+   "region": "all",
+   "summary": "Temel aşılar ücretsizdir; 3 yaş altı Kind en Gezin (Flandre) ya da ONE (Brüksel-Valon) danışmalarında yapılır.",
+   "bullets": [
+    "3 yaş altı: Kind en Gezin danışma merkezleri (Flandre) / ONE (Fransızca konuşulan bölgeler).",
+    "Okul çağı: CLB (Flandre) ya da PSE (Fransızca okullar) okul sağlığı hizmeti.",
+    "Aşıların kendisi ilke olarak ücretsizdir; doktorda sadece muayene ücreti ödenebilir.",
+    "Belçika'da yasal olarak zorunlu tek aşı çocuk felcidir (polio); diğerleri güçlü biçimde önerilir."
+   ],
+   "body": [
+    "Aşı kartını uygulamadaki Sağlık bölümüne kaydederek bir sonraki aşıyı takvime ekleyebilirsiniz."
+   ],
+   "links": [
+    {
+     "label": "vlaanderen.be · Basisvaccinaties",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/preventie/vaccinaties/basisvaccinaties-voor-kinderen-en-jongeren"
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "emoji": "🧒",
+   "title": "Çocuk bakımı ve okul sonrası",
+   "region": "all",
+   "summary": "Kreş (kinderopvang / crèche) yerleri sınırlı: hamilelikte araştırmaya başlayın.",
+   "bullets": [
+    "Flandre: Opgroeien / Kind en Gezin sitesinden kreş arayıp başvurabilirsiniz; gelire bağlı ücretli yerler vardır.",
+    "Fransızca konuşulan bölgeler: ONE'nin listesinden crèche arayın.",
+    "Okul sonrası ve tatil bakımı için belediyenizin (gemeente / commune) hizmetlerine sorun.",
+    "Okul tatillerinde spor ve oyun kampları (speelpleinwerking, stages) erken dolar."
+   ],
+   "body": [
+    "Flandre'de kinderopvang günleri için Groeipakket'ten günlük destek ödenir (bkz. Çocuk parası)."
+   ],
+   "links": [
+    {
+     "label": "Eurydice · Kinderopvang in Vlaanderen",
+     "url": "https://eurydice.eacea.ec.europa.eu/nl/eurypedia/belgium-flemish-community/belgie-vlaamse-gemeenschaporganisatie-van-kinderopvang-en"
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "emoji": "🎟️",
+   "title": "Boş zaman: kütüphane, UiTPAS, müzeler",
+   "region": "all",
+   "summary": "Bütçe dostu aile etkinlikleri için yerel imkânları kullanın.",
+   "bullets": [
+    "Halk kütüphaneleri (bibliotheek / bibliothèque) çocuklara genellikle ücretsiz ya da çok ucuz üyelik sunar ve hafta sonu etkinlikleri düzenler.",
+    "UiTPAS: Flandre ve Brüksel'deki birçok belediyede boş zaman etkinliklerinde puan ve indirim kartı; düşük gelirli ailelere “kansentarief” ile büyük indirim.",
+    "Birçok müze ayın belirli günlerinde ücretsiz ya da çocuklara indirimlidir; müzenin sitesine bakın.",
+    "Belediye spor kulüpleri ve gençlik hareketleri (jeugdbeweging, mouvements de jeunesse) uygun fiyatlıdır."
+   ],
+   "body": [
+    "Uygulamadaki Keşfet → Etkinlikler bölümünde yaşa uygun ev ve dışarı etkinlikleri de bulabilirsiniz."
+   ],
+   "links": []
+  },
+  {
+   "id": "b10",
+   "emoji": "🗣️",
+   "title": "İki dilli büyütme ipuçları",
+   "region": "all",
+   "summary": "Evde Türkçe, okulda Flamanca ya da Fransızca: iki dil çocuğu karıştırmaz, zenginleştirir.",
+   "bullets": [
+    "Her ebeveyn tutarlı biçimde kendi en güçlü dilini konuşsun.",
+    "Türkçe kitap, masal ve şarkıları günlük rutine koyun (uyku saati ideal).",
+    "Okul dilindeki ödevlere ilgi gösterin; bilmediğiniz kelimeleri çocuğunuzdan öğrenin.",
+    "Kütüphanelerde çok dilli kitap rafları ve dil kafe etkinlikleri vardır."
+   ],
+   "body": [
+    "Uygulamadaki Günün sorusu ve masal üretici Türkçeyi evde canlı tutmaya yardımcı olur."
+   ],
+   "links": []
+  }
+ ],
+ "holidays": {
+  "title": "Okul tatilleri 2026-2027",
+  "communities": [
+   {
+    "name": "Flaman toplumu (Flamanca okullar)",
+    "items": [
+     {
+      "title": "Güz tatili (herfstvakantie)",
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+     },
+     {
+      "title": "Noel tatili",
+      "start": "2026-12-21",
+      "end": "2027-01-03"
+     },
+     {
+      "title": "Kış tatili (krokusvakantie)",
+      "start": "2027-02-08",
+      "end": "2027-02-14"
+     },
+     {
+      "title": "Paskalya tatili",
+      "start": "2027-03-29",
+      "end": "2027-04-11"
+     },
+     {
+      "title": "Yaz tatili",
+      "start": "2027-07-01",
+      "end": "2027-08-31"
+     }
+    ]
+   },
+   {
+    "name": "Fransız toplumu (Fransızca okullar, FWB)",
+    "items": [
+     {
+      "title": "Okul açılışı",
+      "start": "2026-08-24",
+      "end": "2026-08-24"
+     },
+     {
+      "title": "Güz tatili (Toussaint)",
+      "start": "2026-10-19",
+      "end": "2026-10-30"
+     },
+     {
+      "title": "Kış tatili (Noël)",
+      "start": "2026-12-21",
+      "end": "2027-01-01"
+     },
+     {
+      "title": "Dinlenme tatili (Carnaval)",
+      "start": "2027-02-22",
+      "end": "2027-03-05"
+     },
+     {
+      "title": "Bahar tatili (Pâques)",
+      "start": "2027-04-26",
+      "end": "2027-05-07"
+     },
+     {
+      "title": "Yaz tatili başlangıcı",
+      "start": "2027-07-03",
+      "end": "2027-07-03"
+     }
+    ]
+   }
+  ]
+ }
+}

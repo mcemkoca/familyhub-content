@@ -1,0 +1,31 @@
+{
+  "checked": "2026-11-12",
+  "note": "Bağlantılar uygulama dışında (tarayıcı veya YouTube) açılır. Çocuklar video izlerken yanlarında olun.",
+  "groups": [
+    {"id": "tr-kids", "title": "Çocuklar için Türkçe", "lang": "tr", "icon": "turkish"},
+    {"id": "nl-parents", "title": "Ebeveynler için Hollandaca", "lang": "nl", "icon": "nl"},
+    {"id": "fr-parents", "title": "Ebeveynler için Fransızca", "lang": "fr", "icon": "fr"},
+    {"id": "nl-kids", "title": "Çocuklar için Hollandaca", "lang": "nl", "icon": "nl"},
+    {"id": "parenting", "title": "Ebeveynlik ve sağlık", "lang": "nl", "icon": "health"}
+  ],
+  "items": [
+    {"id": "trt-cocuk", "group": "tr-kids", "type": "site", "title": "TRT Çocuk", "source": "trtcocuk.net.tr", "text": "Çizgi filmler, şarkılar ve eğitici oyunlar; Türkçe dinleme için ideal.", "url": "https://www.trtcocuk.net.tr", "ageMin": 3, "ageMax": 10},
+    {"id": "yt-tr-masal", "group": "tr-kids", "type": "search", "title": "Türkçe masallar (sesli)", "source": "YouTube", "text": "Uyku öncesi Türkçe masal dinleyin; yeni kelimeleri birlikte konuşun.", "url": "https://www.youtube.com/results?search_query=t%C3%BCrk%C3%A7e+masal+dinle+%C3%A7ocuk", "ageMin": 3, "ageMax": 9},
+    {"id": "yt-tr-sarki", "group": "tr-kids", "type": "search", "title": "Türkçe çocuk şarkıları", "source": "YouTube", "text": "Şarkılarla kelime öğrenmek en kolay yol.", "url": "https://www.youtube.com/results?search_query=t%C3%BCrk%C3%A7e+%C3%A7ocuk+%C5%9Fark%C4%B1lar%C4%B1", "ageMin": 1, "ageMax": 7},
+    {"id": "yt-tr-okuma", "group": "tr-kids", "type": "search", "title": "Türkçe okuma-yazma (1. sınıf ses grupları)", "source": "YouTube", "text": "Türkiye'deki 1. sınıf ses grubu yöntemiyle okuma; evde kısa tekrarlar için.", "url": "https://www.youtube.com/results?search_query=1.+s%C4%B1n%C4%B1f+ses+gruplar%C4%B1+okuma", "ageMin": 6, "ageMax": 9},
+
+    {"id": "vdab-nl", "group": "nl-parents", "type": "site", "title": "VDAB – Nederlands leren", "source": "vdab.be", "text": "Ücretsiz Hollandaca kursları ve çevrimiçi alıştırmalar (anderstaligen).", "url": "https://www.vdab.be/nederlands-leren-als-anderstalige", "ageMin": 18, "ageMax": 99},
+    {"id": "vl-nl", "group": "nl-parents", "type": "site", "title": "Vlaanderen – Nederlands als verbindende taal", "source": "vlaanderen.be", "text": "Flaman hükümetinin Hollandaca öğrenme yolları ve kurs bulma rehberi.", "url": "https://www.vlaanderen.be/inclusie/herkomst/nederlands-als-verbindende-taal", "ageMin": 18, "ageMax": 99},
+    {"id": "yt-nl-beginners", "group": "nl-parents", "type": "search", "title": "Hollandaca başlangıç (Türkçe anlatım)", "source": "YouTube", "text": "Türkçe anlatımlı temel Hollandaca dersleri.", "url": "https://www.youtube.com/results?search_query=hollandaca+dersleri+ba%C5%9Flang%C4%B1%C3%A7", "ageMin": 18, "ageMax": 99},
+    {"id": "yt-nl-school", "group": "nl-parents", "type": "search", "title": "Okulla konuşma: NT2 'op school'", "source": "YouTube", "text": "Öğretmenle görüşme, oudercontact ve okul mesajları için kalıplar.", "url": "https://www.youtube.com/results?search_query=NT2+oudercontact+school+gesprek", "ageMin": 18, "ageMax": 99},
+
+    {"id": "yt-fr-debutant", "group": "fr-parents", "type": "search", "title": "Fransızca başlangıç (Türkçe anlatım)", "source": "YouTube", "text": "Türkçe anlatımlı temel Fransızca dersleri.", "url": "https://www.youtube.com/results?search_query=frans%C4%B1zca+dersleri+ba%C5%9Flang%C4%B1%C3%A7", "ageMin": 18, "ageMax": 99},
+    {"id": "yt-fr-quotidien", "group": "fr-parents", "type": "search", "title": "Français facile – la vie quotidienne", "source": "YouTube", "text": "Günlük hayat diyalogları: doktor, okul, market.", "url": "https://www.youtube.com/results?search_query=fran%C3%A7ais+facile+vie+quotidienne+dialogues", "ageMin": 18, "ageMax": 99},
+
+    {"id": "ketnet", "group": "nl-kids", "type": "site", "title": "Ketnet", "source": "ketnet.be", "text": "VRT'nin çocuk kanalı: Flaman Hollandacası ile programlar ve oyunlar.", "url": "https://www.ketnet.be", "ageMin": 3, "ageMax": 12},
+    {"id": "yt-nl-liedjes", "group": "nl-kids", "type": "search", "title": "Hollandaca çocuk şarkıları", "source": "YouTube", "text": "Okulda söylenen şarkıları evde de söyleyin.", "url": "https://www.youtube.com/results?search_query=kinderliedjes+nederlands+kleuters", "ageMin": 2, "ageMax": 7},
+
+    {"id": "kindengezin", "group": "parenting", "type": "site", "title": "Kind en Gezin", "source": "kindengezin.be", "text": "Bebek ve küçük çocuk sağlığı, uyku, beslenme, aşılar (Hollandaca).", "url": "https://www.kindengezin.be", "ageMin": 18, "ageMax": 99},
+    {"id": "one", "group": "parenting", "type": "site", "title": "ONE – Office de la Naissance et de l'Enfance", "source": "one.be", "text": "Fransızca toplumun bebek ve çocuk sağlığı kurumu.", "url": "https://www.one.be", "ageMin": 18, "ageMax": 99}
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "checked": "2026-11-12",
+  "kinds": [
+    {"id": "school-vl", "label": "Okul tatili (Flaman)", "color": "#2563EB"},
+    {"id": "school-fwb", "label": "Okul tatili (Fransızca)", "color": "#7C3AED"},
+    {"id": "public", "label": "Belçika resmî tatili", "color": "#DC2626"},
+    {"id": "tr-national", "label": "Türkiye millî günü", "color": "#E11D48"},
+    {"id": "tr-religious", "label": "Dinî bayram", "color": "#059669"},
+    {"id": "family", "label": "Aile günleri", "color": "#D97706"}
+  ],
+  "sources": [
+    {"label": "Vlaanderen.be – schoolvakanties", "url": "https://www.vlaanderen.be/onderwijs-en-vorming/wat-mag-en-moet-op-school/schoolvakanties-vrije-dagen-en-afwezigheden/schoolvakanties"},
+    {"label": "Fédération Wallonie-Bruxelles – calendrier scolaire (RTBF)", "url": "https://www.rtbf.be/article/calendrier-scolaire-quelles-seront-les-dates-de-rentree-et-des-vacances-jusqu-en-2032-10761315"},
+    {"label": "2027 bayram tarihleri (Diyanet takvimi)", "url": "https://www.dunya.com/gundem/2027-bayram-tarihleri-kurban-bayrami-ramazan-bayrami-ne-zaman-haberi-842648"}
+  ],
+  "days": [
+    {"id": "vl26-autumn", "kind": "school-vl", "title": "Güz tatili (herfstvakantie)", "start": "2026-11-02", "end": "2026-11-08"},
+    {"id": "vl26-xmas", "kind": "school-vl", "title": "Noel tatili (kerstvakantie)", "start": "2026-12-21", "end": "2027-01-03"},
+    {"id": "vl27-krokus", "kind": "school-vl", "title": "Kış tatili (krokusvakantie)", "start": "2027-02-08", "end": "2027-02-14"},
+    {"id": "vl27-easter", "kind": "school-vl", "title": "Paskalya tatili (paasvakantie)", "start": "2027-03-29", "end": "2027-04-11"},
+    {"id": "vl27-ascension", "kind": "school-vl", "title": "Okul yok (Hemelvaart köprüsü)", "start": "2027-05-07", "end": "2027-05-07"},
+    {"id": "vl27-summer", "kind": "school-vl", "title": "Yaz tatili", "start": "2027-07-01", "end": "2027-08-31"},
+    {"id": "vl27-autumn", "kind": "school-vl", "title": "Güz tatili (herfstvakantie)", "start": "2027-11-01", "end": "2027-11-07"},
+    {"id": "vl27-xmas", "kind": "school-vl", "title": "Noel tatili (kerstvakantie)", "start": "2027-12-27", "end": "2028-01-09"},
+    {"id": "vl28-krokus", "kind": "school-vl", "title": "Kış tatili (krokusvakantie)", "start": "2028-02-28", "end": "2028-03-05"},
+    {"id": "vl28-easter", "kind": "school-vl", "title": "Paskalya tatili (paasvakantie)", "start": "2028-04-03", "end": "2028-04-17"},
+    {"id": "vl28-ascension", "kind": "school-vl", "title": "Okul yok (Hemelvaart köprüsü)", "start": "2028-05-26", "end": "2028-05-26"},
+    {"id": "vl28-summer", "kind": "school-vl", "title": "Yaz tatili", "start": "2028-07-01", "end": "2028-08-31"},
+
+    {"id": "fwb26-xmas", "kind": "school-fwb", "title": "Kış tatili (vacances d'hiver)", "start": "2026-12-21", "end": "2027-01-03"},
+    {"id": "fwb27-mardigras", "kind": "school-fwb", "title": "Okul yok (Mardi gras)", "start": "2027-02-09", "end": "2027-02-09"},
+    {"id": "fwb27-detente", "kind": "school-fwb", "title": "Dinlenme tatili (congé de détente)", "start": "2027-02-22", "end": "2027-03-07"},
+    {"id": "fwb27-spring", "kind": "school-fwb", "title": "Bahar tatili (vacances de printemps)", "start": "2027-04-26", "end": "2027-05-09"},
+    {"id": "fwb27-summer", "kind": "school-fwb", "title": "Yaz tatili", "start": "2027-07-03", "end": "2027-08-29", "note": "Okul açılışı 30 Ağustos 2027 olarak öngörülüyor (kesinleşmedi)."},
+
+    {"id": "be26-armistice", "kind": "public", "title": "Ateşkes Günü (Wapenstilstand / Armistice)", "start": "2026-11-11", "end": "2026-11-11"},
+    {"id": "be26-xmas", "kind": "public", "title": "Noel", "start": "2026-12-25", "end": "2026-12-25"},
+    {"id": "be27-newyear", "kind": "public", "title": "Yılbaşı", "start": "2027-01-01", "end": "2027-01-01"},
+    {"id": "be27-eastermon", "kind": "public", "title": "Paskalya Pazartesi", "start": "2027-03-29", "end": "2027-03-29"},
+    {"id": "be27-may1", "kind": "public", "title": "İşçi Bayramı", "start": "2027-05-01", "end": "2027-05-01"},
+    {"id": "be27-ascension", "kind": "public", "title": "Göğe Yükseliş (Hemelvaart / Ascension)", "start": "2027-05-06", "end": "2027-05-06"},
+    {"id": "be27-whitmon", "kind": "public", "title": "Pentekost Pazartesi", "start": "2027-05-17", "end": "2027-05-17"},
+    {"id": "be27-national", "kind": "public", "title": "Belçika Ulusal Günü", "start": "2027-07-21", "end": "2027-07-21"},
+    {"id": "be27-aug15", "kind": "public", "title": "Meryem'in Göğe Kabulü", "start": "2027-08-15", "end": "2027-08-15"},
+    {"id": "be27-nov1", "kind": "public", "title": "Azizler Günü", "start": "2027-11-01", "end": "2027-11-01"},
+    {"id": "be27-armistice", "kind": "public", "title": "Ateşkes Günü", "start": "2027-11-11", "end": "2027-11-11"},
+    {"id": "be27-xmas", "kind": "public", "title": "Noel", "start": "2027-12-25", "end": "2027-12-25"},
+    {"id": "be28-newyear", "kind": "public", "title": "Yılbaşı", "start": "2028-01-01", "end": "2028-01-01"},
+    {"id": "be28-eastermon", "kind": "public", "title": "Paskalya Pazartesi", "start": "2028-04-17", "end": "2028-04-17"},
+    {"id": "be28-may1", "kind": "public", "title": "İşçi Bayramı", "start": "2028-05-01", "end": "2028-05-01"},
+    {"id": "be28-ascension", "kind": "public", "title": "Göğe Yükseliş", "start": "2028-05-25", "end": "2028-05-25"},
+    {"id": "be28-whitmon", "kind": "public", "title": "Pentekost Pazartesi", "start": "2028-06-05", "end": "2028-06-05"},
+
+    {"id": "tr27-23nisan", "kind": "tr-national", "title": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı", "start": "2027-04-23", "end": "2027-04-23"},
+    {"id": "tr27-19mayis", "kind": "tr-national", "title": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı", "start": "2027-05-19", "end": "2027-05-19"},
+    {"id": "tr27-30agustos", "kind": "tr-national", "title": "30 Ağustos Zafer Bayramı", "start": "2027-08-30", "end": "2027-08-30"},
+    {"id": "tr27-29ekim", "kind": "tr-national", "title": "29 Ekim Cumhuriyet Bayramı", "start": "2027-10-29", "end": "2027-10-29"},
+
+    {"id": "tr27-ramazan", "kind": "tr-religious", "title": "Ramazan Bayramı", "start": "2027-03-09", "end": "2027-03-11", "note": "Arife: 8 Mart 2027."},
+    {"id": "tr27-kurban", "kind": "tr-religious", "title": "Kurban Bayramı", "start": "2027-05-16", "end": "2027-05-19", "note": "Arife: 15 Mayıs 2027."},
+
+    {"id": "fam26-sinterklaas", "kind": "family", "title": "Sinterklaas (Saint-Nicolas)", "start": "2026-12-06", "end": "2026-12-06", "note": "Belçikalı çocuklar 5 Aralık akşamı ayakkabılarını kapıya koyar."},
+    {"id": "fam27-moeder", "kind": "family", "title": "Anneler Günü (Belçika ve Türkiye)", "start": "2027-05-09", "end": "2027-05-09", "note": "Anvers'te Anneler Günü 15 Ağustos'ta kutlanır."},
+    {"id": "fam27-vader-be", "kind": "family", "title": "Babalar Günü (Belçika)", "start": "2027-06-13", "end": "2027-06-13"},
+    {"id": "fam27-baba-tr", "kind": "family", "title": "Babalar Günü (Türkiye)", "start": "2027-06-20", "end": "2027-06-20"},
+    {"id": "fam27-sinterklaas", "kind": "family", "title": "Sinterklaas (Saint-Nicolas)", "start": "2027-12-06", "end": "2027-12-06"}
+  ]
+}

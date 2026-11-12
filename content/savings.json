@@ -1,0 +1,498 @@
+{
+ "categories": [
+  {
+   "id": "energy",
+   "emoji": "⚡",
+   "label": "Enerji"
+  },
+  {
+   "id": "food",
+   "emoji": "🛒",
+   "label": "Market ve mutfak"
+  },
+  {
+   "id": "transport",
+   "emoji": "🚆",
+   "label": "Ulaşım"
+  },
+  {
+   "id": "school",
+   "emoji": "🎒",
+   "label": "Okul ve çocuk"
+  },
+  {
+   "id": "subs",
+   "emoji": "📱",
+   "label": "Abonelik ve faturalar"
+  },
+  {
+   "id": "health",
+   "emoji": "🩺",
+   "label": "Sağlık"
+  },
+  {
+   "id": "habits",
+   "emoji": "🐷",
+   "label": "Aile alışkanlıkları"
+  }
+ ],
+ "cards": [
+  {
+   "id": "t01",
+   "category": "energy",
+   "emoji": "📊",
+   "title": "Enerji tarifeni karşılaştır",
+   "text": "Sabit/değişken sözleşmeler arasında yıllık fark büyük olabilir.",
+   "steps": [
+    "Son yıllık faturanı bul",
+    "Resmi karşılaştırıcıda dene",
+    "Değiştirmek ücretsiz ve kesintisiz"
+   ],
+   "link": {
+    "label": "V-test (Vlaanderen) / CREG Scan",
+    "url": "https://www.vtest.be"
+   },
+   "estimate": "yıllık yüzlerce €'ya kadar"
+  },
+  {
+   "id": "t02",
+   "category": "energy",
+   "emoji": "🌡️",
+   "title": "Termostatı 1 derece düşür",
+   "text": "Isıtmada her derece fark eder.",
+   "steps": [
+    "Gündüz 20 °C, gece 16–17 °C",
+    "Akıllı ya da programlı termostat",
+    "Kapıları kapalı tut"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t03",
+   "category": "energy",
+   "emoji": "🚿",
+   "title": "Kısa duş",
+   "text": "4 dakikalık duş kum saati çocuklar için oyun olur.",
+   "steps": [
+    "Duş kum saati ya da 1 şarkılık duş",
+    "Tasarruflu duş başlığı"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t04",
+   "category": "energy",
+   "emoji": "🔌",
+   "title": "Bekleme modunu kapat",
+   "text": "Televizyon, oyun konsolu, şarj aletleri sessizce elektrik çeker.",
+   "steps": [
+    "Anahtarlı uzatma kablosu",
+    "Gece hepsi kapalı"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t05",
+   "category": "energy",
+   "emoji": "🧺",
+   "title": "Çamaşır 30 derecede",
+   "text": "Çoğu çamaşır 30 °C'de temizlenir.",
+   "steps": [
+    "Makineyi tam doldur",
+    "Kurutma makinesi yerine askı",
+    "Gece tarifesi (çift tarife) varsa geceye kur"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t06",
+   "category": "energy",
+   "emoji": "💡",
+   "title": "LED ampul",
+   "text": "LED, eski ampullere göre çok daha az elektrik harcar.",
+   "steps": [
+    "Önce en çok yanan lambaları değiştir"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t07",
+   "category": "energy",
+   "emoji": "🏠",
+   "title": "Enerji primleri",
+   "text": "Yalıtım ve ısı pompası için bölgesel prim ve kredi var.",
+   "steps": [
+    "Bölgenin enerji sitesini kontrol et",
+    "Kiracıysan ev sahibiyle konuş"
+   ],
+   "link": {
+    "label": "Mijn VerbouwPremie / primes Wallonie / Renolution",
+    "url": "https://www.vlaanderen.be/mijn-verbouwpremie"
+   },
+   "estimate": null
+  },
+  {
+   "id": "t08",
+   "category": "food",
+   "emoji": "📝",
+   "title": "Haftalık menü + liste",
+   "text": "Plansız market gezisi en pahalısıdır.",
+   "steps": [
+    "Ev → Yemek'te haftayı planla",
+    "'Malzemeleri ekle' ile listeyi oluştur",
+    "Listede olmayanı alma"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t09",
+   "category": "food",
+   "emoji": "🏷️",
+   "title": "Market markası",
+   "text": "Temel ürünlerde market markası çoğu zaman aynı kalitede.",
+   "steps": [
+    "Un, pirinç, makarna, konserve, deterjan ile başla"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t10",
+   "category": "food",
+   "emoji": "🥡",
+   "title": "Artık yemek akşamı",
+   "text": "Haftada bir 'buzdolabı temizleme' yemeği.",
+   "steps": [
+    "Perşembe akşamı kalanlardan menü",
+    "Fazla pişeni dondur"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t11",
+   "category": "food",
+   "emoji": "🛍️",
+   "title": "Toplu al, böl, dondur",
+   "text": "Kıyma, tavuk, ekmek toplu alınıp porsiyonlanabilir.",
+   "steps": [
+    "Porsiyon poşetleri",
+    "Dondurucuya tarih yaz"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t12",
+   "category": "food",
+   "emoji": "⏰",
+   "title": "Akşam indirimleri",
+   "text": "Birçok markette son kullanma tarihi yaklaşan ürünler indirimli.",
+   "steps": [
+    "İndirim etiketlerine bak",
+    "Too Good To Go gibi uygulamalar"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t13",
+   "category": "food",
+   "emoji": "🥪",
+   "title": "Beslenme çantası evden",
+   "text": "Okul ve iş yemeğini evden götürmek ayda ciddi tasarruf.",
+   "steps": [
+    "Akşamdan hazırla",
+    "Su matarası"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t14",
+   "category": "food",
+   "emoji": "🌱",
+   "title": "Mevsim sebzesi",
+   "text": "Mevsiminde sebze-meyve hem ucuz hem lezzetli.",
+   "steps": [
+    "Pazar yerinden kapanışa yakın alışveriş"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t15",
+   "category": "transport",
+   "emoji": "🚆",
+   "title": "Free4kids",
+   "text": "12 yaşa kadar çocuklar ücret ödeyen biriyle trende bedava (en fazla 4 çocuk).",
+   "steps": [
+    "Bilet alırken çocukları ekle"
+   ],
+   "link": {
+    "label": "NMBS/SNCB",
+    "url": "https://www.belgiantrain.be"
+   },
+   "estimate": null
+  },
+  {
+   "id": "t16",
+   "category": "transport",
+   "emoji": "🎫",
+   "title": "Genç abonmanları",
+   "text": "STIB ve TEC'te gençlere çok düşük yıllık abonmanlar, De Lijn'de Buzzy Pazz.",
+   "steps": [
+    "Çocuğun yaşına uygun abonmanı kontrol et"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t17",
+   "category": "transport",
+   "emoji": "🚲",
+   "title": "Kısa yol bisikletle",
+   "text": "3 km altı yollar bisikletle hem ucuz hem sağlıklı.",
+   "steps": [
+    "İkinci el bisiklet",
+    "Bazı işverenler bisiklet ödeneği öder"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t18",
+   "category": "transport",
+   "emoji": "🚗",
+   "title": "Araç sigortası ve yakıt",
+   "text": "Yıllık sigortayı karşılaştır; lastik basıncını kontrol et.",
+   "steps": [
+    "Yıllık yenilemede 2 teklif al",
+    "Yakıt fiyatı karşılaştırma"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t19",
+   "category": "school",
+   "emoji": "📚",
+   "title": "Okul masraf sınırını bil",
+   "text": "Flaman okullarında maximumfactuur, Fransızca okullarda ücretsiz malzeme kuralı var.",
+   "steps": [
+    "Faturayı kontrol et",
+    "Taksit iste"
+   ],
+   "link": {
+    "label": "Rehber → Belçika hakları",
+    "url": "https://www.vlaanderen.be/onderwijs-en-vorming/school-en-studiekosten/schoolkosten-basisonderwijs"
+   },
+   "estimate": null
+  },
+  {
+   "id": "t20",
+   "category": "school",
+   "emoji": "🎓",
+   "title": "Okul ödeneği / burs başvurusu",
+   "text": "Flaman schooltoeslag çoğu zaman otomatik; Fransızca eğitimde allocation d'études için 31 Ekim'e kadar başvur.",
+   "steps": [
+    "Takvime hatırlatıcı ekle"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t21",
+   "category": "school",
+   "emoji": "👕",
+   "title": "İkinci el kıyafet",
+   "text": "Çocuk kıyafeti çabuk küçülür.",
+   "steps": [
+    "Kringwinkel / Les Petits Riens",
+    "Okul ve mahalle değiş-tokuş grupları"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t22",
+   "category": "school",
+   "emoji": "🧸",
+   "title": "Oyuncak kütüphanesi",
+   "text": "Birçok belediyede oyuncak ve kitap ödünç alınabilir (speel-o-theek / ludothèque).",
+   "steps": [
+    "Belediyene sor"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t23",
+   "category": "school",
+   "emoji": "🏕️",
+   "title": "Tatil kampları",
+   "text": "Belediye ve gençlik dernekleri uygun fiyatlı kamp düzenler; vergi indirimi alabilirsin.",
+   "steps": [
+    "Kamp belgesini (attest) sakla"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t24",
+   "category": "subs",
+   "emoji": "📺",
+   "title": "Abonelik turu",
+   "text": "Kullanmadığın abonelikleri bul.",
+   "steps": [
+    "Banka hesabında aylık ödemeleri listele",
+    "Aynı anda tek video platformu"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t25",
+   "category": "subs",
+   "emoji": "📶",
+   "title": "Telefon ve internet paketi",
+   "text": "Ev interneti ve mobil hatları tek pakette toplamak ya da operatör değiştirmek ucuzlatabilir.",
+   "steps": [
+    "BIPT karşılaştırıcısını kullan"
+   ],
+   "link": {
+    "label": "BIPT – Bestetarief",
+    "url": "https://www.bestetarief.be"
+   },
+   "estimate": null
+  },
+  {
+   "id": "t26",
+   "category": "subs",
+   "emoji": "🏦",
+   "title": "Banka masrafları",
+   "text": "Ücretsiz hesap ve kart seçenekleri var.",
+   "steps": [
+    "Yıllık banka masrafını kontrol et"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t27",
+   "category": "health",
+   "emoji": "🦷",
+   "title": "Anlaşmalı dişçi",
+   "text": "Çocuklarda temel diş tedavisi anlaşmalı dişçide ücretsiz.",
+   "steps": [
+    "Dişçiye 'geconventioneerd mi?' diye sor"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t28",
+   "category": "health",
+   "emoji": "📋",
+   "title": "Global Tıbbi Dosya",
+   "text": "GMD ile ev doktoru ziyaretlerinde daha az ödersin.",
+   "steps": [
+    "Ev doktorundan GMD açmasını iste"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t29",
+   "category": "health",
+   "emoji": "💊",
+   "title": "Jenerik ilaç",
+   "text": "Doktor ve eczacıya daha ucuz eşdeğer ilacı sor.",
+   "steps": [
+    "'Goedkoopste' / 'le moins cher' iste"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t30",
+   "category": "health",
+   "emoji": "🎁",
+   "title": "Sağlık sigortası avantajları",
+   "text": "Ziekenfonds/mutualité spor, kamp, gözlük için para iade eder.",
+   "steps": [
+    "Sigortanın 'voordelen' sayfasına bak",
+    "Belgeleri topla ve gönder"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t31",
+   "category": "habits",
+   "emoji": "🏺",
+   "title": "Üç kavanoz",
+   "text": "Harcama, biriktirme, paylaşma: çocuk parayı görerek öğrenir.",
+   "steps": [
+    "Ev → Bütçe → birikim hedefi"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t32",
+   "category": "habits",
+   "emoji": "⏳",
+   "title": "48 saat kuralı",
+   "text": "İstediğin şeyi hemen alma, 48 saat bekle.",
+   "steps": [
+    "İstek listesi tut",
+    "Çoğu istek geçer"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t33",
+   "category": "habits",
+   "emoji": "🎲",
+   "title": "Ücretsiz aile günü",
+   "text": "Park, kütüphane, ormanda yürüyüş, müzelerin ücretsiz günleri.",
+   "steps": [
+    "Rehber → Etkinlikler"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t34",
+   "category": "habits",
+   "emoji": "🎂",
+   "title": "Bütçeli kutlama",
+   "text": "Doğum günleri evde ve oyunlarla da çok güzel.",
+   "steps": [
+    "Rehber → Türk kültürü → oyunlar"
+   ],
+   "link": null,
+   "estimate": null
+  },
+  {
+   "id": "t35",
+   "category": "habits",
+   "emoji": "📈",
+   "title": "Ay sonu kontrolü",
+   "text": "Ayda bir 15 dakika: ne harcadık, nereden kısabiliriz?",
+   "steps": [
+    "Ev → Bütçe → 'Nereye gitti?'"
+   ],
+   "link": null,
+   "estimate": null
+  }
+ ]
+}

@@ -1,0 +1,1036 @@
+{
+ "checked": "2026-11-11",
+ "note": "Tutarlar bilgi amaçlıdır; kesin durum için resmi kuruma danışın. Kontrol: 11 Kasım 2026.",
+ "regions": [
+  {
+   "id": "flanders",
+   "label": "Flaman bölgesi"
+  },
+  {
+   "id": "brussels",
+   "label": "Brüksel"
+  },
+  {
+   "id": "wallonia",
+   "label": "Valon bölgesi"
+  }
+ ],
+ "sections": [
+  {
+   "id": "money",
+   "emoji": "💶",
+   "title": "Çocuk parası ve ödenekler"
+  },
+  {
+   "id": "leave",
+   "emoji": "👪",
+   "title": "Doğum ve ebeveyn izinleri"
+  },
+  {
+   "id": "tax",
+   "emoji": "🧾",
+   "title": "Vergi avantajları"
+  },
+  {
+   "id": "health",
+   "emoji": "🩺",
+   "title": "Sağlık"
+  },
+  {
+   "id": "school",
+   "emoji": "🏫",
+   "title": "Okul"
+  },
+  {
+   "id": "transport",
+   "emoji": "🚆",
+   "title": "Ulaşım indirimleri"
+  },
+  {
+   "id": "youth",
+   "emoji": "💼",
+   "title": "Gençler"
+  },
+  {
+   "id": "leisure",
+   "emoji": "🎟️",
+   "title": "Kültür ve boş zaman"
+  },
+  {
+   "id": "support",
+   "emoji": "🤝",
+   "title": "Destek ve haklar"
+  }
+ ],
+ "items": [
+  {
+   "id": "vl-start",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "🍼",
+   "title": "Doğum primi (startbedrag)",
+   "summary": "Her çocuk için bir kez ödenen başlangıç tutarı.",
+   "bullets": [
+    "1.310,75 € (tek sefer)"
+   ],
+   "who": "Flaman bölgesinde oturan aileler",
+   "how": "Seçtiğiniz uitbetaler (Fons, Infino, KidsLife, MyFamily, Parentia) üzerinden",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    }
+   ]
+  },
+  {
+   "id": "vl-basis",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "💶",
+   "title": "Aylık temel çocuk parası (basisbedrag)",
+   "summary": "2019 ve sonrası doğan her çocuk için aynı tutar.",
+   "bullets": [
+    "2019'dan itibaren doğanlar: ayda 190,66 € (yaşa bağlı değil)",
+    "2019'dan önce doğanlar eski sistemde: en küçük 109,75 €, ikinci 203,07 €, diğerleri 274,56 € + yaş eki"
+   ],
+   "who": "Flaman bölgesinde oturan her çocuk (25 yaşına kadar, koşullu)",
+   "how": "Otomatik; doğumdan sonra uitbetaler ile iletişime geçin",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    }
+   ]
+  },
+  {
+   "id": "vl-schoolbonus",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "🎒",
+   "title": "Okul bonusu (schoolbonus)",
+   "summary": "Her ağustos, okul masrafları için yaşa göre ek ödeme.",
+   "bullets": [
+    "0–4 yaş: 23,82 €",
+    "5–11 yaş: 41,70 €",
+    "12–17 yaş: 59,57 €",
+    "18–24 yaş: 71,48 €"
+   ],
+   "who": "Groeipakket alan tüm çocuklar",
+   "how": "Otomatik, ağustos ödemesiyle",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    },
+    {
+     "label": "Schoolbonus",
+     "url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schoolbonus"
+    }
+   ]
+  },
+  {
+   "id": "vl-sociaal",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "🤝",
+   "title": "Sosyal ek (sociale toeslag)",
+   "summary": "Geliri düşük ailelere çocuk başına aylık ek.",
+   "bullets": [
+    "1–2 çocuk, gelir 42.020,32 €'nun altında: çocuk başına ayda 76,09 €",
+    "1–2 çocuk, gelir 42.020,32–49.023,71 €: 38,53 €",
+    "3+ çocuk, gelir 42.020,32 €'nun altında: 111,83 €",
+    "3+ çocuk, gelir 42.020,32–79.041,20 €: 88,01 €"
+   ],
+   "who": "Hane geliri sınırların altında olan aileler",
+   "how": "Otomatik kontrol edilir; gelir değişirse uitbetaler'e bildirin",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    }
+   ]
+  },
+  {
+   "id": "vl-schooltoeslag",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "📚",
+   "title": "Okul ödeneği (schooltoeslag)",
+   "summary": "Gelire göre, okula giden çocuklar için yıllık destek.",
+   "bullets": [
+    "Anaokulu (tam): 131,10 €",
+    "İlkokul: en az 152,98 €, tam 237,92 €, istisnai 308,92 €",
+    "Ortaokulda tutar türe göre değişir (dışarıdan öğrenci, tam: 1.192,46 €'ya kadar)",
+    "Okula düzenli devam şartı vardır"
+   ],
+   "who": "Geliri sınırın altındaki aileler, Hollandaca eğitimdeki çocuklar",
+   "how": "Çoğu durumda otomatik; 2026 ödemeleri: 26/08, 23/09, 28/10, 25/11",
+   "validFrom": "2026–2027 okul yılı",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    },
+    {
+     "label": "Schooltoeslag",
+     "url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schooltoeslag"
+    }
+   ]
+  },
+  {
+   "id": "vl-opvang",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "🧸",
+   "title": "Kreş günü eki (kinderopvangtoeslag)",
+   "summary": "Gelire bağlı tarife uygulamayan kreşe giden çocuk için.",
+   "bullets": [
+    "Kreş günü başına 3,78 € (aylık ödenir)"
+   ],
+   "who": "Serbest fiyatlı kreşe giden 0–3 yaş çocuklar",
+   "how": "Kreşin bildirdiği günlere göre otomatik",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    }
+   ]
+  },
+  {
+   "id": "vl-zorg",
+   "section": "money",
+   "region": "flanders",
+   "emoji": "💙",
+   "title": "Bakım eki (zorgtoeslag)",
+   "summary": "Engel ya da süreğen hastalığı olan çocuklar için aylık ek.",
+   "bullets": [
+    "Puanlamaya göre ayda 96,23 € ile 641,49 € arası",
+    "Değerlendirmeyi doktor yapar"
+   ],
+   "who": "Özel bakım gereken çocuklar",
+   "how": "Uitbetaler üzerinden başvuru",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Vlaams Groeipakket – bedragen",
+     "url": "https://www.vlaanderen.be/nl/vlaams-groeipakket/bedragen-en-betaaldata"
+    }
+   ]
+  },
+  {
+   "id": "bx-naissance",
+   "section": "money",
+   "region": "brussels",
+   "emoji": "🍼",
+   "title": "Doğum primi (prime de naissance)",
+   "summary": "Brüksel'de çocuk başına bir kez.",
+   "bullets": [
+    "İlk çocuk: 1.422,96 €",
+    "İkinci ve sonraki çocuklar: 646,80 €",
+    "İkiz/üçüzde her çocuk için ilk çocuk tutarı"
+   ],
+   "who": "Brüksel'de oturan aileler",
+   "how": "Famiris, Parentia, Infino, KidsLife ya da Brussels Family üzerinden; doğumdan önce istenebilir",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Brüksel tutarları",
+     "url": "https://www.parentia.be/fr/brussels/allocations-familiales/montants/nouveau-systeme"
+    }
+   ]
+  },
+  {
+   "id": "bx-base",
+   "section": "money",
+   "region": "brussels",
+   "emoji": "💶",
+   "title": "Aylık temel çocuk parası",
+   "summary": "Brüksel'de yaşa göre değişir.",
+   "bullets": [
+    "0–11 yaş: ayda 194,04 € (2020'den önce doğanlar 181,10 €)",
+    "12–24 yaş: 206,98 € (önce doğanlar 194,04 €)",
+    "18–24 yaş yükseköğretimde: 219,91 €"
+   ],
+   "who": "Brüksel'de oturan her çocuk",
+   "how": "Otomatik",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Brüksel tutarları",
+     "url": "https://www.parentia.be/fr/brussels/allocations-familiales/montants/nouveau-systeme"
+    }
+   ]
+  },
+  {
+   "id": "bx-social",
+   "section": "money",
+   "region": "brussels",
+   "emoji": "🤝",
+   "title": "Sosyal ek (supplément social)",
+   "summary": "Geliri düşük ailelere çocuk başına aylık ek.",
+   "bullets": [
+    "Gelir 41.399,40 €'ya kadar, 0–11 yaş: 1 çocuk +51,74 €, 2 çocuk +90,55 €, 3+ çocuk +142,30 € (çocuk başına)",
+    "Aynı gelirde 12–24 yaş: +64,68 €, +103,49 €, +155,23 €",
+    "Gelir 41.399,40–60.095,91 €: 2 çocuk +32,34 €, 3+ çocuk +93,14 €",
+    "Tek ebeveyn ise ek artış: çocuk başına +12,94 € ya da +25,87 €"
+   ],
+   "who": "Hane geliri sınırların altında olanlar",
+   "how": "Otomatik kontrol; gelir değişikliğini bildirin",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Brüksel tutarları",
+     "url": "https://www.parentia.be/fr/brussels/allocations-familiales/montants/nouveau-systeme"
+    }
+   ]
+  },
+  {
+   "id": "bx-school",
+   "section": "money",
+   "region": "brussels",
+   "emoji": "🎒",
+   "title": "Yıllık okul eki (prime scolaire)",
+   "summary": "Her yaz çocuk başına ek ödeme.",
+   "bullets": [
+    "0–5 yaş: 25,87 €",
+    "6–11 yaş: 38,81 €",
+    "12–24 yaş: 64,68 €",
+    "18+ yükseköğretim: 103,49 €",
+    "2026 yazında ağustos ödemesine otomatik eklendi"
+   ],
+   "who": "Brüksel'de çocuk parası alan aileler",
+   "how": "Otomatik",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Brüksel tutarları",
+     "url": "https://www.parentia.be/fr/brussels/allocations-familiales/montants/nouveau-systeme"
+    },
+    {
+     "label": "L'Avenir – rentrée 2026",
+     "url": "https://www.lavenir.net/regions/bruxelles/2026/07/29/jusqua-100-euros-pour-aider-300000-familles-bruxelloises-a-preparer-la-rentree-la-prime-sera-automatiquement-ajoutee-aux-allocations-familiales-7ELYOVIQRRE4NPRELECV2UF4CM/"
+    }
+   ]
+  },
+  {
+   "id": "wa-naissance",
+   "section": "money",
+   "region": "wallonia",
+   "emoji": "🍼",
+   "title": "Doğum primi (allocation de naissance)",
+   "summary": "Valon bölgesinde çocuk başına bir kez.",
+   "bullets": [
+    "1.422,96 € (ikiz/üçüzde her çocuk için)",
+    "Gebeliğin 24. haftasından sonra doktor belgesiyle, doğumdan 2 ay önce ödenebilir"
+   ],
+   "who": "Valon bölgesinde oturan aileler",
+   "how": "FAMIWAL, Parentia, Infino, Camille ya da KidsLife üzerinden",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Valon tutarları",
+     "url": "https://www.parentia.be/fr/wallonie/allocations-familiales/montants/nouveau-systeme"
+    },
+    {
+     "label": "wallonie.be – prime de naissance",
+     "url": "https://wallonie.be/fr/demarches/obtenir-une-prime-de-naissance-en-wallonie"
+    }
+   ]
+  },
+  {
+   "id": "wa-base",
+   "section": "money",
+   "region": "wallonia",
+   "emoji": "💶",
+   "title": "Aylık temel çocuk parası",
+   "summary": "2020'den itibaren doğanlar için.",
+   "bullets": [
+    "0–17 yaş: ayda 200,51 €",
+    "18–24 yaş: 213,44 €",
+    "Bir ebeveyni vefat etmiş ya da tek ebeveynli: +100,26 € (0–17)",
+    "2020'den önce doğanlar eski sistemde (sıraya göre tutar + yaş ekleri)"
+   ],
+   "who": "Valon bölgesinde oturan çocuklar",
+   "how": "Otomatik",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Valon tutarları",
+     "url": "https://www.parentia.be/fr/wallonie/allocations-familiales/montants/nouveau-systeme"
+    }
+   ]
+  },
+  {
+   "id": "wa-social",
+   "section": "money",
+   "region": "wallonia",
+   "emoji": "🤝",
+   "title": "Sosyal ek (supplément social)",
+   "summary": "Geliri düşük ailelere çocuk başına aylık ek.",
+   "bullets": [
+    "Gelir 34.453,81 €'ya kadar ya da BIM statüsü: 71,15 €",
+    "  + 3 ve üzeri çocuk: +45,28 €; tek ebeveyn: +25,87 €; engelli ebeveyn: +12,93 €",
+    "Gelir 34.453,81–55.599,36 €: 32,34 € (+3 çocuk ya da tek ebeveyn için +25,87 €)",
+    "Gelir sınırları 2024 rakamlarıdır"
+   ],
+   "who": "Hane geliri sınırların altında olanlar",
+   "how": "Otomatik kontrol",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Valon tutarları",
+     "url": "https://www.parentia.be/fr/wallonie/allocations-familiales/montants/nouveau-systeme"
+    }
+   ]
+  },
+  {
+   "id": "wa-school",
+   "section": "money",
+   "region": "wallonia",
+   "emoji": "🎒",
+   "title": "Yıllık okul eki (supplément d'âge annuel)",
+   "summary": "Her ağustos yaşa göre ek.",
+   "bullets": [
+    "0–4 yaş: 25,87 €",
+    "5–10 yaş: 38,81 €",
+    "11–16 yaş: 64,68 €",
+    "17 yaş ve üstü: 103,49 €"
+   ],
+   "who": "Çocuk parası alan aileler",
+   "how": "Otomatik, ağustos civarı",
+   "validFrom": "Eylül 2026",
+   "links": [
+    {
+     "label": "Parentia – Valon tutarları",
+     "url": "https://www.parentia.be/fr/wallonie/allocations-familiales/montants/nouveau-systeme"
+    }
+   ]
+  },
+  {
+   "id": "fwb-etudes",
+   "section": "money",
+   "region": "fwb",
+   "emoji": "🎓",
+   "title": "Öğrenim bursu (allocation d'études)",
+   "summary": "Fransızca eğitimde ortaokul ve üniversite için gelire bağlı burs.",
+   "bullets": [
+    "Tutar dosyaya göre yaklaşık 90 € ile 6.000 € arası",
+    "2026–2027 başvuruları: 1 Temmuz – 31 Ekim 2026",
+    "Ortaokulda hane reisi, yükseköğretimde öğrenci başvurur (eID ile çevrimiçi)"
+   ],
+   "who": "Valon bölgesi ve Brüksel'deki Fransızca okullarda okuyan, geliri sınırın altındaki aileler",
+   "how": "Çevrimiçi (eID) ya da taahhütlü posta",
+   "validFrom": "2026–2027",
+   "links": [
+    {
+     "label": "Parentia – allocation d'études",
+     "url": "https://www.parentia.be/fr/administration-familiale/allocation-detudes-en-federation-wallonie-bruxelles"
+    }
+   ]
+  },
+  {
+   "id": "leave-birth",
+   "section": "leave",
+   "region": "federal",
+   "emoji": "👶",
+   "title": "Doğum izni (baba / ikinci ebeveyn)",
+   "summary": "Doğumdan sonraki 4 ay içinde 20 gün.",
+   "bullets": [
+    "20 gün; toplu ya da parça parça kullanılabilir",
+    "İlk 3 gün işveren tam maaş öder",
+    "Kalan 17 gün sağlık sigortası (ziekenfonds/mutualité) brüt maaşın %82'sini öder (tavanlı)"
+   ],
+   "who": "Çalışan baba ya da ikinci ebeveyn",
+   "how": "İşverene haber verin; sonra sağlık sigortanıza belge verin",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "RIZIV/INAMI – geboorteverlof",
+     "url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/geboorteverlof-voor-werknemers"
+    }
+   ]
+  },
+  {
+   "id": "leave-maternity",
+   "section": "leave",
+   "region": "federal",
+   "emoji": "🤱",
+   "title": "Annelik izni (moederschapsrust)",
+   "summary": "Çalışan anneler için doğum öncesi ve sonrası izin.",
+   "bullets": [
+    "Toplam 15 hafta (çoğul gebelikte daha uzun)",
+    "Ödemeyi sağlık sigortası yapar",
+    "Doğumdan önceki 1 hafta zorunludur"
+   ],
+   "who": "Çalışan ya da işsiz anneler",
+   "how": "Doktor belgesini sağlık sigortanıza verin",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "RIZIV/INAMI – moederschapsrust",
+     "url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen"
+    }
+   ]
+  },
+  {
+   "id": "leave-parental",
+   "section": "leave",
+   "region": "federal",
+   "emoji": "👪",
+   "title": "Ebeveyn izni (ouderschapsverlof / congé parental)",
+   "summary": "Çocuk 12 yaşına gelmeden her ebeveyn için.",
+   "bullets": [
+    "Tam zamanlı, yarım, 1/5 ya da 1/10 biçimlerinde alınabilir",
+    "Çocuk 12 yaşını doldurmadan başlamalı (engelli çocukta 21)",
+    "Gelir kaybını RVA/ONEM öder; vergiye tabidir",
+    "Flaman bölgesinde özel sektörde ek teşvik primi (aanmoedigingspremie) olabilir"
+   ],
+   "who": "Çalışanlar (işverende belirli süre çalışmış olmak gerekir)",
+   "how": "İşverene yazılı bildirim + Break@Work / RVA başvurusu",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Vlaanderen – ouderschapsverlof",
+     "url": "https://www.vlaanderen.be/ouderschapsverlof"
+    },
+    {
+     "label": "RVA/ONEM",
+     "url": "https://www.rva.be"
+    }
+   ]
+  },
+  {
+   "id": "tax-childcare",
+   "section": "tax",
+   "region": "federal",
+   "emoji": "🧾",
+   "title": "Çocuk bakımı vergi indirimi",
+   "summary": "Kreş, okul sonrası bakım ve tatil kampı masrafları için.",
+   "bullets": [
+    "14 yaşından küçük çocuklar (ağır engelde 21)",
+    "Çocuk ve gün başına en fazla 17,30 € masraf hesaba katılır (2026 gelirleri)",
+    "İndirim %45; düşük gelirli tek ebeveynde %75",
+    "Tanınmış kurumdan model belge (attest) gerekir"
+   ],
+   "who": "Mesleki geliri olan, çocuğu vergi açısından bakmakla yükümlü olduğu kişi",
+   "how": "Vergi beyannamesinde kodlarla; belgeleri saklayın",
+   "validFrom": "Gelir yılı 2026",
+   "links": [
+    {
+     "label": "Wikifin – kinderopvang",
+     "url": "https://www.wikifin.be/nl/belasting-werk-en-inkomen/belastingaangifte/belastingverminderingen/kosten-voor-kinderopvang"
+    }
+   ]
+  },
+  {
+   "id": "tax-under3",
+   "section": "tax",
+   "region": "federal",
+   "emoji": "🧾",
+   "title": "3 yaş altı çocuk için ek vergisiz tutar",
+   "summary": "Bakım masrafı beyan etmeyenler için.",
+   "bullets": [
+    "Çocuk bakımı masrafı beyan edilmeyen 3 yaş altı çocuk için 760 € ek vergisiz tutar"
+   ],
+   "who": "3 yaş altı çocuğu olan ve bakım masrafı beyan etmeyenler",
+   "how": "Vergi beyannamesinde",
+   "validFrom": "Gelir yılı 2026",
+   "links": [
+    {
+     "label": "Wikifin",
+     "url": "https://www.wikifin.be/nl/belasting-werk-en-inkomen/belastingaangifte/belastingverminderingen/kosten-voor-kinderopvang"
+    }
+   ]
+  },
+  {
+   "id": "tax-dependent",
+   "section": "tax",
+   "region": "federal",
+   "emoji": "👨‍👩‍👧",
+   "title": "Bakmakla yükümlü çocuk ve öğrenci işi",
+   "summary": "Çocuğun öğrenci işi geliri, belli bir tutara kadar ailenin vergi avantajını bozmaz.",
+   "bullets": [
+    "Bakmakla yükümlü çocuk sayısı arttıkça vergisiz tutar artar",
+    "Öğrenci işi gelirinin ilk kısmı (2026 vergi yılı için 6.840 €) hesaba katılmaz",
+    "Sınır aşılırsa çocuk 'bakmakla yükümlü' sayılmayabilir"
+   ],
+   "who": "Çocuğu olan vergi mükellefleri",
+   "how": "Vergi beyannamesi",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Wikifin – kinderen ten laste",
+     "url": "https://www.wikifin.be/nl/belasting-werk-en-inkomen/belastingaangifte/je-gezinssituatie/de-kinderen-ten-laste"
+    },
+    {
+     "label": "Legal News – studentenarbeid",
+     "url": "https://legalnews.be/arbeid-sociale-zekerheid/studentenarbeid-hervormd-de-nieuwe-urenlimiet-uitgelegd-commit-law/"
+    }
+   ]
+  },
+  {
+   "id": "health-dental",
+   "section": "health",
+   "region": "federal",
+   "emoji": "🦷",
+   "title": "Çocuklarda diş tedavisi ücretsiz",
+   "summary": "Anlaşmalı (geconventioneerd) dişçide temel bakım tamamen ücretsiz.",
+   "bullets": [
+    "18 yaşına kadar 6 ayda bir kontrol ve temizlik",
+    "19 yaşına kadar dolgu, kanal tedavisi, diş çekimi",
+    "Diş teli kısmen geri ödenir; kron, köprü, implant ödenmez",
+    "Anlaşmalı olmayan dişçi ek ücret isteyebilir"
+   ],
+   "who": "Sağlık sigortalı tüm çocuklar",
+   "how": "Dişçiye 'geconventioneerd/conventionné' olup olmadığını sorun",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "RIZIV/INAMI – tandzorg kinderen",
+     "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tandzorg-kinderen-onder-19-jaar"
+    }
+   ]
+  },
+  {
+   "id": "health-gp",
+   "section": "health",
+   "region": "federal",
+   "emoji": "🩺",
+   "title": "Ev doktoru: Global Tıbbi Dosya (GMD/DMG)",
+   "summary": "Çocuğunuz için bir ev doktoru seçip ücretsiz dosya açtırın.",
+   "bullets": [
+    "GMD açtırmak ücretsiz; muayene ücretinden daha az pay ödersiniz",
+    "Artırılmış ödemesi (verhoogde tegemoetkoming / BIM) olan 0–24 yaş için ev doktoru ziyareti tamamen ücretsiz (Ekim 2023'ten beri)"
+   ],
+   "who": "Herkes; ücretsizlik BIM statüsündekiler için",
+   "how": "Ev doktorunuzdan GMD açmasını isteyin",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "RIZIV/INAMI",
+     "url": "https://www.inami.fgov.be/nl/nieuws/het-riziv-vergoedt-doktersbezoek-volledig-voor-financieel-kwetsbare-kinderen-en-jongeren"
+    }
+   ]
+  },
+  {
+   "id": "health-bim",
+   "section": "health",
+   "region": "federal",
+   "emoji": "💳",
+   "title": "Artırılmış sağlık ödemesi (verhoogde tegemoetkoming / BIM)",
+   "summary": "Düşük gelirli ailelerde doktor, ilaç ve hastane daha ucuz.",
+   "bullets": [
+    "Bazı durumlarda otomatik verilir, değilse sağlık sigortanıza başvurulur",
+    "Toplu taşıma, enerji ve okul gibi başka indirimlerin de kapısını açar"
+   ],
+   "who": "Geliri sınırın altındakiler",
+   "how": "Sağlık sigortanıza (ziekenfonds/mutualité) sorun",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Sociale zekerheid",
+     "url": "https://www.socialsecurity.be/citizen/nl/gezondheid"
+    }
+   ]
+  },
+  {
+   "id": "health-vacc",
+   "section": "health",
+   "region": "all",
+   "emoji": "💉",
+   "title": "Ücretsiz aşılar ve çocuk sağlığı takibi",
+   "summary": "Temel aşılar ücretsiz; çocuk danışma merkezleri ücretsiz.",
+   "bullets": [
+    "Temel aşı programı: difteri, tetanoz, boğmaca, çocuk felci, Hib, hepatit B, pnömokok, kızamık-kabakulak-kızamıkçık, meningokok ACWY, HPV",
+    "Yasal olarak zorunlu tek aşı çocuk felcidir (polio)",
+    "Flaman: 0–3 yaş Kind en Gezin (Opgroeien), okulda CLB",
+    "Brüksel ve Valon: 0–6 yaş ONE danışmaları ücretsiz, okulda PSE"
+   ],
+   "who": "Tüm çocuklar",
+   "how": "Kind en Gezin / ONE randevusu, ev doktoru ya da çocuk doktoru",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Vlaanderen – basisvaccinaties",
+     "url": "https://www.vlaanderen.be/vaccinaties/basisvaccinaties-voor-kinderen-en-jongeren"
+    },
+    {
+     "label": "be.brussels – ONE",
+     "url": "https://be.brussels/fr/aide-social-sante/sante/soins-prenatals-et-des-enfants"
+    }
+   ]
+  },
+  {
+   "id": "school-compulsory",
+   "section": "school",
+   "region": "all",
+   "emoji": "🏫",
+   "title": "Zorunlu eğitim 5–18 yaş",
+   "summary": "Çocuk 5 yaşına girdiği yılın eylülünden 18 yaşına kadar.",
+   "bullets": [
+    "Anaokulunun son yılı zorunludur",
+    "Okula kayıt ücretsizdir",
+    "Evde eğitim mümkün ama denetime tabidir"
+   ],
+   "who": "Tüm çocuklar",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Vlaanderen – leerplicht",
+     "url": "https://www.vlaanderen.be/leerplicht"
+    }
+   ]
+  },
+  {
+   "id": "vl-maxfactuur",
+   "section": "school",
+   "region": "flanders",
+   "emoji": "🧮",
+   "title": "Okul masraflarında üst sınır (maximumfactuur)",
+   "summary": "Flaman ilk ve anaokullarında okulun isteyebileceği tutar sınırlı.",
+   "bullets": [
+    "Yıllık sınır: anaokulu 55 €, ilkokul 110 € (2026–2027)",
+    "Çok günlü geziler: ilkokulun tamamı için toplam 560 €",
+    "Anaokulunda çok günlü gezi ücretsiz olmalı",
+    "Ders için gerekli materyal, bir yıl yüzme (ulaşım dahil) ücretsiz"
+   ],
+   "who": "Hollandaca ilk ve anaokulları",
+   "how": "Faturada sınır aşılırsa okula ve CLB'ye danışın",
+   "validFrom": "2026–2027",
+   "links": [
+    {
+     "label": "Vlaanderen – schoolkosten basisonderwijs",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming/school-en-studiekosten/schoolkosten-basisonderwijs"
+    }
+   ]
+  },
+  {
+   "id": "fwb-gratuite",
+   "section": "school",
+   "region": "fwb",
+   "emoji": "✏️",
+   "title": "Ücretsiz okul malzemesi (gratuité scolaire)",
+   "summary": "Fransızca okullarda defter, kalem, makas gibi malzemeyi okul verir.",
+   "bullets": [
+    "2026–2027: anaokulundan 5. sınıfa kadar; 2027–2028'de 6. sınıf da dahil",
+    "Okul malzeme listesi veremez",
+    "Aile yine boş çanta, boş kalemlik ve spor kıyafeti alır; marka dayatılamaz",
+    "Gezi ve yüzme için yalnızca gerçek maliyet istenebilir; 50 € üstü taksitlenebilir; ödememek kayıt reddine yol açamaz"
+   ],
+   "who": "Brüksel ve Valon'daki Fransızca okullar",
+   "how": "",
+   "validFrom": "2026–2027",
+   "links": [
+    {
+     "label": "Bruxelles-J – gratuité 2026",
+     "url": "https://www.bruxelles-j.be/actus/gratuite-scolaire-rentree-2026/"
+    }
+   ]
+  },
+  {
+   "id": "tr-nmbs-kids",
+   "section": "transport",
+   "region": "federal",
+   "emoji": "🚆",
+   "title": "Trende çocuklar ücretsiz (Free4kids)",
+   "summary": "12 yaşına kadar çocuklar ücret ödeyen biriyle bedava.",
+   "bullets": [
+    "Ücret ödeyen her yolcu en fazla 4 çocuğu bedava götürebilir",
+    "5. çocuk için Kids Ticket",
+    "26 yaş altı: Youth Ticket 7,10 €, Youth Multi 10 yolculuk 57 €",
+    "Yaz tatilinde Youth Holidays: 1 hafta 19 €, 1 ay 31 €"
+   ],
+   "who": "Tüm aileler",
+   "how": "Bilet alırken çocukları ekleyin",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Gezinsbond – NMBS tarieven",
+     "url": "https://www.gezinsbond.be/inspiratie-advies/vind-je-weg-in-de-jungle-van-nmbs-tarieven-dit-is-jouw-goedkoopste-treinticket"
+    },
+    {
+     "label": "NMBS/SNCB",
+     "url": "https://www.belgiantrain.be"
+    }
+   ]
+  },
+  {
+   "id": "tr-grote",
+   "section": "transport",
+   "region": "federal",
+   "emoji": "👨‍👩‍👧‍👦",
+   "title": "Kalabalık aile kartı (trende %50)",
+   "summary": "En az 3 çocuklu aileler için.",
+   "bullets": [
+    "Sabit olmayan bilet kısmında %50 indirim",
+    "Kart başvurusu 6 €",
+    "Gezinsbond ya da NMBS üzerinden başvurulur",
+    "NMBS tarife yapısı değişiyor; güncel durumu kontrol edin"
+   ],
+   "who": "3+ çocuklu aileler",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Gezinsbond",
+     "url": "https://www.gezinsbond.be/inspiratie-advies/vind-je-weg-in-de-jungle-van-nmbs-tarieven-dit-is-jouw-goedkoopste-treinticket"
+    }
+   ]
+  },
+  {
+   "id": "tr-delijn",
+   "section": "transport",
+   "region": "flanders",
+   "emoji": "🚌",
+   "title": "De Lijn: çocuk ve genç abonmanı",
+   "summary": "Flaman otobüs ve tramvayları.",
+   "bullets": [
+    "12 yaş ve üstü biriyle seyahat eden 5 yaşa kadar çocuklar bedava",
+    "6–11 yaş Buzzy Pazz: yıllık 68 €",
+    "12–24 yaş için indirimli Buzzy Pazz (1, 3, 12 ay)",
+    "MOBIB kartı 5 yıl için 10 €"
+   ],
+   "who": "Flaman bölgesi",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Vlaanderen – Buzzy Pazz",
+     "url": "https://www.vlaanderen.be/buzzy-pazz-van-6-tot-24-jaar"
+    }
+   ]
+  },
+  {
+   "id": "tr-stib",
+   "section": "transport",
+   "region": "brussels",
+   "emoji": "🚇",
+   "title": "STIB: çocuklar ve gençler",
+   "summary": "Brüksel metro, tramvay, otobüs.",
+   "bullets": [
+    "6 yaş altı: ücret ödeyen bir yetişkinle bedava",
+    "6–11 yaş: ücretsiz abonman (12. yaş gününe kadar)",
+    "12–17 yaş: okul abonmanı yılda 12 €",
+    "18–24 yaş Brüksel sakinleri: yılda 12 € (fiyatlar 2025–2026 okul yılı, kontrol edin)"
+   ],
+   "who": "Brüksel",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Bruxelles-J – STIB",
+     "url": "https://www.bruxelles-j.be/actus/abonnement-scolaire-stib-etudiants-jeunes-bruxelles/"
+    }
+   ]
+  },
+  {
+   "id": "tr-tec",
+   "section": "transport",
+   "region": "wallonia",
+   "emoji": "🚌",
+   "title": "TEC: 6–11 yaş ücretsiz",
+   "summary": "Valon otobüsleri.",
+   "bullets": [
+    "6–11 yaş: kişiye özel MOBIB kartına yüklenen ücretsiz Express abonmanı (12 yaşın ayının sonuna kadar)",
+    "12–17 ve 18–24 yaş için indirimli abonmanlar"
+   ],
+   "who": "Valon bölgesi",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "wallonie.be – TEC 6–11",
+     "url": "https://wallonie.be/fr/demarches/me-deplacer-gratuitement-en-bus-pour-les-enfants-ages-de-6-11-ans"
+    }
+   ]
+  },
+  {
+   "id": "youth-job",
+   "section": "youth",
+   "region": "federal",
+   "emoji": "💼",
+   "title": "Öğrenci işi: yılda 650 saat",
+   "summary": "Gençler düşük primle çalışabilir.",
+   "bullets": [
+    "En az 15 yaş (ortaokulun ilk 2 yılını bitirmediyse 16)",
+    "Yılda 650 saat öğrenci statüsünde (2025'ten beri kalıcı)",
+    "18–25 yaş: 650 saati aşmadıkça çocuk parası devam eder",
+    "student@work uygulamasından kalan saat görülür"
+   ],
+   "who": "15 yaş üstü öğrenciler",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Legal News",
+     "url": "https://legalnews.be/arbeid-sociale-zekerheid/studentenarbeid-hervormd-de-nieuwe-urenlimiet-uitgelegd-commit-law/"
+    },
+    {
+     "label": "Student@work",
+     "url": "https://www.mysocialsecurity.be/student"
+    }
+   ]
+  },
+  {
+   "id": "youth-kidsid",
+   "section": "youth",
+   "region": "all",
+   "emoji": "🆔",
+   "title": "Kids-ID",
+   "summary": "12 yaş altı çocukların yurt dışı yolculuğu için kimlik.",
+   "bullets": [
+    "Belediyeden alınır, hazırlanması birkaç hafta sürebilir",
+    "Tatilden en az 3 hafta önce başvurun",
+    "Acil durum için 'Hallo Ouders' telefon hizmeti içerir"
+   ],
+   "who": "12 yaş altı Belçika vatandaşı çocuklar",
+   "how": "Belediye nüfus hizmeti",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "IBZ – Kids-ID",
+     "url": "https://www.ibz.rrn.fgov.be/nl/identiteitsdocumenten/kids-id/"
+    }
+   ]
+  },
+  {
+   "id": "fun-uitpas",
+   "section": "leisure",
+   "region": "flanders",
+   "emoji": "🎟️",
+   "title": "UiTPAS ve kansentarief",
+   "summary": "Flaman belediyelerinde etkinlik puanı ve düşük gelirliye büyük indirim.",
+   "bullets": [
+    "Kültür, spor, kamp ve müze etkinliklerinde puan toplanır",
+    "Düşük gelirli aileler için 'kansentarief' indirimi",
+    "Kart belediyede ya da kütüphanede alınır"
+   ],
+   "who": "Flaman bölgesi",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "UiTPAS",
+     "url": "https://www.uitpas.be"
+    }
+   ]
+  },
+  {
+   "id": "fun-art27",
+   "section": "leisure",
+   "region": "brussels",
+   "emoji": "🎭",
+   "title": "Article 27",
+   "summary": "Brüksel ve Valon'da düşük gelirliler için sembolik ücretle kültür etkinliği.",
+   "bullets": [
+    "Tiyatro, sinema, müze, konser",
+    "Bilet CPAS/OCMW ya da sosyal kurumlar aracılığıyla alınır"
+   ],
+   "who": "Brüksel ve Valon; düşük gelirliler",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Article 27",
+     "url": "https://www.article27.be"
+    }
+   ]
+  },
+  {
+   "id": "fun-gezinsbond",
+   "section": "leisure",
+   "region": "flanders",
+   "emoji": "🏷️",
+   "title": "Gezinsbond üyeliği",
+   "summary": "Aileler için indirim kartı ve danışmanlık.",
+   "bullets": [
+    "Birçok mağaza ve parkta indirim",
+    "Kalabalık aile kartı ve vergi beyannamesi yardımı"
+   ],
+   "who": "Tüm aileler (ücretli üyelik)",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Gezinsbond",
+     "url": "https://www.gezinsbond.be"
+    }
+   ]
+  },
+  {
+   "id": "help-cpas",
+   "section": "support",
+   "region": "all",
+   "emoji": "🏛️",
+   "title": "OCMW / CPAS: sosyal yardım merkezi",
+   "summary": "Her belediyede; geçim zorluğu, kira, enerji, okul masrafı için destek.",
+   "bullets": [
+    "Gelir desteği (leefloon / revenu d'intégration)",
+    "Fatura, kira, sağlık masrafı ve borç danışmanlığı",
+    "Ücretsiz ve gizli görüşme"
+   ],
+   "who": "Yardıma ihtiyacı olan herkes",
+   "how": "Belediyenizin OCMW/CPAS'ına gidin",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Belgium.be",
+     "url": "https://www.belgium.be/nl/familie/sociale_bijstand"
+    }
+   ]
+  },
+  {
+   "id": "help-energy",
+   "section": "support",
+   "region": "federal",
+   "emoji": "⚡",
+   "title": "Sosyal enerji tarifesi",
+   "summary": "Belirli sosyal yardım alanlara en ucuz elektrik ve gaz fiyatı.",
+   "bullets": [
+    "Çoğu durumda otomatik uygulanır",
+    "BIM statüsü tek başına her zaman yetmez; koşulları kontrol edin"
+   ],
+   "who": "Belirli yardımları alanlar",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "FOD Economie – sociaal tarief",
+     "url": "https://economie.fgov.be/nl/themas/energie/energieprijzen/sociaal-tarief-voor-energie"
+    }
+   ]
+  },
+  {
+   "id": "help-kinderrechten",
+   "section": "support",
+   "region": "all",
+   "emoji": "⚖️",
+   "title": "Çocuk hakları ve şikâyet",
+   "summary": "Çocuğun hakkı çiğnendiğinde ücretsiz başvuru.",
+   "bullets": [
+    "Flaman: Kinderrechtencommissariaat (Klachtenlijn 0800 20 808)",
+    "Fransızca: Délégué général aux droits de l'enfant (DGDE)",
+    "Dinleme hatları: 102 Awel (NL), 103 Écoute-Enfants (FR)"
+   ],
+   "who": "Çocuklar, gençler ve aileleri",
+   "how": "",
+   "validFrom": "",
+   "links": [
+    {
+     "label": "Kinderrechtencommissariaat",
+     "url": "https://www.kinderrechtencommissariaat.be"
+    },
+    {
+     "label": "DGDE",
+     "url": "https://www.dgde.cfwb.be"
+    }
+   ]
+  }
+ ]
+}

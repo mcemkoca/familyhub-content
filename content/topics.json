@@ -1,0 +1,871 @@
+{
+ "topics": [
+  {
+   "id": "safety",
+   "emoji": "🛡️",
+   "title": "Güvenlik",
+   "color": "#EF4444",
+   "intro": "Evde, yolda ve internette çocuğu korumak için kısa, uygulanabilir kartlar. Acil durumda önce 112.",
+   "cards": [
+    {
+     "id": "s-112",
+     "emoji": "🚨",
+     "title": "112'yi öğretin",
+     "text": "Çocuk 3–4 yaşından itibaren acil numarayı ve ev adresini bilmeli.",
+     "bullets": [
+      "Oyunla prova yapın: 'Biri bayılırsa ne yaparsın?'",
+      "Adres, ebeveyn adı ve telefon numarası ezberlensin",
+      "Kilitli telefondan da acil arama yapılabildiğini gösterin"
+     ],
+     "ageMin": 3,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "s-poison",
+     "emoji": "☠️",
+     "title": "Zehirlenmeye karşı",
+     "text": "Küçük çocuklarda kazaların başında ilaç, deterjan ve kapsül deterjanlar gelir.",
+     "bullets": [
+      "İlaç ve temizlik ürünleri kilitli ve yüksekte",
+      "Ürünleri asla su şişesine aktarmayın",
+      "Şüphede hemen Zehir Danışma: 070 245 245 (7/24, ücretsiz danışmanlık)"
+     ],
+     "ageMin": 0,
+     "ageMax": 6,
+     "source": {
+      "label": "Antigifcentrum",
+      "url": "https://www.antigifcentrum.be"
+     }
+    },
+    {
+     "id": "s-falls",
+     "emoji": "⚠️",
+     "title": "Düşmeler",
+     "text": "Bebek ve küçük çocuklarda en sık kaza.",
+     "bullets": [
+      "Bebeği değiştirme masasında bir an bile yalnız bırakmayın",
+      "Merdivenlere kapı, pencerelere kilit",
+      "Mobilyaları duvara sabitleyin (devrilme)"
+     ],
+     "ageMin": 0,
+     "ageMax": 5,
+     "source": null
+    },
+    {
+     "id": "s-water",
+     "emoji": "🌊",
+     "title": "Su güvenliği",
+     "text": "Boğulma sessiz olur; birkaç santimetre su yeter.",
+     "bullets": [
+      "Banyoda çocuğu asla yalnız bırakmayın",
+      "Havuz ve denizde 'kol mesafesi' kuralı",
+      "Çocuğu yüzme dersine yazdırın (okulda bir yıl ücretsiz yüzme vardır)"
+     ],
+     "ageMin": 0,
+     "ageMax": 12,
+     "source": null
+    },
+    {
+     "id": "s-fire",
+     "emoji": "🔥",
+     "title": "Yangın ve duman dedektörü",
+     "text": "Belçika'da her katta duman dedektörü önerilir; bazı bölgelerde zorunludur.",
+     "bullets": [
+      "Ayda bir test düğmesine basın",
+      "Kaçış planı çizin, buluşma noktası belirleyin",
+      "Kibrit ve çakmak çocuktan uzakta"
+     ],
+     "ageMin": 0,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "s-co",
+     "emoji": "💨",
+     "title": "Karbonmonoksit",
+     "text": "Kokusuz ve görünmez; kombi ve şofbenden sızabilir.",
+     "bullets": [
+      "Kombiyi düzenli bakıma verin",
+      "CO dedektörü takın",
+      "Baş ağrısı ve uyuşukluk evde birden fazla kişide görülürse dışarı çıkın, 112'yi arayın"
+     ],
+     "ageMin": 0,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "s-car",
+     "emoji": "🚗",
+     "title": "Araçta çocuk koltuğu",
+     "text": "Belçika'da 1,35 m altındaki çocuklar uygun çocuk koltuğunda taşınmalı.",
+     "bullets": [
+      "Bebek koltuğu mümkün olduğunca uzun süre arkaya bakmalı",
+      "Ön koltukta arkaya bakan koltuk varsa hava yastığı kapalı olmalı",
+      "Çocuğu araçta asla yalnız bırakmayın"
+     ],
+     "ageMin": 0,
+     "ageMax": 12,
+     "source": {
+      "label": "Vias",
+      "url": "https://www.vias.be"
+     }
+    },
+    {
+     "id": "s-traffic",
+     "emoji": "🚸",
+     "title": "Trafikte",
+     "text": "Çocuklar 8–10 yaşına kadar hız ve mesafeyi doğru tahmin edemez.",
+     "bullets": [
+      "Okul yolunu birlikte yürüyüp tehlikeli noktaları gösterin",
+      "Kışın fosforlu yelek ve çantada reflektör",
+      "Bisiklette kask ve çalışan ışıklar"
+     ],
+     "ageMin": 4,
+     "ageMax": 14,
+     "source": null
+    },
+    {
+     "id": "s-stranger",
+     "emoji": "🙅",
+     "title": "Tanımadığı kişiler",
+     "text": "'Yabancı' yerine 'güvenli yetişkin' öğretin.",
+     "bullets": [
+      "Aile parolası belirleyin: parolayı bilmeyen kimseyle gitmez",
+      "Kaybolursa: olduğu yerde kalsın, çocuklu bir anneye ya da görevliye sorsun",
+      "Vücudu kendisinindir; 'hayır' diyebilir ve sırrı saklamak zorunda değildir"
+     ],
+     "ageMin": 3,
+     "ageMax": 12,
+     "source": null
+    },
+    {
+     "id": "s-online",
+     "emoji": "💻",
+     "title": "İnternette güvenlik",
+     "text": "Ekranda tanıştığı kişi gerçekte farklı olabilir.",
+     "bullets": [
+      "Ad, okul, adres ve fotoğraf paylaşma kuralları konuşun",
+      "Oyun ve sohbet uygulamalarında gizlilik ayarlarını birlikte yapın",
+      "Rahatsız edici bir şey görürse suçlanmadan size anlatabileceğini bilsin",
+      "Destek: Child Focus 116 000"
+     ],
+     "ageMin": 6,
+     "ageMax": 17,
+     "source": {
+      "label": "Child Focus",
+      "url": "https://childfocus.be"
+     }
+    },
+    {
+     "id": "s-cyber",
+     "emoji": "📱",
+     "title": "Siber zorbalık",
+     "text": "Zorbalık okul sonrası da sürebilir.",
+     "bullets": [
+      "Mesajları silmeden ekran görüntüsü alın",
+      "Engelle ve bildir",
+      "Okulla ve gerekirse CLB/PSE ile konuşun",
+      "Dinleme hattı: 102 Awel (NL) / 103 Écoute-Enfants (FR)"
+     ],
+     "ageMin": 8,
+     "ageMax": 17,
+     "source": null
+    },
+    {
+     "id": "s-sun",
+     "emoji": "☀️",
+     "title": "Güneş ve sıcak",
+     "text": "Bebeklerin cildi çok hassastır.",
+     "bullets": [
+      "1 yaş altını doğrudan güneşe çıkarmayın",
+      "Şapka, gölge ve sık su",
+      "Sıcak havada çocuğu asla arabada bırakmayın"
+     ],
+     "ageMin": 0,
+     "ageMax": 12,
+     "source": null
+    },
+    {
+     "id": "s-sleep",
+     "emoji": "😴",
+     "title": "Güvenli bebek uykusu",
+     "text": "Ani bebek ölümü riskini azaltmak için.",
+     "bullets": [
+      "Sırtüstü, kendi yatağında, düz ve sert yatakta",
+      "Yatakta yastık, yorgan, oyuncak yok",
+      "Oda 18 °C civarı, sigarasız ortam"
+     ],
+     "ageMin": 0,
+     "ageMax": 1,
+     "source": null
+    },
+    {
+     "id": "s-magnets",
+     "emoji": "🔋",
+     "title": "Düğme pil ve mıknatıs",
+     "text": "Yutulursa birkaç saatte ciddi yanık yapabilir.",
+     "bullets": [
+      "Kumanda ve oyuncakların pil kapakları vidalı olsun",
+      "Yuttuğundan şüphelenirseniz beklemeden acile gidin"
+     ],
+     "ageMin": 0,
+     "ageMax": 6,
+     "source": null
+    },
+    {
+     "id": "s-dog",
+     "emoji": "🐕",
+     "title": "Köpeklerle",
+     "text": "Isırıkların çoğu tanıdık köpektendir.",
+     "bullets": [
+      "Yemek yerken ve uyurken köpeğe dokunmamak",
+      "Sahibine sormadan sevmemek",
+      "Küçük çocuğu köpekle yalnız bırakmamak"
+     ],
+     "ageMin": 2,
+     "ageMax": 10,
+     "source": null
+    }
+   ],
+   "checklists": [
+    {
+     "id": "c-baby",
+     "title": "Bebek için ev kontrolü",
+     "items": [
+      "Prizlere koruyucu",
+      "Merdivenlere kapı",
+      "Mobilyalar duvara sabit",
+      "İlaçlar kilitli dolapta",
+      "Kordon ve perde ipleri yukarıda",
+      "Sıcak içecekler masa kenarında değil",
+      "Duman dedektörü çalışıyor"
+     ],
+     "ageMin": 0,
+     "ageMax": 3
+    },
+    {
+     "id": "c-school",
+     "title": "Okul çağı güvenlik listesi",
+     "items": [
+      "Adres ve ebeveyn telefonunu biliyor",
+      "Aile parolası var",
+      "Okul yolunu biliyor, tehlikeli noktalar konuşuldu",
+      "Bisiklet kaskı ve ışıklar tamam",
+      "Yüzme biliyor",
+      "İnternet kuralları konuşuldu"
+     ],
+     "ageMin": 5,
+     "ageMax": 12
+    },
+    {
+     "id": "c-home",
+     "title": "Aile acil durum planı",
+     "items": [
+      "Acil numaralar telefonda kayıtlı",
+      "Evde ilk yardım çantası",
+      "Kaçış planı ve buluşma noktası",
+      "Önemli belgelerin kopyası",
+      "Bakıcı kartı güncel",
+      "Komşu ya da yakın akraba yedek anahtar"
+     ],
+     "ageMin": 0,
+     "ageMax": 99
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "emoji": "🩺",
+   "title": "Sağlık",
+   "color": "#10B981",
+   "intro": "Çocuğun büyümesi, uykusu, ekranı ve dişleri için güvenilir kaynaklara dayanan kısa bilgiler. Endişeniz varsa ev doktorunuza danışın.",
+   "cards": [
+    {
+     "id": "h-fever",
+     "emoji": "🌡️",
+     "title": "Ateş ne zaman acil?",
+     "text": "Ateşin kendisi değil, çocuğun genel durumu önemlidir.",
+     "bullets": [
+      "3 aydan küçük bebekte 38 °C ve üzeri: hemen doktor",
+      "Çok halsiz, uyandırılamıyor, nefes almakta zorlanıyor, döküntü basınca solmuyor: 112",
+      "Bol sıvı verin; ilaç dozu için prospektüse ve eczacıya bakın",
+      "Gece ve hafta sonu nöbetçi doktor: 1733"
+     ],
+     "ageMin": 0,
+     "ageMax": 17,
+     "source": null
+    },
+    {
+     "id": "h-sleep",
+     "emoji": "🌙",
+     "title": "Yaşa göre uyku",
+     "text": "Önerilen günlük uyku süreleri (şekerlemeler dahil).",
+     "bullets": [
+      "4–12 ay: 12–16 saat",
+      "1–2 yaş: 11–14 saat",
+      "3–5 yaş: 10–13 saat",
+      "6–12 yaş: 9–12 saat",
+      "13–18 yaş: 8–10 saat",
+      "Yatmadan 1 saat önce ekran kapalı"
+     ],
+     "ageMin": 0,
+     "ageMax": 18,
+     "source": {
+      "label": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org"
+     }
+    },
+    {
+     "id": "h-screen",
+     "emoji": "📺",
+     "title": "Ekran süresi",
+     "text": "Süre kadar içerik ve birlikte izlemek de önemli.",
+     "bullets": [
+      "2 yaş altı: görüntülü aile görüşmeleri dışında ekransız",
+      "2–5 yaş: günde en fazla 1 saat, birlikte",
+      "Yemekte ve yatak odasında ekran yok",
+      "Aile medya planı yapın"
+     ],
+     "ageMin": 0,
+     "ageMax": 12,
+     "source": {
+      "label": "WHO",
+      "url": "https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more"
+     }
+    },
+    {
+     "id": "h-move",
+     "emoji": "🏃",
+     "title": "Hareket",
+     "text": "Çocuklar her gün hareket etmeli.",
+     "bullets": [
+      "1–4 yaş: gün içine yayılmış en az 3 saat aktif oyun",
+      "5–17 yaş: her gün en az 60 dakika orta-yoğun hareket",
+      "Haftada 3 gün kas ve kemik güçlendiren oyun (tırmanma, zıplama)"
+     ],
+     "ageMin": 1,
+     "ageMax": 17,
+     "source": {
+      "label": "WHO",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+     }
+    },
+    {
+     "id": "h-teeth",
+     "emoji": "🦷",
+     "title": "Diş sağlığı",
+     "text": "İlk diş çıkınca fırçalama başlar.",
+     "bullets": [
+      "Günde 2 kez florürlü diş macunuyla",
+      "6 ayda bir dişçi kontrolü (18 yaşa kadar ücretsiz)",
+      "Şekerli içecekleri öğün arası vermeyin",
+      "8 yaşına kadar ebeveyn fırçalamayı kontrol etsin"
+     ],
+     "ageMin": 0,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "h-vacc",
+     "emoji": "💉",
+     "title": "Aşı karnesi",
+     "text": "Aşılar Kind en Gezin, ONE, CLB/PSE ya da doktor tarafından ücretsiz yapılır.",
+     "bullets": [
+      "Aşı kartını saklayın; uygulamada 'Aşılar' listesine işaretleyin",
+      "Kaçırılan aşı sonradan tamamlanabilir",
+      "Seyahat öncesi doktorunuza danışın"
+     ],
+     "ageMin": 0,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "h-eyes",
+     "emoji": "👀",
+     "title": "Göz ve kulak",
+     "text": "Erken fark edilen sorunlar okulda başarıyı etkiler.",
+     "bullets": [
+      "Kind en Gezin / ONE ve okul sağlık muayenelerinde göz-kulak testleri yapılır",
+      "Çok yakından bakma, göz kısma, sık baş ağrısı: göz doktoru",
+      "Seslenince tepki vermiyorsa kulak kontrolü"
+     ],
+     "ageMin": 0,
+     "ageMax": 12,
+     "source": null
+    },
+    {
+     "id": "h-mental",
+     "emoji": "💭",
+     "title": "Ruh sağlığı",
+     "text": "Çocukların da kaygı ve üzüntü dönemleri olur.",
+     "bullets": [
+      "Duygularını adlandırmasına yardım edin (Bağ → Duygu sözlüğü)",
+      "Uyku, iştah ya da arkadaşlıkta uzun süren değişiklik: CLB/PSE veya doktor",
+      "Gençler için: 102 Awel / 103 Écoute-Enfants, intihar önleme 1813"
+     ],
+     "ageMin": 4,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "h-firstaid",
+     "emoji": "🩹",
+     "title": "İlk yardım: yanık ve kesik",
+     "text": "Doğru ilk müdahale izi ve ağrıyı azaltır.",
+     "bullets": [
+      "Yanıkta 10–20 dakika ılık akan su; buz ve yağ sürmeyin",
+      "Kesikte bastırarak kanamayı durdurun, temizleyin",
+      "Bebekte ya da büyük yanıkta 112"
+     ],
+     "ageMin": 0,
+     "ageMax": 99,
+     "source": {
+      "label": "Rode Kruis / Croix-Rouge",
+      "url": "https://www.rodekruis.be"
+     }
+    },
+    {
+     "id": "h-choke",
+     "emoji": "🆘",
+     "title": "Boğulma (yabancı cisim)",
+     "text": "Öksürebiliyorsa öksürmeye teşvik edin.",
+     "bullets": [
+      "Öksüremiyor, konuşamıyorsa: sırtına 5 sert vuruş, sonra karın baskısı (1 yaş altında göğüs baskısı)",
+      "Bilinç kaybında 112 ve kalp masajı",
+      "Bir ilk yardım kursu alın (Kızılhaç)"
+     ],
+     "ageMin": 0,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "h-hand",
+     "emoji": "🧼",
+     "title": "El yıkama",
+     "text": "En basit ve etkili hastalık önleyici.",
+     "bullets": [
+      "Yemekten önce, tuvaletten sonra, dışarıdan gelince",
+      "20 saniye: 'İyi ki doğdun' şarkısını iki kez söyleyin"
+     ],
+     "ageMin": 2,
+     "ageMax": 12,
+     "source": null
+    }
+   ],
+   "checklists": [
+    {
+     "id": "vaccines",
+     "title": "Temel aşılar (Belçika programı)",
+     "items": [
+      "Difteri",
+      "Tetanoz",
+      "Boğmaca",
+      "Çocuk felci (polio – zorunlu)",
+      "Hib",
+      "Hepatit B",
+      "Pnömokok",
+      "Kızamık-kabakulak-kızamıkçık (1. doz)",
+      "Kızamık-kabakulak-kızamıkçık (2. doz)",
+      "Meningokok ACWY",
+      "HPV"
+     ],
+     "ageMin": 0,
+     "ageMax": 18
+    },
+    {
+     "id": "h-kit",
+     "title": "Ev ilk yardım çantası",
+     "items": [
+      "Ateş ölçer",
+      "Steril gazlı bez ve sargı",
+      "Yara bandı",
+      "Yara temizleme solüsyonu",
+      "Makas ve cımbız",
+      "Ateş düşürücü (yaşa uygun)",
+      "Acil numaralar kartı"
+     ],
+     "ageMin": 0,
+     "ageMax": 99
+    }
+   ]
+  },
+  {
+   "id": "nutrition",
+   "emoji": "🥗",
+   "title": "Beslenme",
+   "color": "#F59E0B",
+   "intro": "Aile sofrası için sade kurallar. Belçika'daki besin piramidi (voedingsdriehoek) temel alındı. Alerji ve özel durumlarda doktorunuza danışın.",
+   "cards": [
+    {
+     "id": "n-water",
+     "emoji": "💧",
+     "title": "Su en iyi içecek",
+     "text": "Meyve suyu ve gazlı içecek her gün değil.",
+     "bullets": [
+      "Masada her zaman su sürahisi",
+      "Okul çantasına matara",
+      "Şekerli içecekleri 'bayram içeceği' yapın"
+     ],
+     "ageMin": 1,
+     "ageMax": 99,
+     "source": {
+      "label": "Gezond Leven",
+      "url": "https://www.gezondleven.be/themas/voeding/voedingsdriehoek"
+     }
+    },
+    {
+     "id": "n-plate",
+     "emoji": "🍽️",
+     "title": "Yarım tabak sebze",
+     "text": "Kolay kural: tabağın yarısı sebze, çeyreği tam tahıl, çeyreği protein.",
+     "bullets": [
+      "Her akşam yemeğine bir sebze",
+      "Mercimek, nohut ve fasulye haftada birkaç kez",
+      "Bulgur, tam buğday ekmek, esmer pirinç"
+     ],
+     "ageMin": 2,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "n-breakfast",
+     "emoji": "🥣",
+     "title": "Kahvaltı",
+     "text": "Okul günü enerjisi kahvaltıyla başlar.",
+     "bullets": [
+      "Peynir, yumurta, zeytin, domates-salatalık, tam buğday ekmek",
+      "Hızlı seçenek: yoğurt + yulaf + meyve",
+      "Akşamdan masa hazırlığı sabahı kolaylaştırır"
+     ],
+     "ageMin": 3,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "n-lunchbox",
+     "emoji": "🍱",
+     "title": "Okul beslenme çantası",
+     "text": "Belçika okullarında öğle yemeği çoğu zaman evden gelir (brooddoos / boîte à tartines).",
+     "bullets": [
+      "Sandviç + sebze çubukları + meyve",
+      "Su ya da süt; şekerli içecek yok",
+      "Haftalık menüye 'beslenme' satırı ekleyin"
+     ],
+     "ageMin": 3,
+     "ageMax": 14,
+     "source": null
+    },
+    {
+     "id": "n-snacks",
+     "emoji": "🍎",
+     "title": "Ara öğün",
+     "text": "Günde 2 planlı ara öğün yeterli.",
+     "bullets": [
+      "Meyve, yoğurt, bir avuç tuzsuz kuruyemiş (4 yaş üstü)",
+      "Paketli atıştırmalıklar ara sıra",
+      "Ekran karşısında yemek yok"
+     ],
+     "ageMin": 1,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "n-baby",
+     "emoji": "👶",
+     "title": "Ek gıdaya geçiş",
+     "text": "Yaklaşık 6 aydan itibaren, anne sütü ya da mama devam ederken.",
+     "bullets": [
+      "Tek tek yeni gıdalar; tuz ve şeker eklemeyin",
+      "Bal 1 yaşından önce verilmez",
+      "Bütün kuruyemiş ve üzüm gibi yuvarlak gıdalar küçük çocukta boğulma riski: ezin ya da dörde bölün",
+      "Her bebek farklıdır; Kind en Gezin / ONE'a danışın"
+     ],
+     "ageMin": 0,
+     "ageMax": 2,
+     "source": {
+      "label": "Kind en Gezin",
+      "url": "https://www.kindengezin.be"
+     }
+    },
+    {
+     "id": "n-picky",
+     "emoji": "🙅",
+     "title": "Seçici yeme",
+     "text": "Yeni bir yiyeceği sevmek 10–15 deneme sürebilir.",
+     "bullets": [
+      "Zorlamayın, ödül ya da ceza yapmayın",
+      "Küçük porsiyon ve birlikte yemek",
+      "Çocuğu alışverişe ve mutfağa katın"
+     ],
+     "ageMin": 2,
+     "ageMax": 10,
+     "source": null
+    },
+    {
+     "id": "n-family",
+     "emoji": "👨‍👩‍👧",
+     "title": "Birlikte sofra",
+     "text": "Haftada birkaç aile yemeği hem beslenmeyi hem bağı güçlendirir.",
+     "bullets": [
+      "Telefonlar sepete",
+      "Günün sorusunu sofrada sorun (Bağ)",
+      "Her çocuğa bir görev: masa, ekmek, su"
+     ],
+     "ageMin": 0,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "n-sugar",
+     "emoji": "🍬",
+     "title": "Şeker",
+     "text": "Şekeri yasaklamak yerine yerini belirleyin.",
+     "bullets": [
+      "Tatlı yemekten sonra, küçük porsiyon",
+      "Etiket okuyun: şeker ilk 3 içerikteyse dikkat",
+      "Bayram ve kutlama tatlıları ayrı tutulur"
+     ],
+     "ageMin": 2,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "n-iron",
+     "emoji": "🥩",
+     "title": "Demir ve D vitamini",
+     "text": "Büyüyen çocuk için önemli.",
+     "bullets": [
+      "Demir: kırmızı et, mercimek, ıspanak + C vitamini (portakal, biber)",
+      "D vitamini: bebeklerde ve kışın takviye çoğu zaman önerilir; doktorunuza sorun"
+     ],
+     "ageMin": 0,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "n-ramadan",
+     "emoji": "🌙",
+     "title": "Ramazan'da çocuk ve genç",
+     "text": "Büyüme çağında sağlık önceliklidir.",
+     "bullets": [
+      "Küçük çocuklar oruç tutmaz; 'kuş orucu' gibi kısa denemeler yapılabilir",
+      "Oruç tutan gençte sahurda su, protein ve kompleks karbonhidrat",
+      "Sınav ve spor günlerinde dikkat; doktora danışın"
+     ],
+     "ageMin": 6,
+     "ageMax": 18,
+     "source": null
+    }
+   ],
+   "checklists": [
+    {
+     "id": "n-week",
+     "title": "Haftalık sağlıklı mutfak",
+     "items": [
+      "En az 3 akşam sebze ağırlıklı",
+      "1 akşam baklagil",
+      "2 kez balık ya da beyaz et",
+      "Her gün meyve",
+      "Su sürahisi masada",
+      "Haftalık menü planlandı"
+     ],
+     "ageMin": 0,
+     "ageMax": 99
+    }
+   ]
+  },
+  {
+   "id": "growth",
+   "emoji": "🌱",
+   "title": "Kişisel gelişim",
+   "color": "#8B5CF6",
+   "intro": "Çocuk ve ebeveyn için küçük alışkanlıklar. Her kartı bir haftalık deneme olarak düşünün; işe yarayanı rutine ekleyin.",
+   "cards": [
+    {
+     "id": "g-mindset",
+     "emoji": "🧠",
+     "title": "'Henüz' kelimesi",
+     "text": "'Yapamıyorum' yerine 'henüz yapamıyorum'.",
+     "bullets": [
+      "Sonuçtan çok çabayı övün: 'Çok uğraştın!'",
+      "Hataları birlikte inceleyin: 'Ne öğrendik?'"
+     ],
+     "ageMin": 4,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "g-chores",
+     "emoji": "🧹",
+     "title": "Yaşa uygun sorumluluk",
+     "text": "Ev işleri özgüveni büyütür.",
+     "bullets": [
+      "2–3 yaş: oyuncak toplama",
+      "4–5 yaş: sofra kurma, çorap eşleme",
+      "6–8 yaş: çanta hazırlama, bitki sulama",
+      "9–12 yaş: basit yemek, çamaşır katlama",
+      "13+ yaş: alışveriş listesi, kendi çamaşırı"
+     ],
+     "ageMin": 2,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "g-reading",
+     "emoji": "📖",
+     "title": "Her gün 15 dakika okuma",
+     "text": "Türkçe ve Hollandaca/Fransızca okuma birbirini destekler.",
+     "bullets": [
+      "Akşam rutinine okuma adımı ekleyin",
+      "Kütüphane üyeliği",
+      "Okuduğunu ailesine anlatsın"
+     ],
+     "ageMin": 3,
+     "ageMax": 14,
+     "source": null
+    },
+    {
+     "id": "g-emotions",
+     "emoji": "💛",
+     "title": "Duygu düzenleme",
+     "text": "Önce sakinleş, sonra konuş.",
+     "bullets": [
+      "'Kaplumbağa' tekniği: dur, nefes al, düşün",
+      "Duygu sözlüğünden günün duygusu",
+      "Ebeveyn de kendi duygusunu söylesin: 'Şu an yoruldum'"
+     ],
+     "ageMin": 3,
+     "ageMax": 14,
+     "source": null
+    },
+    {
+     "id": "g-goals",
+     "emoji": "🎯",
+     "title": "Küçük hedefler",
+     "text": "Büyük hedefi haftalık adımlara bölün.",
+     "bullets": [
+      "Bir hedef, bir hafta, bir ölçü",
+      "Hedefi görev olarak Plan'a ekleyin",
+      "Bitirince kutlayın"
+     ],
+     "ageMin": 7,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "g-money",
+     "emoji": "🐷",
+     "title": "Harçlıkla öğrenme",
+     "text": "Harcama, biriktirme, paylaşma kavanozu.",
+     "bullets": [
+      "Harçlık rehberi: Rehber → Para",
+      "Hedef: Ev → Bütçe → birikim hedefi"
+     ],
+     "ageMin": 5,
+     "ageMax": 16,
+     "source": null
+    },
+    {
+     "id": "g-boredom",
+     "emoji": "🌀",
+     "title": "Sıkılmak iyidir",
+     "text": "Yaratıcılık boş zamanda doğar.",
+     "bullets": [
+      "Her gün plansız oyun zamanı",
+      "Sıkıldım kutusu: içinde etkinlik kartları (Rehber → Etkinlikler)"
+     ],
+     "ageMin": 3,
+     "ageMax": 12,
+     "source": null
+    },
+    {
+     "id": "g-teen",
+     "emoji": "🧑‍🎓",
+     "title": "Gençle konuşmak",
+     "text": "Yan yana yapılan işlerde sohbet kolaylaşır.",
+     "bullets": [
+      "Araba yolculuğu, yemek yapma, yürüyüş",
+      "Yargılamadan dinleyin, çözümü önce o önersin",
+      "Haftalık 15 dakika 'sadece ikimiz'"
+     ],
+     "ageMin": 12,
+     "ageMax": 18,
+     "source": null
+    },
+    {
+     "id": "g-parent-rest",
+     "emoji": "☕",
+     "title": "Ebeveynin pili",
+     "text": "Yorgun ebeveyn sabırsız olur; kendinize zaman ayırın.",
+     "bullets": [
+      "Haftada bir 'sadece benim' saati",
+      "Görevleri paylaşın (Plan → Görevler)",
+      "Uyku ve hareket sizin için de geçerli"
+     ],
+     "ageMin": 18,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "g-parent-calm",
+     "emoji": "🧘",
+     "title": "Sakin ebeveynlik",
+     "text": "Bağırmadan sınır koymak.",
+     "bullets": [
+      "Kısa ve net cümle: 'Top içeride oynanmaz.'",
+      "Seçenek sunun: 'Şimdi mi, 5 dakika sonra mı?'",
+      "Hata yaptığınızda özür dileyin; çocuğa da öğretir"
+     ],
+     "ageMin": 18,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "g-gratitude",
+     "emoji": "🙏",
+     "title": "Minnet alışkanlığı",
+     "text": "Her akşam 3 güzel şey.",
+     "bullets": [
+      "Bağ → Minnet kavanozu",
+      "Yatmadan önce bir 'iyi ki' cümlesi"
+     ],
+     "ageMin": 3,
+     "ageMax": 99,
+     "source": null
+    },
+    {
+     "id": "g-bilingual",
+     "emoji": "🗣️",
+     "title": "İki dilli büyümek bir zenginlik",
+     "text": "Ev dili güçlüyse okul dili de daha kolay oturur.",
+     "bullets": [
+      "Evde Türkçe konuşmaktan çekinmeyin",
+      "Rehber → Türkçe kartları ile her gün 5 kelime",
+      "Okul dilini de destekleyin: kütüphane, oyun grupları"
+     ],
+     "ageMin": 0,
+     "ageMax": 18,
+     "source": null
+    }
+   ],
+   "checklists": [
+    {
+     "id": "g-week",
+     "title": "Bu hafta denediğimiz alışkanlık",
+     "items": [
+      "Pazartesi",
+      "Salı",
+      "Çarşamba",
+      "Perşembe",
+      "Cuma",
+      "Cumartesi",
+      "Pazar"
+     ],
+     "ageMin": 0,
+     "ageMax": 99
+    }
+   ]
+  }
+ ]
+}
