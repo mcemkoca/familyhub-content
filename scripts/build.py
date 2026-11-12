@@ -9,7 +9,7 @@ files = {}
 for p in sorted((root / "content").glob("*.json")):
     b = p.read_bytes(); (out / p.name).write_bytes(b)
     files[p.name] = {"sha256": hashlib.sha256(b).hexdigest(), "bytes": len(b)}
-notes = os.environ.get("FEED_NOTES", "").strip()[:200]
+notes = (os.environ.get("FEED_NOTES", "").strip().splitlines() or [""])[0][:120]
 manifest = {"schema": 1, "version": version, "published": datetime.date.today().isoformat(), "minApp": 16, "notes": notes, "files": files}
 mb = json.dumps(manifest, ensure_ascii=False, separators=(",", ":")).encode()
 (out / "manifest.json").write_bytes(mb)
