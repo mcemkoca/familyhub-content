@@ -1,0 +1,237 @@
+<title>FamilyHub Gizlilik Politikası</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap">
+<style>
+/* Layout: one readable column, a teal masthead like the app icon, sections as plain headed blocks; a short "at a glance" panel first. */
+:root {
+  --bg: #F4F8F7; --surface: #FFFFFF; --fg: #12302C; --muted: #4E6B66; --line: #D5E4E1;
+  --accent: #1B7A70; --accent-ink: #FFFFFF; --mast: #23877D; --mast-2: #135E56;
+  --display: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --body: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0D1B19; --surface: #13261F; --fg: #E3F1EE; --muted: #9DBCB6; --line: #24413B;
+  --accent: #5CC9BB; --accent-ink: #062520; --mast: #14524B; --mast-2: #0B3430; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0D1B19; --surface: #13261F; --fg: #E3F1EE; --muted: #9DBCB6; --line: #24413B;
+  --accent: #5CC9BB; --accent-ink: #062520; --mast: #14524B; --mast-2: #0B3430; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font-family: var(--body); font-size: 16px; line-height: 1.65; }
+.mast { background: linear-gradient(135deg, var(--mast), var(--mast-2)); color: #FFFFFF; }
+.wrap { max-width: 44rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.mast .wrap { padding-block: 2.5rem 2rem; display: grid; gap: .4rem; }
+.eyebrow { font-size: .75rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 700; opacity: .85; }
+h1 { font-family: var(--display); font-weight: 800; font-size: clamp(1.8rem, 5vw, 2.4rem); line-height: 1.15; margin: 0; text-wrap: balance; }
+.meta { font-size: .9rem; opacity: .9; }
+main .wrap { padding-block: 1.5rem 3rem; display: grid; gap: 1.75rem; }
+.glance { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.1rem 1.25rem; display: grid; gap: .5rem; }
+.glance h2 { margin: 0; }
+.glance ul { margin: 0; padding-left: 1.2rem; display: grid; gap: .25rem; }
+section { display: grid; gap: .5rem; min-width: 0; }
+h2 { font-family: var(--display); font-weight: 700; font-size: 1.2rem; margin: 0; text-wrap: balance; }
+p, ul { margin: 0; }
+ul { padding-left: 1.2rem; display: grid; gap: .3rem; }
+.muted { color: var(--muted); }
+a { color: var(--accent); }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.lang { display: flex; gap: .5rem; flex-wrap: wrap; }
+.lang a { text-decoration: none; font-weight: 700; font-size: .85rem; padding: .3rem .75rem; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
+hr { border: 0; border-top: 1px solid var(--line); margin: .5rem 0; }
+table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+.tbl { overflow-x: auto; }
+th, td { text-align: left; padding: .5rem .6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
+.contact { font-weight: 700; user-select: all; }
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="eyebrow">FamilyHub · Android</div>
+    <h1>Gizlilik Politikası</h1>
+    <div class="meta">Yürürlük tarihi: 12 Kasım 2026 · Sürüm 4.0</div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <nav class="lang" aria-label="Dil"><a href="#tr">Türkçe</a><a href="#en">English</a></nav>
+
+    <div class="glance" id="tr">
+      <h2>Kısaca</h2>
+      <ul>
+        <li>Hesap, sunucu, reklam ve takip yok.</li>
+        <li>Ailenizin bilgileri yalnızca kendi telefonlarınızda saklanır.</li>
+        <li>Telefonlar arasında eşitleme uçtan uca şifrelidir; geliştirici verilerinizi göremez.</li>
+        <li>Tek istisna: QR kod tarayıcısı Google'ın bir bileşenidir ve Google'a teşhis verisi gönderebilir.</li>
+      </ul>
+    </div>
+
+    <section>
+      <h2>1. Hangi bilgileri işliyoruz?</h2>
+      <p>Uygulamaya sizin girdiğiniz aile bilgileri: üye adları ve rolleri, isteğe bağlı doğum tarihi, alerji ve sağlık notları, okul bilgisi, takvim etkinlikleri, görevler, alışveriş ve yemek listeleri, bütçe kayıtları, sohbet mesajları, hatıralar ve fotoğraflar, evraklar ve geri ödeme fişleri, profil fotoğrafları ve "hakkımda" bilgileri, hazine avları, Türkçe kartı ilerlemesi, kontrol listeleri.</p>
+      <p>Bu bilgiler telefonunuzdaki uygulama veritabanında durur. Geliştirici bu bilgileri toplamaz, görmez ve kimseyle paylaşmaz.</p>
+    </section>
+
+    <section>
+      <h2>2. Telefonlar arası eşitleme</h2>
+      <ul>
+        <li>Aile telefonları QR kod ya da 6 haneli kodla eşleşir ve aynı Wi-Fi ağında doğrudan birbirine bağlanır.</li>
+        <li>Aktarılan her şey aile anahtarıyla AES-256-GCM kullanılarak şifrelenir. Anahtar yalnızca eşleşen telefonlarda bulunur.</li>
+        <li>İsteğe bağlı "evden uzakta eşitleme" açılırsa şifreli paket ailenin kendi bilgisayarındaki bir sunucuda saklanır. O sunucu da içeriği okuyamaz.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>3. Fotoğraflar</h2>
+      <p>Fotoğrafları Android'in fotoğraf seçicisiyle siz seçersiniz; uygulama galerinizin tamamına erişmez. Seçilen fotoğraf küçültülür ve konum dahil tüm EXIF bilgisi silinerek kaydedilir.</p>
+    </section>
+
+    <section>
+      <h2>Kadın sağlığı</h2>
+      <p>Kadın sağlığı bölümü (döngü, belirtiler, hamilelik/emzirme/menopoz kayıtları, hatırlatmalar) yalnızca onu kullanan kişinin telefonunda, ayrı bir veritabanında durur. Aile telefonlarıyla eşitlenmez, aile yedeğine ve Android bulut yedeğine girmez; parmak izi/ekran kilidi ya da özel bir PIN ile açılır. Kişi isterse yalnızca seçtiği kısa bir durum (ör. "Bugün yorgunum") aileyle paylaşılır. Tahminler tıbbi tavsiye değildir.</p>
+    </section>
+    <section>
+      <h2>Giriş ve hesaplar</h2>
+      <p>Her aile üyesi isterse PIN, şifre ya da (çocuklar için) resimli şifre koyabilir. Hesaplar bir sunucuda değil, aile telefonlarında durur. PIN ya da şifrenin kendisi hiçbir yerde saklanmaz; yalnızca tuzlanmış ve yavaşlatılmış (PBKDF2) bir özeti saklanır ve aynı kişinin diğer aile telefonlarında da girebilmesi için uçtan uca şifreli olarak eşitlenir. Bu özetler aile yedeğine ve bulut yedeğine girmez. Parmak izi yalnızca Android'in kendi kilidiyle doğrulanır; parmak izi verisi uygulamaya hiç gelmez. Aile kurtarma kodu da yalnızca özet olarak saklanır. "Verilerimi indir" ile kişi kendi bilgilerini bir dosya olarak alabilir.</p>
+    </section>
+    <section>
+      <h2>Güvenlik</h2>
+      <p>Aile eşitleme anahtarı telefonun güvenli anahtar deposunda (Android Keystore) korunur. Ebeveyn PIN'i, kişisel girişler ve Sağlığım PIN'i yalnızca yavaşlatılmış özet olarak saklanır; 5 yanlış denemeden sonra bekleme süresi başlar ve ebeveynler tekrarlanan yanlış denemeleri aile geçmişinde görür (Sağlığım denemeleri hariç). Giriş, kurtarma kodu ve Sağlığım ekranlarının ekran görüntüsü alınamaz. Uygulama kilidi açıkken kilit ekranındaki bildirimler ve ana ekran aracı ayrıntı göstermez. Yedek dosyası bir şifreyle şifrelenebilir; şifre bizde değildir, unutulursa yedek açılamaz. Haftalık otomatik yedekler uygulamanın iç belleğinde durur.</p>
+    </section>
+    <section>
+      <h2>Satın almalar</h2>
+      <p>Aile mağazasındaki paketler ve FamilyHub Plus aboneliği Google Play üzerinden satılır; ödemeyi Google işler, biz kart ya da banka bilgisi görmeyiz. Satın alma kaydı (ürün, tarih, Google sipariş numarası) paketin bütün aile telefonlarında açılması için aile verisiyle birlikte uçtan uca şifreli eşitlenir ve aile yedeğine girer; bize gönderilmez. Abonelik Google Play'den iptal edilir.</p>
+    </section>
+    <section>
+      <h2>Sağlık, araç ve resmî işler paketleri</h2>
+      <p>Sağlık ve ilaç paketinde girdiğiniz ilaç planları, verilen dozlar ve sağlık kartı (kan grubu, alerjiler, doktor, ziekenfonds adı, acil kişi) aile verisinin parçasıdır: aile telefonlarında uçtan uca şifreli eşitlenir ve aile yedeğine girer, bize gönderilmez. Kimlik ya da sigorta numarası istenmez. Araç ve ev paketindeki araç/kazan bilgileri ve tarihler de aynı şekilde yalnızca ailede kalır. Vergi ve destekler paketindeki bilgiler resmî kaynaklardan derlenen genel bilgilerdir; uygulama sizin vergi ya da gelir bilgilerinizi istemez. Kurallar imzalı içerik güncellemesiyle gelir. FamilyHub tıbbi, hukuki ya da vergi danışmanlığı yapmaz.</p>
+    </section>
+    <section>
+      <h2>İçerik güncellemeleri</h2>
+      <p>Uygulama haftada bir, herkese açık bir adresten (GitHub Pages) imzalı içerik dosyaları indirir: Belçika hakları ve tutarları, tatil takvimi, dil kartları, öğrenme bağlantıları. Bu sırada uygulama hiçbir kişisel ya da aile bilgisi göndermez; her web sitesinde olduğu gibi barındırma hizmeti teknik bağlantı kayıtları (IP adresi gibi) tutabilir. Ayarlar → İçerik ve takvim'den kapatılabilir.</p>
+    </section>
+    <section>
+      <h2>WhatsApp, Instagram ve Facebook'a paylaşma</h2>
+      <p>FamilyHub hiçbir sosyal ağa bağlanmaz, bu servislerde hesap açmaz. Bir paylaş düğmesine dokunduğunuzda Android'in paylaşım ekranı (ya da seçtiğiniz uygulama) paylaştığınız metin, takvim dosyası veya görselle açılır; siz orada göndermedikçe hiçbir şey gönderilmez. Kaydettiğiniz WhatsApp grup bağlantısı yalnızca telefonunuzda durur. Başka bir uygulamadan FamilyHub'a paylaştığınız metin ya da fotoğraf yalnızca Hızlı ekle'yi veya yeni bir hatırayı doldurmak için okunur.</p>
+    </section>
+    <section>
+      <h2>4. Üçüncü taraf bileşenler</h2>
+      <div class="tbl">
+        <table>
+          <thead><tr><th>Bileşen</th><th>Ne için</th><th>Veri</th></tr></thead>
+          <tbody>
+            <tr><td>Google Play hizmetleri kod tarayıcısı (ML Kit)</td><td>Eşleştirme QR kodunu okumak</td><td>Google; cihaz ve uygulama bilgisi, performans ve hata ölçümleri gibi teşhis verilerini HTTPS ile toplayabilir, üçüncü taraflarla paylaşmaz. <a href="https://developers.google.com/ml-kit/android-data-disclosure" rel="noopener" target="_blank">Google'ın açıklaması</a></td></tr>
+            <tr><td>Google ML Kit metin tanıma ve çeviri</td><td>Mektup asistanı: fotoğraftaki yazıyı okumak ve Türkçeye çevirmek</td><td>Okuma ve çeviri telefonda yapılır; metin ve fotoğraf gönderilmez. Çeviri için dil paketi bir kez Google'dan indirilir. Google teşhis verisi toplayabilir (yukarıdaki açıklama).</td></tr>
+            <tr><td>Telefonun ses tanıma hizmeti</td><td>Hızlı ekle'de mikrofon düğmesi</td><td>Yalnızca siz düğmeye bastığınızda telefonunuzun kendi ses tanıma uygulaması açılır ve onun gizlilik kuralları geçerlidir. FamilyHub mikrofon izni istemez.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>5. İzinler</h2>
+      <ul>
+        <li><strong>Bildirimler ve tam zamanlı alarmlar:</strong> etkinlik, ilaç ve sabah özeti hatırlatmaları.</li>
+        <li><strong>Takvim (isteğe bağlı):</strong> telefon takvimlerinizi uygulamada göstermek ve aile etkinliklerini seçtiğiniz takvime yazmak.</li>
+        <li><strong>Ağ ve Wi-Fi durumu:</strong> aile telefonlarını evdeki ağda bulmak ve eşitlemek.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>6. Çocuklar</h2>
+      <p>FamilyHub ebeveynler içindir. Çocuk profillerini ebeveynler oluşturur ve yönetir; çocuk modunda ayarlar ve ebeveyn bölümleri kapalıdır ve ebeveyn profilleri PIN ile korunabilir. Çocuklara ait bilgiler de yalnızca aile telefonlarında durur, reklam veya analiz için kullanılmaz.</p>
+    </section>
+
+    <section>
+      <h2>7. Yedekler, saklama ve silme</h2>
+      <ul>
+        <li>Haftalık otomatik yedekler telefonun uygulama klasöründe tutulur; son 4 yedek saklanır. Elle aldığınız yedek dosyasını nereye kaydedeceğinizi siz seçersiniz. Ebeveyn PIN'i yedeklere yazılmaz.</li>
+        <li>Tek tek kayıtları uygulamada silebilirsiniz; silme işlemi eşleşen telefonlara da iletilir.</li>
+        <li>Uygulamayı kaldırmak, o telefondaki tüm FamilyHub verilerini ve otomatik yedekleri siler. Hesap olmadığı için silinecek sunucu verisi yoktur.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>8. Değişiklikler ve iletişim</h2>
+      <p>Bu politika değişirse yeni sürümü bu sayfada yayımlarız ve yürürlük tarihini güncelleriz.</p>
+      <p>Sorularınız için: <span class="contact">mcemkoca0@gmail.com</span></p>
+    </section>
+
+    <hr>
+
+    <div class="glance" id="en">
+      <h2>Privacy Policy (English)</h2>
+      <ul>
+        <li>No accounts, servers, ads or tracking.</li>
+        <li>Your family's information is stored only on your own phones.</li>
+        <li>Sync between phones is end-to-end encrypted; the developer cannot see your data.</li>
+        <li>One exception: the QR code scanner is a Google component and may send diagnostic data to Google.</li>
+      </ul>
+    </div>
+
+    <section>
+      <h2>What we process</h2>
+      <p>The family information you enter (member names and roles, optional birthdays, allergy and health notes, school, calendar events, tasks, shopping and meal lists, budget entries, chat messages, memories and photos, documents and refund receipts, profile photos and "about me" details, treasure hunts, Turkish card progress, checklists) is stored in the app's database on your phone. The developer does not collect, see or share it.</p>
+    </section>
+    <section>
+      <h2>Sync</h2>
+      <p>Phones pair with a QR or 6-digit code and connect directly on the same Wi-Fi network. Everything transferred is encrypted with AES-256-GCM using a family key that exists only on the paired phones. With optional remote sync, the encrypted package is stored on a server on the family's own computer, which cannot read it either.</p>
+    </section>
+    <section>
+      <h2>Photos</h2>
+      <p>You choose photos with the Android photo picker; the app has no access to your whole gallery. Photos are resized and all EXIF data, including location, is removed.</p>
+    </section>
+    <section>
+      <h2>Women's health</h2>
+      <p>The women's health section (cycle, symptoms, pregnancy/breastfeeding/menopause logs, reminders) is stored only on the phone of the person who uses it, in a separate database. It is not synced to family phones, not included in family backups or Android cloud backup, and is unlocked with fingerprint/screen lock or a private PIN. Only a short status the person chooses (e.g. "I'm tired today") is shared with the family. Estimates are not medical advice.</p>
+    </section>
+    <section>
+      <h2>Sign-in and accounts</h2>
+      <p>Each family member may set a PIN, a password or (for children) a picture password. Accounts live on the family's phones, not on a server. The PIN or password itself is never stored; only a salted, slow (PBKDF2) hash is kept and synced end-to-end encrypted so the same person can sign in on the family's other phones. These hashes are not included in family backups or cloud backup. Fingerprint checks are done by Android's own lock; no fingerprint data reaches the app. The family recovery code is also stored only as a hash. "Download my data" gives a person their own information as a file.</p>
+    </section>
+    <section>
+      <h2>Security</h2>
+      <p>The family sync key is protected by the phone's Android Keystore. The guardian PIN, personal sign-ins and the women's health PIN are stored only as slow hashes; after 5 wrong tries a waiting time starts, and parents see repeated wrong attempts in the family history (never for the women's health PIN). Sign-in, recovery code and women's health screens cannot be captured. With the app lock on, lock-screen notifications and the home-screen widget show no details. Backup files can be protected with a password; we never have it, and a forgotten password cannot be recovered. Weekly automatic backups are kept in the app's internal storage.</p>
+    </section>
+    <section>
+      <h2>Purchases</h2>
+      <p>Packages in the family store and the FamilyHub Plus subscription are sold through Google Play; Google processes the payment and we never see card or bank details. The purchase record (product, date, Google order number) is synced end-to-end encrypted with the family data so the package opens on every family phone, and it is part of the family backup; it is never sent to us. Subscriptions are cancelled in Google Play.</p>
+    </section>
+    <section>
+      <h2>Health, car and paperwork packages</h2>
+      <p>Medicine plans, doses given and the health card (blood group, allergies, doctor, health insurance fund name, emergency contact) entered in the Health package are family data: synced end-to-end encrypted between family phones and included in the family backup, never sent to us. No ID or insurance numbers are asked. Car and boiler details and dates in the Car and home package stay within the family the same way. The Taxes and support package shows general information compiled from official sources; the app does not ask for your tax or income details. Rules arrive through signed content updates. FamilyHub does not give medical, legal or tax advice.</p>
+    </section>
+    <section>
+      <h2>Content updates</h2>
+      <p>About once a week the app downloads signed content files (Belgian rights and amounts, holiday calendar, language cards, learning links) from a public address on GitHub Pages. No personal or family information is sent; like any website, the host may keep technical connection logs such as IP addresses. You can turn this off in Settings → Content and calendar.</p>
+    </section>
+    <section>
+      <h2>Sharing to WhatsApp, Instagram and Facebook</h2>
+      <p>FamilyHub does not connect to any social network and has no account with them. When you tap a share button, Android's share sheet (or the chosen app) opens with the text, calendar file or image you are sharing; nothing is sent until you send it there. A saved WhatsApp group link stays on your phone. Text or a photo you share into FamilyHub from another app is only read to fill in quick add or a new memory.</p>
+    </section>
+    <section>
+      <h2>Third-party components</h2>
+      <ul>
+        <li><strong>Google Play services code scanner (ML Kit)</strong>, used to read the pairing QR code. Google may collect diagnostic data such as device and app information and performance and error metrics over HTTPS and does not share it with third parties. <a href="https://developers.google.com/ml-kit/android-data-disclosure" rel="noopener" target="_blank">Google's disclosure</a></li>
+        <li><strong>Google ML Kit text recognition and translation</strong> for the letter assistant: reading and translating happen on the phone; the photo and text are not sent. The language pack is downloaded once from Google, which may collect diagnostic data as described above.</li>
+        <li><strong>Your phone's speech recognition</strong> opens only when you tap the microphone in Quick add; its own privacy terms apply. FamilyHub does not request the microphone permission.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Permissions</h2>
+      <p>Notifications and exact alarms for reminders; calendar (optional) to show and write family events; network and Wi-Fi state to find family phones at home.</p>
+    </section>
+    <section>
+      <h2>Children</h2>
+      <p>FamilyHub is meant for parents. Parents create and manage child profiles; in kid mode settings and parent sections are hidden and parent profiles can be protected with a PIN. Children's information also stays on the family's phones and is never used for advertising or analytics.</p>
+    </section>
+    <section>
+      <h2>Backups, retention and deletion</h2>
+      <p>Weekly automatic backups are kept in the app's folder on the phone (last 4). You choose where manual backups are saved. The parent PIN is never written to backups. You can delete individual records in the app, and deletions reach paired phones. Uninstalling removes all FamilyHub data and automatic backups from that phone. There is no server data to delete.</p>
+    </section>
+    <section>
+      <h2>Changes and contact</h2>
+      <p>If this policy changes, we will publish the new version on this page with a new effective date. Questions: <span class="contact">mcemkoca0@gmail.com</span></p>
+    </section>
+  </div>
+</main>
