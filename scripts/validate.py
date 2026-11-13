@@ -4,7 +4,7 @@ import json, sys, re, datetime, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent / "content"
 ALLOWED = {"questions.json","skills.json","adventures.json","stories.json","emotions.json","recipes.json","levels.json","prompts.json",
            "activities.json","plans.json","belgium.json","money.json","rights.json","topics.json","turkish.json","savings.json",
-           "calendar.json","life.json","learn.json","rules.json","lang.json","library.json","support.json"}
+           "calendar.json","life.json","learn.json","rules.json","lang.json","library.json","support.json","app.json"}
 NON_JSON = {"deny.txt"}
 BANDS = {"0-6", "6-12", "12-18"}
 LANGS = {"tr", "nl", "fr", "en"}
@@ -105,6 +105,10 @@ for p in sorted(ROOT.iterdir()):
             elif k == "link":
                 if not i.get("url", "").startswith(LINK_HOSTS): err(f, f"link host not on the allow-list ({iid})")
             else: err(f, f"unknown kind ({iid})")
+    if f == "app.json":
+        u = data.get("crashUrl", "")
+        if u and not u.startswith("https://script.google.com/macros/s/"): err(f, "crashUrl must be the developer's Apps Script web app (or empty)")
+        if len(data.get("crashToken", "")) < 16: err(f, "crashToken too short")
     if f == "support.json":
         unique(f, data["resources"]); unique(f, data["social"]); unique(f, data["pictos"])
         kinds = {k["id"] for k in data["kinds"]}
