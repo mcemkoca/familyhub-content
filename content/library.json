@@ -1,0 +1,2716 @@
+{
+ "checked": "2026-11-13",
+ "note": "Hikâyeler FamilyHub'ın kendi anlatımıdır ve telefonun sesiyle okunur. Sesli kitaplar LibriVox gönüllülerinin kamu malı (public domain) kayıtlarıdır; archive.org'dan dinlenir. Yeni kitaplar her hafta otomatik eklenir — dinlerken yanında olun.",
+ "bands": [
+  {
+   "id": "0-6",
+   "label": "0–6 yaş",
+   "min": 0,
+   "max": 5
+  },
+  {
+   "id": "6-12",
+   "label": "6–12 yaş",
+   "min": 6,
+   "max": 11
+  },
+  {
+   "id": "12-18",
+   "label": "12–18 yaş",
+   "min": 12,
+   "max": 18
+  }
+ ],
+ "items": [
+  {
+   "id": "tr-uyku-treni",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "0-6"
+   ],
+   "title": "Uyku Treni",
+   "minutes": 3,
+   "text": [
+    "Gece olunca küçük bir tren raylarda usulca yola çıkar. Adı Uyku Treni'dir. Çuf… çuf… diye yavaşça gider.",
+    "İlk durakta yorgun bir tavşan biner. Kulaklarını katlar, esner ve pencereye başını yaslar.",
+    "İkinci durakta minik bir ayı biner. Battaniyesine sarılır, gözlerini yavaşça kapatır.",
+    "Üçüncü durakta bir baykuş biner. ‘Ben gece nöbetçisiyim,’ der, ‘herkes uyusun, ben yıldızlara göz kulak olurum.’",
+    "Tren yavaşlar, yavaşlar… Raylar fısıldar: ‘Uyu… uyu…’",
+    "Şimdi sıra sende. Derin bir nefes al, yavaşça ver. Uyku Treni seni de rüyalar durağına götürüyor. İyi geceler."
+   ],
+   "license": "own",
+   "source": "FamilyHub özgün hikâyesi",
+   "premium": false,
+   "value": "sakinlik",
+   "bedtime": true
+  },
+  {
+   "id": "tr-kirmizi-tavuk",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "0-6"
+   ],
+   "title": "Kırmızı Tavuk",
+   "minutes": 4,
+   "text": [
+    "Bir çiftlikte kırmızı bir tavuk yaşardı. Bir gün yerde birkaç buğday tanesi buldu.",
+    "‘Bu buğdayı kim ekecek?’ diye sordu. Kedi ‘Ben değil,’ dedi. Köpek ‘Ben değil,’ dedi. Ördek ‘Ben değil,’ dedi. ‘O zaman ben ekerim,’ dedi tavuk ve ekti.",
+    "Buğday büyüdü. ‘Kim biçecek?’ ‘Ben değil, ben değil, ben değil.’ Tavuk kendisi biçti, değirmene götürdü, un yaptı.",
+    "‘Bu unla kim ekmek yapacak?’ Yine kimse istemedi. Tavuk hamuru yoğurdu, fırına verdi. Mis gibi koku bütün çiftliğe yayıldı.",
+    "‘Bu ekmeği kim yiyecek?’ diye sorunca herkes koştu: ‘Ben! Ben! Ben!’",
+    "Tavuk gülümsedi: ‘Bir dahaki sefere birlikte çalışırsak, birlikte de yeriz.’ O günden sonra çiftlikte herkes işin bir ucundan tuttu."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · halk masalı",
+   "premium": false,
+   "value": "yardımlaşma"
+  },
+  {
+   "id": "tr-tavsan-kaplumbaga",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "Tavşan ile Kaplumbağa",
+   "minutes": 3,
+   "text": [
+    "Hızlı bir tavşan, yavaş yürüyen kaplumbağayla hep alay ederdi. Bir gün kaplumbağa ‘Haydi yarışalım,’ dedi.",
+    "Yarış başladı. Tavşan bir anda tepeyi aştı. Arkasına baktı, kaplumbağa görünmüyordu bile.",
+    "‘Biraz kestireyim,’ dedi tavşan, ‘nasılsa kazanırım.’ Ağacın gölgesinde uyuyakaldı.",
+    "Kaplumbağa hiç durmadan, adım adım yürüdü. Tavşanın yanından sessizce geçti.",
+    "Tavşan uyandığında koştu, koştu… ama kaplumbağa çoktan bitiş çizgisindeydi.",
+    "O gün tavşan şunu öğrendi: Yavaş ama durmadan giden, hızlı ama tembel olanı geçer."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Ezop masalı",
+   "premium": false,
+   "value": "sabır"
+  },
+  {
+   "id": "tr-aslan-fare",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "Aslan ile Fare",
+   "minutes": 3,
+   "text": [
+    "Ormanda uyuyan bir aslanın burnunun üstünden minik bir fare koşarak geçti. Aslan uyandı ve fareyi pençesiyle yakaladı.",
+    "‘Ne olur bırak beni,’ dedi fare, ‘bir gün sana iyiliğim dokunur.’ Aslan güldü: ‘Sen mi bana yardım edeceksin?’ Yine de fareyi bıraktı.",
+    "Birkaç gün sonra aslan avcıların ağına yakalandı. Kükredi, çırpındı ama ağdan kurtulamadı.",
+    "Fare kükremeyi duydu, koşa koşa geldi. Sivri dişleriyle ipleri tek tek kemirdi.",
+    "Ağ yırtıldı, aslan özgür kaldı. ‘Seni küçük gördüğüm için özür dilerim,’ dedi aslan.",
+    "Fare gülümsedi: ‘Küçük dost da büyük iş görür.’"
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Ezop masalı",
+   "premium": false,
+   "value": "iyilik"
+  },
+  {
+   "id": "tr-karinca-agustos",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "Karınca ile Ağustosböceği",
+   "minutes": 3,
+   "text": [
+    "Yaz boyunca ağustosböceği şarkı söyledi, karınca ise yiyecek taşıdı.",
+    "‘Gel sen de dinlen, şarkı söyle,’ dedi ağustosböceği. ‘Kış gelecek, hazırlanmalıyım,’ dedi karınca.",
+    "Kış geldi. Her yer karla kaplandı. Ağustosböceği aç ve üşümüştü.",
+    "Karıncanın kapısını çaldı. Karınca onu içeri aldı, sıcak bir çorba verdi.",
+    "‘Bu yaz bana çalışmayı öğret, ben de sana şarkı söylemeyi öğreteyim,’ dedi ağustosböceği.",
+    "O günden sonra ikisi de hem çalıştı hem şarkı söyledi: Çalışmak da güzeldi, paylaşmak da."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Ezop masalı (yumuşatılmış son)",
+   "premium": false,
+   "value": "paylaşmak"
+  },
+  {
+   "id": "tr-hoca-kazan",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Nasreddin Hoca: Kazan Doğurdu",
+   "minutes": 3,
+   "text": [
+    "Nasreddin Hoca bir gün komşusundan büyük bir kazan ödünç aldı. Birkaç gün sonra kazanın içine küçük bir tencere koyup geri verdi.",
+    "Komşu şaşırdı: ‘Hocam, bu tencere ne?’ Hoca ciddi ciddi: ‘Kazanınız doğurdu, bu da yavrusu,’ dedi. Komşu sevindi, tencereyi de aldı.",
+    "Bir süre sonra Hoca kazanı yine ödünç istedi. Bu kez günler geçti, kazan geri gelmedi.",
+    "Komşu kapıyı çaldı: ‘Hocam, kazan nerede?’ Hoca başını eğdi: ‘Başınız sağ olsun, kazanınız öldü.’",
+    "‘Hiç kazan ölür mü?’ diye bağırdı komşu. Hoca gülümsedi: ‘Doğurduğuna inandın da öldüğüne neden inanmıyorsun?’",
+    "Bu fıkra bize şunu söyler: İşimize gelen şeye hemen inanıyorsak, işimize gelmeyene de aynı ölçüyle bakmalıyız."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Nasreddin Hoca fıkrası",
+   "premium": false,
+   "value": "adalet"
+  },
+  {
+   "id": "tr-hoca-kurk",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Nasreddin Hoca: Ye Kürküm Ye",
+   "minutes": 2,
+   "text": [
+    "Hoca bir düğüne eski giysileriyle gitti. Kimse yüzüne bakmadı, ona yer bile göstermediler.",
+    "Hoca sessizce eve döndü, en güzel kürkünü giyip yeniden geldi. Bu kez herkes ayağa kalktı, onu başköşeye oturttular.",
+    "Yemek gelince Hoca kürkünün yenini çorbaya batırdı: ‘Ye kürküm ye!’",
+    "Şaşıran ev sahibine şöyle dedi: ‘Bu ilgiyi bana değil kürküme gösterdiniz; yemeği de o yesin.’",
+    "İnsanlara giysisine göre değil, kendisine göre değer vermek gerekir."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Nasreddin Hoca fıkrası",
+   "premium": false,
+   "value": "saygı"
+  },
+  {
+   "id": "tr-hoca-gol",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Nasreddin Hoca: Göle Maya Çalmak",
+   "minutes": 2,
+   "text": [
+    "Hoca bir gün göl kenarında elindeki yoğurt kabından göle maya çalıyordu.",
+    "Görenler sordu: ‘Hocam ne yapıyorsun?’ ‘Göle maya çalıyorum.’ ‘Hiç göl maya tutar mı?’",
+    "Hoca gülümsedi: ‘Ya tutarsa!’",
+    "Bazen bir işin olmayacağını düşünsek de denemek, umut etmek güzeldir. Denemeyen hiçbir zaman bilemez."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Nasreddin Hoca fıkrası",
+   "premium": false,
+   "value": "umut"
+  },
+  {
+   "id": "tr-hoca-duduk",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Nasreddin Hoca: Parayı Veren Düdüğü Çalar",
+   "minutes": 3,
+   "text": [
+    "Hoca pazara gidecekti. Mahallenin çocukları koştu: ‘Hocam bize düdük getir!’ Herkes bağırıyordu ama yalnızca bir çocuk Hoca'nın eline birkaç kuruş tutuşturdu.",
+    "Akşam Hoca pazardan döndü. Çocuklar etrafını sardı: ‘Düdüğüm nerede? Benimki nerede?’",
+    "Hoca cebinden tek bir düdük çıkarıp parayı veren çocuğa uzattı.",
+    "Diğerleri itiraz edince Hoca güldü: ‘Parayı veren düdüğü çalar.’",
+    "Bir şey istiyorsak, o iş için biz de bir şey yapmalıyız."
+   ],
+   "license": "own",
+   "source": "FamilyHub uyarlaması · Nasreddin Hoca fıkrası",
+   "premium": false,
+   "value": "sorumluluk"
+  },
+  {
+   "id": "tr-keloglan-devler",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Keloğlan ve Bulut Kalesi",
+   "minutes": 6,
+   "text": [
+    "Bir varmış bir yokmuş, bir köyde Keloğlan ile anası yaşarmış. Köyün çeşmesi bir yaz kurumuş, herkes susuz kalmış.",
+    "Yaşlılar demiş ki: ‘Suyun kaynağı dağın tepesindeki Bulut Kalesi'nde. Orada yaşayan dev suyu kendine saklıyor.’",
+    "Keloğlan heybesine bir somun ekmek, bir parça peynir ve anasının verdiği kavalı koyup yola çıkmış.",
+    "Yolda yaralı bir kartala rastlamış. Kanadını sarmış, ekmeğini paylaşmış. Kartal ‘Bir gün işine yararım,’ demiş.",
+    "Kaleye varınca dev kapıyı açmış: ‘Ne istiyorsun, küçük adam?’ Keloğlan kavalını çıkarıp öyle güzel çalmış ki dev oturup dinlemiş, gözleri dolmuş.",
+    "‘Ben yalnızım,’ demiş dev, ‘suyu tutarsam belki biri gelir diye düşündüm.’ Keloğlan gülmüş: ‘Suyu bırak, köy sana her bayram konuk gelsin.’",
+    "Dev kocaman taşı kaldırmış, su şırıl şırıl köye akmış. Kartal da Keloğlan'ı sırtına alıp köye uçurmuş.",
+    "O günden sonra dev her bayram köye inmiş, çocuklarla oynamış. Gökten üç elma düşmüş: biri bu masalı anlatana, biri dinleyene, biri de paylaşmayı bilene."
+   ],
+   "license": "own",
+   "source": "FamilyHub özgün masalı · Keloğlan geleneğinde",
+   "premium": false,
+   "value": "dostluk"
+  },
+  {
+   "id": "tr-dede-korkut-basat",
+   "kind": "story",
+   "lang": "tr",
+   "bands": [
+    "6-12",
+    "12-18"
+   ],
+   "title": "Dede Korkut: Basat ile Tepegöz",
+   "minutes": 6,
+   "text": [
+    "Dede Korkut Kitabı, Oğuz boylarının yüzyıllardır anlatılan hikâyelerini toplar. En bilinenlerinden biri Basat ile Tepegöz'dür.",
+    "Oğuzların yurdunda alnında tek gözü olan, ok işlemez Tepegöz adlı bir dev peydahlanır. Herkesten ağır vergi ister; boylar korku içindedir.",
+    "Aslanların arasında büyümüş yiğit Basat, halkını kurtarmak için yola çıkar. Kardeşini Tepegöz'e kaptırmıştır; yüreği acılıdır ama aklı başındadır.",
+    "Basat, gücüyle değil zekâsıyla yener: Devin uyuduğu sırada şişi kızdırıp tek gözüne saplar. Kör olan Tepegöz kapıyı tutar; Basat bir koç postuna bürünüp kaçar.",
+    "Sonunda devin kendi kılıcıyla onu yener ve Oğuz boyları yeniden özgürce yaşar.",
+    "Hikâyelerin sonunda ozan Dede Korkut gelir, boy boylar, soy soylar ve hikâyeyi düzer. Basat'ın hikâyesi bize cesaretin akılla birleşince güç kazandığını anlatır."
+   ],
+   "license": "own",
+   "source": "FamilyHub özeti · Dede Korkut Kitabı (halk destanı)",
+   "premium": false,
+   "value": "cesaret"
+  },
+  {
+   "id": "nl-haas-schildpad",
+   "kind": "story",
+   "lang": "nl",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "De haas en de schildpad",
+   "minutes": 2,
+   "text": [
+    "Een snelle haas lachte altijd met de trage schildpad. Op een dag zei de schildpad: ‘Zullen we een wedstrijd doen?’",
+    "De haas liep heel snel weg. ‘Ik doe eerst een dutje,’ zei hij, ‘ik win toch.’",
+    "De schildpad stapte rustig verder, stap voor stap, zonder te stoppen.",
+    "Toen de haas wakker werd, was de schildpad al aan de finish.",
+    "Langzaam maar zeker kom je ook ver."
+   ],
+   "license": "own",
+   "source": "FamilyHub · eenvoudige navertelling van een fabel van Aesopus",
+   "premium": false,
+   "value": "sabır"
+  },
+  {
+   "id": "nl-slaap-lekker",
+   "kind": "story",
+   "lang": "nl",
+   "bands": [
+    "0-6"
+   ],
+   "title": "Slaap lekker, kleine beer",
+   "minutes": 2,
+   "text": [
+    "Het is avond. De maan kijkt door het raam.",
+    "Kleine beer poetst zijn tanden. Hij trekt zijn pyjama aan.",
+    "Mama beer geeft een knuffel. Papa beer leest een boekje.",
+    "Kleine beer ademt diep in… en langzaam uit.",
+    "Zijn ogen worden zwaar. Slaap lekker, kleine beer. Welterusten."
+   ],
+   "license": "own",
+   "source": "FamilyHub · eigen verhaal",
+   "premium": false,
+   "value": "sakinlik",
+   "bedtime": true
+  },
+  {
+   "id": "fr-lion-souris",
+   "kind": "story",
+   "lang": "fr",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "Le lion et la souris",
+   "minutes": 2,
+   "text": [
+    "Une petite souris court sur le nez d'un lion qui dort. Le lion se réveille et l'attrape.",
+    "« Laisse-moi partir, dit la souris, un jour je t'aiderai. » Le lion rit, mais il la laisse partir.",
+    "Quelques jours plus tard, le lion est pris dans un filet. Il rugit très fort.",
+    "La souris arrive et ronge les cordes avec ses petites dents. Le lion est libre !",
+    "On a souvent besoin d'un plus petit que soi."
+   ],
+   "license": "own",
+   "source": "FamilyHub · récit simple d'après une fable d'Ésope",
+   "premium": false,
+   "value": "iyilik"
+  },
+  {
+   "id": "fr-bonne-nuit",
+   "kind": "story",
+   "lang": "fr",
+   "bands": [
+    "0-6"
+   ],
+   "title": "Bonne nuit, petit lapin",
+   "minutes": 2,
+   "text": [
+    "Le soir tombe. Les étoiles s'allument une à une.",
+    "Petit lapin range ses jouets et met son pyjama.",
+    "Il fait un câlin à maman et à papa.",
+    "Il respire doucement… inspire… expire…",
+    "Ses yeux se ferment. Bonne nuit, petit lapin. Fais de beaux rêves."
+   ],
+   "license": "own",
+   "source": "FamilyHub · histoire originale",
+   "premium": false,
+   "value": "sakinlik",
+   "bedtime": true
+  },
+  {
+   "id": "teen-dijital",
+   "kind": "guide",
+   "lang": "tr",
+   "bands": [
+    "12-18"
+   ],
+   "title": "Dijital güvenlik: 8 kural",
+   "minutes": 4,
+   "license": "own",
+   "premium": false,
+   "source": "FamilyHub · Child Focus ve Safeonweb önerilerinden derlendi",
+   "text": [
+    "Şifren yalnızca senindir; arkadaşınla bile paylaşma. Her hesapta farklı şifre ve mümkünse iki adımlı doğrulama kullan.",
+    "Tanımadığın biri özel mesajla fotoğraf, konum ya da buluşma isterse konuşmayı kes ve bir yetişkine göster.",
+    "Gönderdiğin fotoğraf artık senin kontrolünde değildir; ekran görüntüsü alınabilir.",
+    "Biri seni tehdit ediyor ya da şantaj yapıyorsa suçlu sen değilsin: para gönderme, konuşmayı kaydet, yardım iste. Belçika'da Child Focus 116 000'ı arayabilirsin.",
+    "Sahte mesajlar acele ettirir (‘hesabın kapanacak!’). Bağlantıya tıklamadan önce dur ve kontrol et; şüpheli mesajları suspect@safeonweb.be adresine iletebilirsin.",
+    "Oyunlarda ve uygulamalarda harcama yapmadan önce ailene sor.",
+    "Gece ekranı odanın dışında şarj et; uyku notlarını da ruh hâlini de etkiler.",
+    "Kendini kötü hissettiğinde konuşabileceğin biri her zaman var: Awel (102, Flaman) ve Écoute-Enfants (103, Fransızca) ücretsizdir."
+   ],
+   "links": [
+    {
+     "label": "Child Focus — 116 000",
+     "url": "https://childfocus.be"
+    },
+    {
+     "label": "Safeonweb",
+     "url": "https://safeonweb.be"
+    }
+   ]
+  },
+  {
+   "id": "teen-studentjob",
+   "kind": "guide",
+   "lang": "tr",
+   "bands": [
+    "12-18"
+   ],
+   "title": "Belçika'da öğrenci işi",
+   "minutes": 4,
+   "license": "own",
+   "premium": false,
+   "source": "FamilyHub · student@work (RSZ/ONSS) bilgilerinden derlendi",
+   "text": [
+    "Öğrenci işi (studentenjob / job étudiant) için en az 15 yaşında ve ortaöğretimin ilk iki yılını bitirmiş ya da 16 yaşında olmalısın.",
+    "Her yıl sınırlı sayıda saat düşük sosyal güvenlik kesintisiyle çalışabilirsin. Kalan saatlerini student@work uygulamasından ya da sitesinden görebilirsin.",
+    "İşe başlamadan önce yazılı bir öğrenci sözleşmesi imzalanır; saatler, ücret ve görev açıkça yazılmalıdır.",
+    "Kazancın yükselirse aile yardımı (Groeipakket / allocations familiales) ve vergi durumun etkilenebilir; ailenle birlikte kontrol edin.",
+    "Gece işi ve tehlikeli işler için yaşa bağlı kısıtlamalar vardır; emin olmadığın bir şeyi kabul etme."
+   ],
+   "links": [
+    {
+     "label": "student@work (RSZ/ONSS)",
+     "url": "https://www.studentatwork.be"
+    }
+   ]
+  },
+  {
+   "id": "teen-sinav",
+   "kind": "guide",
+   "lang": "tr",
+   "bands": [
+    "12-18"
+   ],
+   "title": "Sınav dönemi: sakin kalmanın yolları",
+   "minutes": 3,
+   "license": "own",
+   "premium": false,
+   "source": "FamilyHub",
+   "text": [
+    "Çalışmayı 25 dakikalık bloklara böl, araya 5 dakika mola koy. Telefon başka odada dursun.",
+    "Önce bildiğin konuyu kısa bir tekrarla, sonra zor olana geç; başarı hissi motivasyonu artırır.",
+    "Uyku öğrendiğini kalıcı yapar: sınavdan önceki gece geç saate kadar çalışmak çoğu zaman kaybettirir.",
+    "Kaygı yükselince 4 saniye nefes al, 4 saniye tut, 6 saniye ver. Üç kez tekrarla.",
+    "Kötü bir not dünyanın sonu değildir. Öğretmenine nerede zorlandığını sormak cesarettir."
+   ]
+  },
+  {
+   "id": "link-trt-cocuk",
+   "kind": "link",
+   "lang": "tr",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "TRT Çocuk",
+   "url": "https://www.trtcocuk.net.tr",
+   "source": "trtcocuk.net.tr",
+   "text": [
+    "Türkçe çizgi film, şarkı ve sesli masallar."
+   ],
+   "license": "link",
+   "premium": false
+  },
+  {
+   "id": "link-gutenberg-tr",
+   "kind": "link",
+   "lang": "tr",
+   "bands": [
+    "12-18"
+   ],
+   "title": "Project Gutenberg — Türkçe kitaplar",
+   "url": "https://www.gutenberg.org/browse/languages/tr",
+   "source": "gutenberg.org",
+   "text": [
+    "Telif süresi dolmuş Türkçe eserler, ücretsiz e-kitap."
+   ],
+   "license": "link",
+   "premium": false
+  },
+  {
+   "id": "link-gutenberg-nl",
+   "kind": "link",
+   "lang": "nl",
+   "bands": [
+    "6-12",
+    "12-18"
+   ],
+   "title": "Project Gutenberg — Nederlandse boeken",
+   "url": "https://www.gutenberg.org/browse/languages/nl",
+   "source": "gutenberg.org",
+   "text": [
+    "Gratis klassiekers in het Nederlands."
+   ],
+   "license": "link",
+   "premium": false
+  },
+  {
+   "id": "link-gutenberg-fr",
+   "kind": "link",
+   "lang": "fr",
+   "bands": [
+    "6-12",
+    "12-18"
+   ],
+   "title": "Project Gutenberg — Livres en français",
+   "url": "https://www.gutenberg.org/browse/languages/fr",
+   "source": "gutenberg.org",
+   "text": [
+    "Classiques gratuits en français."
+   ],
+   "license": "link",
+   "premium": false
+  },
+  {
+   "id": "link-librivox",
+   "kind": "link",
+   "lang": "en",
+   "bands": [
+    "6-12",
+    "12-18"
+   ],
+   "title": "LibriVox — tüm sesli kitaplar",
+   "url": "https://librivox.org",
+   "source": "librivox.org",
+   "text": [
+    "Gönüllülerin okuduğu, kamu malı binlerce sesli kitap (birçok dilde)."
+   ],
+   "license": "link",
+   "premium": false
+  },
+  {
+   "id": "lv-ot-en-sien-0910-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "title": "Het boek van Ot en Sien",
+   "author": "Hendricus Scheepstra en Jan Ligthart",
+   "minutes": 188,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/ot_en_sien_0910_librivox",
+   "base": "https://archive.org/download/ot_en_sien_0910_librivox/",
+   "tracks": [
+    {
+     "f": "otensien_01_ligthartscheepstra_64kb.mp3",
+     "t": "01",
+     "s": 950
+    },
+    {
+     "f": "otensien_02_ligthartscheepstra_64kb.mp3",
+     "t": "02",
+     "s": 915
+    },
+    {
+     "f": "otensien_03_ligthartscheepstra_64kb.mp3",
+     "t": "03",
+     "s": 905
+    },
+    {
+     "f": "otensien_04_ligthartscheepstra_64kb.mp3",
+     "t": "04",
+     "s": 897
+    },
+    {
+     "f": "otensien_05_ligthartscheepstra_64kb.mp3",
+     "t": "05",
+     "s": 964
+    },
+    {
+     "f": "otensien_06_ligthartscheepstra_64kb.mp3",
+     "t": "06",
+     "s": 1022
+    },
+    {
+     "f": "otensien_07_ligthartscheepstra_64kb.mp3",
+     "t": "07",
+     "s": 770
+    },
+    {
+     "f": "otensien_08_ligthartscheepstra_64kb.mp3",
+     "t": "08",
+     "s": 907
+    },
+    {
+     "f": "otensien_09_ligthartscheepstra_64kb.mp3",
+     "t": "09",
+     "s": 1111
+    },
+    {
+     "f": "otensien_10_ligthartscheepstra_64kb.mp3",
+     "t": "10",
+     "s": 754
+    },
+    {
+     "f": "otensien_11_ligthartscheepstra_64kb.mp3",
+     "t": "11",
+     "s": 982
+    },
+    {
+     "f": "otensien_12_ligthartscheepstra_64kb.mp3",
+     "t": "12",
+     "s": 1083
+    }
+   ],
+   "premium": false
+  },
+  {
+   "id": "lv-babysownaesop-2106-librivox",
+   "kind": "audio",
+   "lang": "en",
+   "bands": [
+    "0-6"
+   ],
+   "title": "The Baby's Own Aesop (Version 2)",
+   "author": "Walter Crane",
+   "minutes": 30,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/babysownaesop_2106_librivox",
+   "base": "https://archive.org/download/babysownaesop_2106_librivox/",
+   "tracks": [
+    {
+     "f": "babysownaesop_01_crane_64kb.mp3",
+     "t": "01 - The Fox and the Grapes, The Cock and the Pearl, The Wolf and the Lamb, The ",
+     "s": 293
+    },
+    {
+     "f": "babysownaesop_02_crane_64kb.mp3",
+     "t": "02 - The Snake and the File, The Fox and the Crow, The Dog in the Manger, The Fr",
+     "s": 372
+    },
+    {
+     "f": "babysownaesop_03_crane_64kb.mp3",
+     "t": "03 - The Trees and the Woodman, The Hart and the Vine, The Man and the Snake, Th",
+     "s": 209
+    },
+    {
+     "f": "babysownaesop_04_crane_64kb.mp3",
+     "t": "04 - The Peacock’s Complaint, The Two Jars, The Two Crabs, Brother and Sister, T",
+     "s": 266
+    },
+    {
+     "f": "babysownaesop_05_crane_64kb.mp3",
+     "t": "05 - The Trumpeter taken Prisoner, Hot and Cold, Neither Beast nor Bird, The Sta",
+     "s": 321
+    },
+    {
+     "f": "babysownaesop_06_crane_64kb.mp3",
+     "t": "06 - Porcupine, Snake & Company, The Bear and the Bees, The Bundle of Sticks, Th",
+     "s": 323
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-dik-trom-0905-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Uit het leven van Dik Trom",
+   "author": "Cornelis Johannes Kieviet",
+   "minutes": 206,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/dik_trom_0905_librivox",
+   "base": "https://archive.org/download/dik_trom_0905_librivox/",
+   "tracks": [
+    {
+     "f": "trom1_01_kieviet_64kb.mp3",
+     "t": "hoofdstuk 01",
+     "s": 324
+    },
+    {
+     "f": "trom1_02_kieviet_64kb.mp3",
+     "t": "hoofdstuk 02",
+     "s": 219
+    },
+    {
+     "f": "trom1_03_kieviet_64kb.mp3",
+     "t": "hoofdstuk 03",
+     "s": 465
+    },
+    {
+     "f": "trom1_04_kieviet_64kb.mp3",
+     "t": "hoofdstuk 04",
+     "s": 699
+    },
+    {
+     "f": "trom1_05_kieviet_64kb.mp3",
+     "t": "hoofdstuk 05",
+     "s": 484
+    },
+    {
+     "f": "trom1_06_kieviet_64kb.mp3",
+     "t": "hoofdstuk 06",
+     "s": 634
+    },
+    {
+     "f": "trom1_07_kieviet_64kb.mp3",
+     "t": "hoofdstuk 07",
+     "s": 618
+    },
+    {
+     "f": "trom1_08_kieviet_64kb.mp3",
+     "t": "hoofdstuk 08",
+     "s": 537
+    },
+    {
+     "f": "trom1_09_kieviet_64kb.mp3",
+     "t": "hoofdstuk 09",
+     "s": 911
+    },
+    {
+     "f": "trom1_10_kieviet_64kb.mp3",
+     "t": "hoofdstuk 10",
+     "s": 791
+    },
+    {
+     "f": "trom1_11_kieviet_64kb.mp3",
+     "t": "hoofdstuk 11",
+     "s": 702
+    },
+    {
+     "f": "trom1_12_kieviet_64kb.mp3",
+     "t": "hoofdstuk 12",
+     "s": 634
+    },
+    {
+     "f": "trom1_13_kieviet_64kb.mp3",
+     "t": "hoofdstuk 13",
+     "s": 977
+    },
+    {
+     "f": "trom1_14_kieviet_64kb.mp3",
+     "t": "hoofdstuk 14",
+     "s": 819
+    },
+    {
+     "f": "trom1_15_kieviet_64kb.mp3",
+     "t": "hoofdstuk 15",
+     "s": 744
+    },
+    {
+     "f": "trom1_16_kieviet_64kb.mp3",
+     "t": "hoofdstuk 16",
+     "s": 880
+    },
+    {
+     "f": "trom1_17_kieviet_64kb.mp3",
+     "t": "hoofdstuk 17",
+     "s": 768
+    },
+    {
+     "f": "trom1_18_kieviet_64kb.mp3",
+     "t": "hoofdstuk 18",
+     "s": 1127
+    }
+   ],
+   "premium": false
+  },
+  {
+   "id": "lv-oude-sprookjes-goeverneur-1108-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Oude Sprookjes",
+   "author": "J.J.A. Goeverneur",
+   "minutes": 120,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/oude_sprookjes_goeverneur_1108_librivox",
+   "base": "https://archive.org/download/oude_sprookjes_goeverneur_1108_librivox/",
+   "tracks": [
+    {
+     "f": "oudesprookjes_01_goeverneur_64kb.mp3",
+     "t": "01 - Roodkapje",
+     "s": 657
+    },
+    {
+     "f": "oudesprookjes_02_goeverneur_64kb.mp3",
+     "t": "02 - De beide bloemen",
+     "s": 805
+    },
+    {
+     "f": "oudesprookjes_03_goeverneur_64kb.mp3",
+     "t": "03 - De geschiedenis van kalif ooijevaar",
+     "s": 925
+    },
+    {
+     "f": "oudesprookjes_04_goeverneur_64kb.mp3",
+     "t": "04 - Klein Duimpje",
+     "s": 908
+    },
+    {
+     "f": "oudesprookjes_05_goeverneur_64kb.mp3",
+     "t": "05 - Asschepoester",
+     "s": 1020
+    },
+    {
+     "f": "oudesprookjes_06_goeverneur_64kb.mp3",
+     "t": "06 - Sneeuwwitje",
+     "s": 1365
+    },
+    {
+     "f": "oudesprookjes_07_goeverneur_64kb.mp3",
+     "t": "07 - Vrouw Holle",
+     "s": 684
+    },
+    {
+     "f": "oudesprookjes_08_goeverneur_64kb.mp3",
+     "t": "08 - Zwaan kleef aan",
+     "s": 834
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-sproken-andersen-0906-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Andersens Sproken en vertellingen",
+   "author": "Hans Christian Andersen",
+   "minutes": 978,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/sproken_andersen_0906_librivox",
+   "base": "https://archive.org/download/sproken_andersen_0906_librivox/",
+   "tracks": [
+    {
+     "f": "sprookjes_00_andersen_64kb.mp3",
+     "t": "00 - Voorwoord.",
+     "s": 248
+    },
+    {
+     "f": "sprookjes_01_andersen_64kb.mp3",
+     "t": "01 - Het leelijke jonge eendje.",
+     "s": 1294
+    },
+    {
+     "f": "sprookjes_02_andersen_64kb.mp3",
+     "t": "02 - De oude straatlantaarn.",
+     "s": 1173
+    },
+    {
+     "f": "sprookjes_03_andersen_64kb.mp3",
+     "t": "03 - De ooievaars.",
+     "s": 874
+    },
+    {
+     "f": "sprookjes_04_andersen_64kb.mp3",
+     "t": "04 - Zooals manlief doet, is het altijd goed.",
+     "s": 918
+    },
+    {
+     "f": "sprookjes_05_andersen_64kb.mp3",
+     "t": "05 - De groote Klaas en de kleine Klaas.",
+     "s": 1422
+    },
+    {
+     "f": "sprookjes_06_andersen_64kb.mp3",
+     "t": "06 - De vliegende koffer.",
+     "s": 813
+    },
+    {
+     "f": "sprookjes_07_andersen_64kb.mp3",
+     "t": "07 - Vijf uit een schil.",
+     "s": 856
+    },
+    {
+     "f": "sprookjes_08_andersen_64kb.mp3",
+     "t": "08 - De tondeldoos.",
+     "s": 984
+    },
+    {
+     "f": "sprookjes_09_andersen_64kb.mp3",
+     "t": "09 - Het meisje, dat op het brood trapte.",
+     "s": 1138
+    },
+    {
+     "f": "sprookjes_10_andersen_64kb.mp3",
+     "t": "10 - De bloemen van de kleine Ida.",
+     "s": 1093
+    },
+    {
+     "f": "sprookjes_11_andersen_64kb.mp3",
+     "t": "11 - De onwrikbare tinnen soldaat.",
+     "s": 1149
+    },
+    {
+     "f": "sprookjes_12_andersen_64kb.mp3",
+     "t": "12 - De gouden schat.",
+     "s": 1531
+    },
+    {
+     "f": "sprookjes_13_andersen_64kb.mp3",
+     "t": "13 - De droom van den ouden eik.",
+     "s": 968
+    },
+    {
+     "f": "sprookjes_14_andersen_64kb.mp3",
+     "t": "14 - Zij deugde niet.",
+     "s": 913
+    },
+    {
+     "f": "sprookjes_15_andersen_64kb.mp3",
+     "t": "15 - De herderin en de schoorsteenveger.",
+     "s": 626
+    },
+    {
+     "f": "sprookjes_16_andersen_64kb.mp3",
+     "t": "16 - De flesschehals.",
+     "s": 1464
+    },
+    {
+     "f": "sprookjes_17_andersen_64kb.mp3",
+     "t": "17 - Het minnende paar.",
+     "s": 413
+    },
+    {
+     "f": "sprookjes_18_andersen_64kb.mp3",
+     "t": "18 - De prinses op de erwt.",
+     "s": 165
+    },
+    {
+     "f": "sprookjes_19_andersen_64kb.mp3",
+     "t": "19 - Ole Luk-Oie.",
+     "s": 1246
+    },
+    {
+     "f": "sprookjes_20_andersen_64kb.mp3",
+     "t": "20 - Het oude huis.",
+     "s": 1057
+    },
+    {
+     "f": "sprookjes_21_andersen_64kb.mp3",
+     "t": "21 - De gelukkige familie.",
+     "s": 475
+    },
+    {
+     "f": "sprookjes_22_andersen_64kb.mp3",
+     "t": "22 - Twee juffers.",
+     "s": 452
+    },
+    {
+     "f": "sprookjes_23_andersen_64kb.mp3",
+     "t": "23 - De wilde zwanen.",
+     "s": 2196
+    },
+    {
+     "f": "sprookjes_24_andersen_64kb.mp3",
+     "t": "24 - Het madeliefje.",
+     "s": 578
+    },
+    {
+     "f": "sprookjes_25_andersen_64kb.mp3",
+     "t": "25 - De geschiedenis van een moeder.",
+     "s": 699
+    },
+    {
+     "f": "sprookjes_26_andersen_64kb.mp3",
+     "t": "26 - Uitstel is geen afstel.",
+     "s": 433
+    },
+    {
+     "f": "sprookjes_27_andersen_64kb.mp3",
+     "t": "27 - De tuin van het Paradijs.",
+     "s": 1821
+    },
+    {
+     "f": "sprookjes_28_andersen_64kb.mp3",
+     "t": "28 - De kleine Tuk.",
+     "s": 628
+    },
+    {
+     "f": "sprookjes_29_andersen_64kb.mp3",
+     "t": "29 - De burinnetjes.",
+     "s": 1268
+    },
+    {
+     "f": "sprookjes_30_andersen_64kb.mp3",
+     "t": "30 - Grootmoeder.",
+     "s": 458
+    },
+    {
+     "f": "sprookjes_31_andersen_64kb.mp3",
+     "t": "31 - De schim.",
+     "s": 1536
+    },
+    {
+     "f": "sprookjes_32_andersen_64kb.mp3",
+     "t": "32 - Het vlas.",
+     "s": 573
+    },
+    {
+     "f": "sprookjes_33_andersen_64kb.mp3",
+     "t": "33 - Kinderpraat.",
+     "s": 310
+    },
+    {
+     "f": "sprookjes_34_andersen_64kb.mp3",
+     "t": "34 - De stopnaald.",
+     "s": 442
+    },
+    {
+     "f": "sprookjes_35_andersen_64kb.mp3",
+     "t": "35 - De oude torenklok.",
+     "s": 822
+    },
+    {
+     "f": "sprookjes_36_andersen_64kb.mp3",
+     "t": "36 - Het metalen varken.",
+     "s": 1586
+    },
+    {
+     "f": "sprookjes_37_andersen_64kb.mp3",
+     "t": "37 - Het vriendschapsverbond.",
+     "s": 1333
+    },
+    {
+     "f": "sprookjes_38_andersen_64kb.mp3",
+     "t": "38 - Het lucifersmeisje.",
+     "s": 656
+    },
+    {
+     "f": "sprookjes_39_andersen_64kb.mp3",
+     "t": "39 - De sneeuwman.",
+     "s": 821
+    },
+    {
+     "f": "sprookjes_40_andersen_64kb.mp3",
+     "t": "40 - De vogel Phoenix.",
+     "s": 319
+    },
+    {
+     "f": "sprookjes_41_andersen_64kb.mp3",
+     "t": "41 - De rozenelf.",
+     "s": 849
+    },
+    {
+     "f": "sprookjes_42_andersen_64kb.mp3",
+     "t": "42 - Iets.",
+     "s": 911
+    },
+    {
+     "f": "sprookjes_43_andersen_64kb.mp3",
+     "t": "43 - Het doornenpad der eer.",
+     "s": 617
+    },
+    {
+     "f": "sprookjes_44_andersen_64kb.mp3",
+     "t": "44 - De goddelooze koning.",
+     "s": 420
+    },
+    {
+     "f": "sprookjes_45_andersen_64kb.mp3",
+     "t": "45 - Twee hanen.",
+     "s": 347
+    },
+    {
+     "f": "sprookjes_46_andersen_64kb.mp3",
+     "t": "46 - Er bestaat een onderscheid.",
+     "s": 475
+    },
+    {
+     "f": "sprookjes_47_andersen_64kb.mp3",
+     "t": "47 - Het is stellig waar!",
+     "s": 318
+    },
+    {
+     "f": "sprookjes_48_andersen_64kb.mp3",
+     "t": "48 - De elfenheuvel.",
+     "s": 850
+    },
+    {
+     "f": "sprookjes_49_andersen_64kb.mp3",
+     "t": "49 - De engel.",
+     "s": 368
+    },
+    {
+     "f": "sprookjes_50_andersen_64kb.mp3",
+     "t": "50 - De nieuwe kleeren van den keizer.",
+     "s": 678
+    },
+    {
+     "f": "sprookjes_51_andersen_64kb.mp3",
+     "t": "51 - De mestkever.",
+     "s": 982
+    },
+    {
+     "f": "sprookjes_52_andersen_64kb.mp3",
+     "t": "52 - De ijsjonkvrouw - De kleine Rudy.",
+     "s": 1023
+    },
+    {
+     "f": "sprookjes_53_andersen_64kb.mp3",
+     "t": "53 - De ijsjonkvrouw - De reis naar de nieuwe woning.",
+     "s": 751
+    },
+    {
+     "f": "sprookjes_54_andersen_64kb.mp3",
+     "t": "54 - De ijsjonkvrouw - De oom.",
+     "s": 588
+    },
+    {
+     "f": "sprookjes_55_andersen_64kb.mp3",
+     "t": "55 - De ijsjonkvrouw - Babette.",
+     "s": 1314
+    },
+    {
+     "f": "sprookjes_56_andersen_64kb.mp3",
+     "t": "56 - De ijsjonkvrouw - Op den terugweg.",
+     "s": 332
+    },
+    {
+     "f": "sprookjes_57_andersen_64kb.mp3",
+     "t": "57 - De ijsjonkvrouw - Het bezoek in den molen.",
+     "s": 475
+    },
+    {
+     "f": "sprookjes_58_andersen_64kb.mp3",
+     "t": "58 - De ijsjonkvrouw - Het arendsnest.",
+     "s": 471
+    },
+    {
+     "f": "sprookjes_59_andersen_64kb.mp3",
+     "t": "59 - De ijsjonkvrouw -Welke nieuwtjes de kamerkat wist te vertellen.",
+     "s": 271
+    },
+    {
+     "f": "sprookjes_60_andersen_64kb.mp3",
+     "t": "60 - De ijsjonkvrouw - De ijsjonkvrouw.",
+     "s": 352
+    },
+    {
+     "f": "sprookjes_61_andersen_64kb.mp3",
+     "t": "61 - De ijsjonkvrouw - De petemoei.",
+     "s": 380
+    },
+    {
+     "f": "sprookjes_62_andersen_64kb.mp3",
+     "t": "62 - De ijsjonkvrouw - De neef.",
+     "s": 311
+    },
+    {
+     "f": "sprookjes_63_andersen_64kb.mp3",
+     "t": "63 - De ijsjonkvrouw - Booze machten.",
+     "s": 412
+    },
+    {
+     "f": "sprookjes_64_andersen_64kb.mp3",
+     "t": "64 - De ijsjonkvrouw - In den molen.",
+     "s": 306
+    },
+    {
+     "f": "sprookjes_65_andersen_64kb.mp3",
+     "t": "65 - De ijsjonkvrouw - Nachtelijke droomgezichten.",
+     "s": 332
+    },
+    {
+     "f": "sprookjes_66_andersen_64kb.mp3",
+     "t": "66 - De ijsjonkvrouw -Besluit.",
+     "s": 720
+    },
+    {
+     "f": "sprookjes_67_andersen_64kb.mp3",
+     "t": "67 - De nachtegaal.",
+     "s": 1355
+    },
+    {
+     "f": "sprookjes_68_andersen_64kb.mp3",
+     "t": "68 - Een geschiedenis.",
+     "s": 802
+    },
+    {
+     "f": "sprookjes_69_andersen_64kb.mp3",
+     "t": "69 - Twaalf met de diligence.",
+     "s": 584
+    },
+    {
+     "f": "sprookjes_70_andersen_64kb.mp3",
+     "t": "70 - Domme Hans.",
+     "s": 722
+    },
+    {
+     "f": "sprookjes_71_andersen_64kb.mp3",
+     "t": "71 - Drie springers.",
+     "s": 413
+    },
+    {
+     "f": "sprookjes_72_andersen_64kb.mp3",
+     "t": "72 - De waterdroppel.",
+     "s": 293
+    },
+    {
+     "f": "sprookjes_73_andersen_64kb.mp3",
+     "t": "73 - Een blad van den hemel.",
+     "s": 464
+    },
+    {
+     "f": "sprookjes_74_andersen_64kb.mp3",
+     "t": "04b - Zoals manlief doet, is het altijd goed.",
+     "s": 685
+    },
+    {
+     "f": "sprookjes_75_andersen_64kb.mp3",
+     "t": "40b - De vogel Phoenix.",
+     "s": 221
+    },
+    {
+     "f": "sprookjes_76_andersen_64kb.mp3",
+     "t": "59b - Welke nieuwtjes de kamerkat wist te vertellen.",
+     "s": 238
+    },
+    {
+     "f": "sprookjes_77_andersen_64kb.mp3",
+     "t": "65b - Nachtelijke droomgezichten.",
+     "s": 277
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-aladdin-en-de-wonderlamp-1411-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Aladdin en de wonderlamp",
+   "author": "Anoniem",
+   "minutes": 338,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/aladdin_en_de_wonderlamp_1411_librivox",
+   "base": "https://archive.org/download/aladdin_en_de_wonderlamp_1411_librivox/",
+   "tracks": [
+    {
+     "f": "aladdinendewonderlamp_01_anoniem_64kb.mp3",
+     "t": "01 - Deel 1",
+     "s": 1448
+    },
+    {
+     "f": "aladdinendewonderlamp_02_anoniem_64kb.mp3",
+     "t": "02 - Deel 2",
+     "s": 1819
+    },
+    {
+     "f": "aladdinendewonderlamp_03_anoniem_64kb.mp3",
+     "t": "03 - Deel 3",
+     "s": 1637
+    },
+    {
+     "f": "aladdinendewonderlamp_04_anoniem_64kb.mp3",
+     "t": "04 - Deel 4",
+     "s": 1679
+    },
+    {
+     "f": "aladdinendewonderlamp_05_anoniem_64kb.mp3",
+     "t": "05 - Deel 5",
+     "s": 1585
+    },
+    {
+     "f": "aladdinendewonderlamp_06_anoniem_64kb.mp3",
+     "t": "06 - Deel 6",
+     "s": 1597
+    },
+    {
+     "f": "aladdinendewonderlamp_07_anoniem_64kb.mp3",
+     "t": "07 - Deel 7",
+     "s": 1664
+    },
+    {
+     "f": "aladdinendewonderlamp_08_anoniem_64kb.mp3",
+     "t": "08 - Deel 8",
+     "s": 1771
+    },
+    {
+     "f": "aladdinendewonderlamp_09_anoniem_64kb.mp3",
+     "t": "09 - Deel 9",
+     "s": 1750
+    },
+    {
+     "f": "aladdinendewonderlamp_10_anoniem_64kb.mp3",
+     "t": "10 - Deel 10",
+     "s": 1858
+    },
+    {
+     "f": "aladdinendewonderlamp_11_anoniem_64kb.mp3",
+     "t": "11 - Deel 11",
+     "s": 1742
+    },
+    {
+     "f": "aladdinendewonderlamp_12_anoniem_64kb.mp3",
+     "t": "12 - Deel 12",
+     "s": 1742
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-ali-baba-en-de-veertig-roovers-1411-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Ali Baba en de veertig roovers",
+   "author": "Anoniem",
+   "minutes": 112,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/ali_baba_en_de_veertig_roovers_1411_librivox",
+   "base": "https://archive.org/download/ali_baba_en_de_veertig_roovers_1411_librivox/",
+   "tracks": [
+    {
+     "f": "alibaba_01_anoniem_64kb.mp3",
+     "t": "01 - Deel 1",
+     "s": 1544
+    },
+    {
+     "f": "alibaba_02_anoniem_64kb.mp3",
+     "t": "02 - Deel 2",
+     "s": 1596
+    },
+    {
+     "f": "alibaba_03_anoniem_64kb.mp3",
+     "t": "03 - Deel 3",
+     "s": 1973
+    },
+    {
+     "f": "alibaba_04_anoniem_64kb.mp3",
+     "t": "04 - Deel 4",
+     "s": 1620
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-contes-temps-passe-librivox",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Histoires ou Contes du temps passé avec des moralités",
+   "author": "Charles Perrault",
+   "minutes": 153,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/contes_temps_passe_librivox",
+   "base": "https://archive.org/download/contes_temps_passe_librivox/",
+   "tracks": [
+    {
+     "f": "contes_du_temps_passe_01_perrault_64kb.mp3",
+     "t": "01 - &Agrave; Mademoiselle",
+     "s": 148
+    },
+    {
+     "f": "contes_du_temps_passe_02_perrault_64kb.mp3",
+     "t": "02 - Le petit Chaperon rouge",
+     "s": 308
+    },
+    {
+     "f": "contes_du_temps_passe_03_perrault_64kb.mp3",
+     "t": "03 - Les F&eacute;es",
+     "s": 341
+    },
+    {
+     "f": "contes_du_temps_passe_04_perrault_64kb.mp3",
+     "t": "04 - La Barbe bleue",
+     "s": 663
+    },
+    {
+     "f": "contes_du_temps_passe_05_perrault_64kb.mp3",
+     "t": "05 - La Belle au Bois dormant",
+     "s": 1099
+    },
+    {
+     "f": "contes_du_temps_passe_06_perrault_64kb.mp3",
+     "t": "06 - Le Ma&icirc;tre Chat, ou le Chat bott&eacute;",
+     "s": 572
+    },
+    {
+     "f": "contes_du_temps_passe_07_perrault_64kb.mp3",
+     "t": "07 - Cendrillon, ou la petite Pantoufle de verre",
+     "s": 766
+    },
+    {
+     "f": "contes_du_temps_passe_08_perrault_64kb.mp3",
+     "t": "08 - Riquet &agrave; la Houpe",
+     "s": 853
+    },
+    {
+     "f": "contes_du_temps_passe_09_perrault_64kb.mp3",
+     "t": "09 - Le petit Poucet",
+     "s": 1221
+    },
+    {
+     "f": "contes_du_temps_passe_10_a_perrault_64kb.mp3",
+     "t": "10 a - L'adroite Princesse, ou les aventures de Finette : premi&egrave;re partie",
+     "s": 1657
+    },
+    {
+     "f": "contes_du_temps_passe_10_b_perrault_64kb.mp3",
+     "t": "10 b - L'adroite Princesse, ou les aventures de Finette : deuxi&egrave;me partie",
+     "s": 1536
+    }
+   ],
+   "premium": false
+  },
+  {
+   "id": "lv-nouveaux-contes-de-fees-pour-les-petits-enfants-",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Nouveaux contes de fees pour les petits enfants",
+   "author": "Comtesse Sophie de Segur",
+   "minutes": 329,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/nouveaux_contes_de_fees_pour_les_petits_enfants_ezwa_0810_librivox",
+   "base": "https://archive.org/download/nouveaux_contes_de_fees_pour_les_petits_enfants_ezwa_0810_librivox/",
+   "tracks": [
+    {
+     "f": "nvxcontesdefees_01_segur_64kb.mp3",
+     "t": "01 - Blondine, Bonne-Biche et Beau-Minon 1",
+     "s": 1001
+    },
+    {
+     "f": "nvxcontesdefees_02_segur_64kb.mp3",
+     "t": "02 - Blondine, Bonne-Biche et Beau-Minon 2",
+     "s": 1272
+    },
+    {
+     "f": "nvxcontesdefees_03_segur_64kb.mp3",
+     "t": "03 - Blondine, Bonne-Biche et Beau-Minon 3",
+     "s": 1203
+    },
+    {
+     "f": "nvxcontesdefees_04_segur_64kb.mp3",
+     "t": "04 - Blondine, Bonne-Biche et Beau-Minon 4",
+     "s": 873
+    },
+    {
+     "f": "nvxcontesdefees_05_segur_64kb.mp3",
+     "t": "05 - Le bon petit Henri 1",
+     "s": 983
+    },
+    {
+     "f": "nvxcontesdefees_06_segur_64kb.mp3",
+     "t": "06 - Le bon petit Henri 2",
+     "s": 1138
+    },
+    {
+     "f": "nvxcontesdefees_07_segur_64kb.mp3",
+     "t": "07 - Histoire de la princesse Rosette 1",
+     "s": 935
+    },
+    {
+     "f": "nvxcontesdefees_08_segur_64kb.mp3",
+     "t": "08 - Histoire de la princesse Rosette 2",
+     "s": 1010
+    },
+    {
+     "f": "nvxcontesdefees_09_segur_64kb.mp3",
+     "t": "09 - Histoire de la princesse Rosette 3",
+     "s": 818
+    },
+    {
+     "f": "nvxcontesdefees_10_segur_64kb.mp3",
+     "t": "10 - La petite souris grise 1",
+     "s": 1353
+    },
+    {
+     "f": "nvxcontesdefees_11_segur_64kb.mp3",
+     "t": "11 - La petite souris grise 2",
+     "s": 1281
+    },
+    {
+     "f": "nvxcontesdefees_12_segur_64kb.mp3",
+     "t": "12 - Ourson 1",
+     "s": 633
+    },
+    {
+     "f": "nvxcontesdefees_13_segur_64kb.mp3",
+     "t": "13 - Ourson 2",
+     "s": 1029
+    },
+    {
+     "f": "nvxcontesdefees_14_segur_64kb.mp3",
+     "t": "14 - Ourson 3",
+     "s": 1164
+    },
+    {
+     "f": "nvxcontesdefees_15_segur_64kb.mp3",
+     "t": "15 - Ourson 4",
+     "s": 1121
+    },
+    {
+     "f": "nvxcontesdefees_16_segur_64kb.mp3",
+     "t": "16 - Ourson 5",
+     "s": 874
+    },
+    {
+     "f": "nvxcontesdefees_17_segur_64kb.mp3",
+     "t": "17 - Ourson 6",
+     "s": 1149
+    },
+    {
+     "f": "nvxcontesdefees_18_segur_64kb.mp3",
+     "t": "18 - Ourson 7",
+     "s": 1144
+    },
+    {
+     "f": "nvxcontesdefees_19_segur_64kb.mp3",
+     "t": "19 - Ourson 8",
+     "s": 738
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-contes-iletaitunefois-002-1104-librivox",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Il était une fois... - 002 (contes pour enfants)",
+   "author": "Various",
+   "minutes": 202,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/contes_iletaitunefois_002_1104_librivox",
+   "base": "https://archive.org/download/contes_iletaitunefois_002_1104_librivox/",
+   "tracks": [
+    {
+     "f": "contes002_01_belleboisdormant_64kb.mp3",
+     "t": "01 - La Belle au bois dormant",
+     "s": 713
+    },
+    {
+     "f": "contes002_02_jeanchanceux_64kb.mp3",
+     "t": "02 - Jean le Chanceux",
+     "s": 700
+    },
+    {
+     "f": "contes002_03_mallevolante_64kb.mp3",
+     "t": "03 - La Malle volante",
+     "s": 719
+    },
+    {
+     "f": "contes002_04_araigneepuce_64kb.mp3",
+     "t": "04 - L'Araignée et la puce",
+     "s": 254
+    },
+    {
+     "f": "contes002_05_aiguilleareprise_64kb.mp3",
+     "t": "05 - L'Aiguille à repriser",
+     "s": 679
+    },
+    {
+     "f": "contes002_06_reineabeilles_64kb.mp3",
+     "t": "06 - La Reine des abeilles",
+     "s": 310
+    },
+    {
+     "f": "contes002_07_ricquethouppe_64kb.mp3",
+     "t": "07 - Riquet à la houppe",
+     "s": 253
+    },
+    {
+     "f": "contes002_08_presentsgnomes_64kb.mp3",
+     "t": "08 - Les Présents des gnomes",
+     "s": 355
+    },
+    {
+     "f": "contes002_09_lievreherisson_64kb.mp3",
+     "t": "09 - Le Lièvre et le hérisson",
+     "s": 641
+    },
+    {
+     "f": "contes002_10_petitefilleallumettes_64kb.mp3",
+     "t": "10 - La Petite fille aux allumettes",
+     "s": 308
+    },
+    {
+     "f": "contes002_11_troisfreres_64kb.mp3",
+     "t": "11 - Les Trois frères",
+     "s": 359
+    },
+    {
+     "f": "contes002_12_plumeencrier_64kb.mp3",
+     "t": "12 - La Plume et l'encrier",
+     "s": 330
+    },
+    {
+     "f": "contes002_13_oursroitelet_64kb.mp3",
+     "t": "13 - L'Ours et le roitelet",
+     "s": 324
+    },
+    {
+     "f": "contes002_14_grandclauspetitclaus_64kb.mp3",
+     "t": "14 - Grand Claus et petit Claus",
+     "s": 1339
+    },
+    {
+     "f": "contes002_15_roimontagneor_64kb.mp3",
+     "t": "15 - Le Roi de la montagne d'or",
+     "s": 912
+    },
+    {
+     "f": "contes002_16_jugehabile_64kb.mp3",
+     "t": "16 - Le Juge habile",
+     "s": 446
+    },
+    {
+     "f": "contes002_17_huitchevreaux_64kb.mp3",
+     "t": "17 - Les Huit chevreaux",
+     "s": 493
+    },
+    {
+     "f": "contes002_18_histoirekoli_64kb.mp3",
+     "t": "18 - Histoire de Koli",
+     "s": 649
+    },
+    {
+     "f": "contes002_19_terrecomete_64kb.mp3",
+     "t": "19 - La Terre et la comète",
+     "s": 1380
+    },
+    {
+     "f": "contes002_20_ourashimatarodeesseocean_64kb.mp3",
+     "t": "20 - Ourashima Taro et la déesse de l'océan",
+     "s": 937
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-fables-lafontaine-07-0910-librivox",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Fables de La Fontaine, livre 07",
+   "author": "Jean de La Fontaine",
+   "minutes": 56,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/fables_lafontaine_07_0910_librivox",
+   "base": "https://archive.org/download/fables_lafontaine_07_0910_librivox/",
+   "tracks": [
+    {
+     "f": "fables_07_00_lafontaine_64kb.mp3",
+     "t": "00 - A Madame de Montespan",
+     "s": 177
+    },
+    {
+     "f": "fables_07_01_lafontaine_64kb.mp3",
+     "t": "01 - Les Animaux malades de la Peste",
+     "s": 207
+    },
+    {
+     "f": "fables_07_02_lafontaine_64kb.mp3",
+     "t": "02 - Le Mal Marie",
+     "s": 187
+    },
+    {
+     "f": "fables_07_03_lafontaine_64kb.mp3",
+     "t": "03 - Le Rat qui s\\'est retire du monde",
+     "s": 113
+    },
+    {
+     "f": "fables_07_04_lafontaine_64kb.mp3",
+     "t": "04 - Le Heron",
+     "s": 167
+    },
+    {
+     "f": "fables_07_05_lafontaine_64kb.mp3",
+     "t": "05 - La Fille",
+     "s": 185
+    },
+    {
+     "f": "fables_07_06_lafontaine_64kb.mp3",
+     "t": "06 - Les Souhaits",
+     "s": 188
+    },
+    {
+     "f": "fables_07_07_lafontaine_64kb.mp3",
+     "t": "07 - La Cour du Lion",
+     "s": 150
+    },
+    {
+     "f": "fables_07_08_lafontaine_64kb.mp3",
+     "t": "08 - Les Vautours et les Pigeons",
+     "s": 139
+    },
+    {
+     "f": "fables_07_09_lafontaine_64kb.mp3",
+     "t": "09 - Le Coche et La Mouche",
+     "s": 154
+    },
+    {
+     "f": "fables_07_10_lafontaine_64kb.mp3",
+     "t": "10 - La Laitiere et le Pot au lait",
+     "s": 181
+    },
+    {
+     "f": "fables_07_11_lafontaine_64kb.mp3",
+     "t": "11 - Le Cure et le Mort",
+     "s": 134
+    },
+    {
+     "f": "fables_07_12_lafontaine_64kb.mp3",
+     "t": "12 - L'Homme qui court apres la Fortune et l'Homme qui l\\'attend dans son lit",
+     "s": 261
+    },
+    {
+     "f": "fables_07_13_lafontaine_64kb.mp3",
+     "t": "13 - Les Deux Coqs",
+     "s": 108
+    },
+    {
+     "f": "fables_07_14_lafontaine_64kb.mp3",
+     "t": "14 - L'Ingratitude et l'Injustice des hommes envers la Fortune",
+     "s": 218
+    },
+    {
+     "f": "fables_07_15_lafontaine_64kb.mp3",
+     "t": "15 - Les Devineresses",
+     "s": 220
+    },
+    {
+     "f": "fables_07_16_lafontaine_64kb.mp3",
+     "t": "16 - Le Chat, la Belette et le petit Lapin",
+     "s": 151
+    },
+    {
+     "f": "fables_07_17_lafontaine_64kb.mp3",
+     "t": "17 - La Tete et la Queue du Serpent",
+     "s": 147
+    },
+    {
+     "f": "fables_07_18_lafontaine_64kb.mp3",
+     "t": "18 - Un Animal dans la Lune",
+     "s": 253
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-fables-de-la-fontaine-08-jl-librivox",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Fables de La Fontaine, livre 8",
+   "author": "Jean de La Fontaine",
+   "minutes": 83,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/fables_de_la_fontaine_08_jl_librivox",
+   "base": "https://archive.org/download/fables_de_la_fontaine_08_jl_librivox/",
+   "tracks": [
+    {
+     "f": "fables08_01_lafontaine_64kb.mp3",
+     "t": "La Mort et le Mourant",
+     "s": 244
+    },
+    {
+     "f": "fables08_02_lafontaine_64kb.mp3",
+     "t": "Le Savatier et le Financier",
+     "s": 192
+    },
+    {
+     "f": "fables08_03_lafontaine_64kb.mp3",
+     "t": "Le Lion, le Loup et le Renard",
+     "s": 173
+    },
+    {
+     "f": "fables08_04_lafontaine_64kb.mp3",
+     "t": "Le Pouvoir des Fables",
+     "s": 261
+    },
+    {
+     "f": "fables08_05_lafontaine_64kb.mp3",
+     "t": "L'Homme et la Puce",
+     "s": 90
+    },
+    {
+     "f": "fables08_06_lafontaine_64kb.mp3",
+     "t": "Les Femmes et le Secret",
+     "s": 161
+    },
+    {
+     "f": "fables08_07_lafontaine_64kb.mp3",
+     "t": "Le Chien qui porte a son cou le diner de son maitre",
+     "s": 172
+    },
+    {
+     "f": "fables08_08_lafontaine_64kb.mp3",
+     "t": "Le Rieur et les Poissons",
+     "s": 130
+    },
+    {
+     "f": "fables08_09_lafontaine_64kb.mp3",
+     "t": "Le Rat et l'Huitre",
+     "s": 176
+    },
+    {
+     "f": "fables08_10_lafontaine_64kb.mp3",
+     "t": "L'Ours et l'Amateur des jardins",
+     "s": 234
+    },
+    {
+     "f": "fables08_11_lafontaine_64kb.mp3",
+     "t": "Les Deux Amis",
+     "s": 145
+    },
+    {
+     "f": "fables08_12_lafontaine_64kb.mp3",
+     "t": "Le Cochon, la Chevre et le Mouton",
+     "s": 145
+    },
+    {
+     "f": "fables08_13_lafontaine_64kb.mp3",
+     "t": "Tircis et Amarante",
+     "s": 217
+    },
+    {
+     "f": "fables08_14_lafontaine_64kb.mp3",
+     "t": "Les obseques de la Lionne",
+     "s": 211
+    },
+    {
+     "f": "fables08_15_lafontaine_64kb.mp3",
+     "t": "Le Rat et l'ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂlÃÂ",
+     "s": 133
+    },
+    {
+     "f": "fables08_16_lafontaine_64kb.mp3",
+     "t": "L'Horoscope",
+     "s": 325
+    },
+    {
+     "f": "fables08_17_lafontaine_64kb.mp3",
+     "t": "L'Ane et le Chien",
+     "s": 159
+    },
+    {
+     "f": "fables08_18_lafontaine_64kb.mp3",
+     "t": "Le Bassa et le Marchand",
+     "s": 225
+    },
+    {
+     "f": "fables08_19_lafontaine_64kb.mp3",
+     "t": "L'Avantage de la science",
+     "s": 145
+    },
+    {
+     "f": "fables08_20_lafontaine_64kb.mp3",
+     "t": "Jupiter et les Tonnerres",
+     "s": 176
+    },
+    {
+     "f": "fables08_21_lafontaine_64kb.mp3",
+     "t": "Le Faucon et le Chapon",
+     "s": 160
+    },
+    {
+     "f": "fables08_22_lafontaine_64kb.mp3",
+     "t": "Le Chat et le Rat",
+     "s": 227
+    },
+    {
+     "f": "fables08_23_lafontaine_64kb.mp3",
+     "t": "Le Torrent et la Riviere",
+     "s": 117
+    },
+    {
+     "f": "fables08_24_lafontaine_64kb.mp3",
+     "t": "L'Education",
+     "s": 116
+    },
+    {
+     "f": "fables08_25_lafontaine_64kb.mp3",
+     "t": "Les Deux Chiens et l'Ane mort",
+     "s": 191
+    },
+    {
+     "f": "fables08_26_lafontaine_64kb.mp3",
+     "t": "Democrite et les Abderitains",
+     "s": 203
+    },
+    {
+     "f": "fables08_27_lafontaine_64kb.mp3",
+     "t": "Le Loup et le Chasseur",
+     "s": 251
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-aesops-fables-new-translation-1407-librivox",
+   "kind": "audio",
+   "lang": "en",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Aesop's Fables - new translation",
+   "author": "Aesop",
+   "minutes": 273,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/aesops_fables_-_new_translation_1407_librivox",
+   "base": "https://archive.org/download/aesops_fables_-_new_translation_1407_librivox/",
+   "tracks": [
+    {
+     "f": "aesops_fables_-_new_translation_00_aesop_64kb.mp3",
+     "t": "00 - Introduction",
+     "s": 701
+    },
+    {
+     "f": "aesops_fables_-_new_translation_01_aesop_64kb.mp3",
+     "t": "01 - The fox and the grapes \\",
+     "s": 811
+    },
+    {
+     "f": "aesops_fables_-_new_translation_02_aesop_64kb.mp3",
+     "t": "02 - Mercury and the woodsman \\",
+     "s": 1018
+    },
+    {
+     "f": "aesops_fables_-_new_translation_03_aesop_64kb.mp3",
+     "t": "03 - The ass and the lap dog\\",
+     "s": 1024
+    },
+    {
+     "f": "aesops_fables_-_new_translation_04_aesop_64kb.mp3",
+     "t": "04 - The fox and the goat \\",
+     "s": 829
+    },
+    {
+     "f": "aesops_fables_-_new_translation_05_aesop_64kb.mp3",
+     "t": "05 - The she-goats and their beards \\",
+     "s": 706
+    },
+    {
+     "f": "aesops_fables_-_new_translation_06_aesop_64kb.mp3",
+     "t": "06 - The olive-tree and the fig-tree \\",
+     "s": 689
+    },
+    {
+     "f": "aesops_fables_-_new_translation_07_aesop_64kb.mp3",
+     "t": "07 - The blacksmith and his dog\\",
+     "s": 770
+    },
+    {
+     "f": "aesops_fables_-_new_translation_09_aesop_64kb.mp3",
+     "t": "09 - The horse and his rider \\",
+     "s": 801
+    },
+    {
+     "f": "aesops_fables_-_new_translation_10_aesop_64kb.mp3",
+     "t": "10 - The three tradesmen \\",
+     "s": 753
+    },
+    {
+     "f": "aesops_fables_-_new_translation_11_aesop_64kb.mp3",
+     "t": "11 - The farmer and the stork \\",
+     "s": 841
+    },
+    {
+     "f": "aesops_fables_-_new_translation_12_aesop_64kb.mp3",
+     "t": "12 - The birds, the beasts, and the bat \\",
+     "s": 858
+    },
+    {
+     "f": "aesops_fables_-_new_translation_13_aesop_64kb.mp3",
+     "t": "13 - The lion and the hare \\",
+     "s": 771
+    },
+    {
+     "f": "aesops_fables_-_new_translation_14_aesop_64kb.mp3",
+     "t": "14 - The thief and the innkeeper \\",
+     "s": 974
+    },
+    {
+     "f": "aesops_fables_-_new_translation_15_aesop_64kb.mp3",
+     "t": "15 - The lion, Jupiter, and the elephant \\",
+     "s": 838
+    },
+    {
+     "f": "aesops_fables_-_new_translation_16_aesop_64kb.mp3",
+     "t": "16 - Demades and his fable \\",
+     "s": 754
+    },
+    {
+     "f": "aesops_fables_-_new_translation_17_aesop_64kb.mp3",
+     "t": "17 - The stag and the lion \\",
+     "s": 855
+    },
+    {
+     "f": "aesops_fables_-_new_translation_18_aesop_64kb.mp3",
+     "t": "18 - The fox and the hedgehog \\",
+     "s": 944
+    },
+    {
+     "f": "aesops_fables_-_new_translation_19_aesop_64kb.mp3",
+     "t": "19 - The rogue and the oracle \\",
+     "s": 646
+    },
+    {
+     "f": "aesopsfablesnewtranslation_08_aesop_64kb.mp3",
+     "t": "08 - The lion and the wild ass",
+     "s": 826
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-english-fairy-tales-joy-librivox",
+   "kind": "audio",
+   "lang": "en",
+   "bands": [
+    "6-12"
+   ],
+   "title": "English Fairy Tales",
+   "author": "Joseph Jacobs",
+   "minutes": 335,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/english_fairy_tales_joy_librivox",
+   "base": "https://archive.org/download/english_fairy_tales_joy_librivox/",
+   "tracks": [
+    {
+     "f": "english_fairy_tales_00_64kb.mp3",
+     "t": "00 - Preface",
+     "s": 568
+    },
+    {
+     "f": "english_fairy_tales_01_64kb.mp3",
+     "t": "01 - Tom Tit Tot",
+     "s": 679
+    },
+    {
+     "f": "english_fairy_tales_02_64kb.mp3",
+     "t": "02 - The Three Sillies",
+     "s": 530
+    },
+    {
+     "f": "english_fairy_tales_03_64kb.mp3",
+     "t": "03 - The Rose Tree",
+     "s": 417
+    },
+    {
+     "f": "english_fairy_tales_04_64kb.mp3",
+     "t": "04 - The Old Woman and Her Pig",
+     "s": 322
+    },
+    {
+     "f": "english_fairy_tales_05_64kb.mp3",
+     "t": "05 - How Jack Went to Seek His Fortune",
+     "s": 296
+    },
+    {
+     "f": "english_fairy_tales_06_64kb.mp3",
+     "t": "06 - Mr. Vinegar",
+     "s": 484
+    },
+    {
+     "f": "english_fairy_tales_07_64kb.mp3",
+     "t": "07 - Nix Nought Nothing",
+     "s": 702
+    },
+    {
+     "f": "english_fairy_tales_08_64kb.mp3",
+     "t": "08 - Jack Hannaford",
+     "s": 283
+    },
+    {
+     "f": "english_fairy_tales_09_64kb.mp3",
+     "t": "09 - Binnorie",
+     "s": 347
+    },
+    {
+     "f": "english_fairy_tales_10_64kb.mp3",
+     "t": "10 - Mouse and Mouser",
+     "s": 173
+    },
+    {
+     "f": "english_fairy_tales_11_64kb.mp3",
+     "t": "11 - Cap o' Rushes",
+     "s": 528
+    },
+    {
+     "f": "english_fairy_tales_12_64kb.mp3",
+     "t": "12 - Teeny-tiny",
+     "s": 182
+    },
+    {
+     "f": "english_fairy_tales_13_64kb.mp3",
+     "t": "13 - Jack and the Beanstalk",
+     "s": 908
+    },
+    {
+     "f": "english_fairy_tales_14_64kb.mp3",
+     "t": "14 - The Story of the Three Little Pigs",
+     "s": 366
+    },
+    {
+     "f": "english_fairy_tales_15_64kb.mp3",
+     "t": "15 - The Master and His Pupil",
+     "s": 311
+    },
+    {
+     "f": "english_fairy_tales_16_64kb.mp3",
+     "t": "16 - Titty Mouse and Tatty Mouse",
+     "s": 333
+    },
+    {
+     "f": "english_fairy_tales_17_64kb.mp3",
+     "t": "17 - Jack and His Golden Snuff-Box",
+     "s": 1162
+    },
+    {
+     "f": "english_fairy_tales_18_64kb.mp3",
+     "t": "18 - The Story of the Three Bears",
+     "s": 482
+    },
+    {
+     "f": "english_fairy_tales_19_64kb.mp3",
+     "t": "19 - Jack the Giant-Killer",
+     "s": 1375
+    },
+    {
+     "f": "english_fairy_tales_20_64kb.mp3",
+     "t": "20 - Henny Penny",
+     "s": 325
+    },
+    {
+     "f": "english_fairy_tales_21_64kb.mp3",
+     "t": "21 - Childe Rowland",
+     "s": 671
+    },
+    {
+     "f": "english_fairy_tales_22_64kb.mp3",
+     "t": "22 - Molly Whuppie",
+     "s": 558
+    },
+    {
+     "f": "english_fairy_tales_23_64kb.mp3",
+     "t": "23 - The Red Ettin",
+     "s": 576
+    },
+    {
+     "f": "english_fairy_tales_24_64kb.mp3",
+     "t": "24 - The Golden Arm",
+     "s": 125
+    },
+    {
+     "f": "english_fairy_tales_25_64kb.mp3",
+     "t": "25 - The History of Tom Thumb",
+     "s": 680
+    },
+    {
+     "f": "english_fairy_tales_26_64kb.mp3",
+     "t": "26 - Mr. Fox",
+     "s": 405
+    },
+    {
+     "f": "english_fairy_tales_27_64kb.mp3",
+     "t": "27 - Lazy Jack",
+     "s": 271
+    },
+    {
+     "f": "english_fairy_tales_28_64kb.mp3",
+     "t": "28 - Johnny-Cake",
+     "s": 339
+    },
+    {
+     "f": "english_fairy_tales_29_64kb.mp3",
+     "t": "29 - Earl Mar's Daughter",
+     "s": 416
+    },
+    {
+     "f": "english_fairy_tales_30_64kb.mp3",
+     "t": "30 - Mr. Miacca",
+     "s": 257
+    },
+    {
+     "f": "english_fairy_tales_31_64kb.mp3",
+     "t": "31 - Whittington and His Cat",
+     "s": 1092
+    },
+    {
+     "f": "english_fairy_tales_32_64kb.mp3",
+     "t": "32 - The Strange Visitor",
+     "s": 286
+    },
+    {
+     "f": "english_fairy_tales_33_64kb.mp3",
+     "t": "33 - The Laidly Worm of Spindleston Heugh",
+     "s": 473
+    },
+    {
+     "f": "english_fairy_tales_34_64kb.mp3",
+     "t": "34 - The Cat and the Mouse",
+     "s": 165
+    },
+    {
+     "f": "english_fairy_tales_35_64kb.mp3",
+     "t": "35 - The Fish and the Ring",
+     "s": 422
+    },
+    {
+     "f": "english_fairy_tales_36_64kb.mp3",
+     "t": "36 - The Magpie's Next",
+     "s": 192
+    },
+    {
+     "f": "english_fairy_tales_37_64kb.mp3",
+     "t": "37 - Kate Crackernuts",
+     "s": 448
+    },
+    {
+     "f": "english_fairy_tales_38_64kb.mp3",
+     "t": "38 - The Cauld Lad of Hilton",
+     "s": 178
+    },
+    {
+     "f": "english_fairy_tales_39_64kb.mp3",
+     "t": "39 - The Ass, the Table, and the Stick",
+     "s": 427
+    },
+    {
+     "f": "english_fairy_tales_40_64kb.mp3",
+     "t": "40 - Fairy Ointment",
+     "s": 295
+    },
+    {
+     "f": "english_fairy_tales_41_64kb.mp3",
+     "t": "41 - The Well of the World's End",
+     "s": 394
+    },
+    {
+     "f": "english_fairy_tales_42_64kb.mp3",
+     "t": "42 - Master of All Masters",
+     "s": 150
+    },
+    {
+     "f": "english_fairy_tales_43_64kb.mp3",
+     "t": "43 - The Three Heads of the Well",
+     "s": 536
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-reinaartdevos-0812-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "12-18"
+   ],
+   "title": "Reinaart de Vos",
+   "author": "Anonymous",
+   "minutes": 127,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/reinaartdevos_0812_librivox",
+   "base": "https://archive.org/download/reinaartdevos_0812_librivox/",
+   "tracks": [
+    {
+     "f": "reinaartdevos_01_degeyter_64kb.mp3",
+     "t": "01",
+     "s": 1105
+    },
+    {
+     "f": "reinaartdevos_02_degeyter_64kb.mp3",
+     "t": "02",
+     "s": 1103
+    },
+    {
+     "f": "reinaartdevos_03_degeyter_64kb.mp3",
+     "t": "03",
+     "s": 945
+    },
+    {
+     "f": "reinaartdevos_04_degeyter_64kb.mp3",
+     "t": "04",
+     "s": 976
+    },
+    {
+     "f": "reinaartdevos_05_degeyter_64kb.mp3",
+     "t": "05",
+     "s": 785
+    },
+    {
+     "f": "reinaartdevos_06_degeyter_64kb.mp3",
+     "t": "06",
+     "s": 1071
+    },
+    {
+     "f": "reinaartdevos_07_degeyter_64kb.mp3",
+     "t": "07",
+     "s": 726
+    },
+    {
+     "f": "reinaartdevos_08_degeyter_64kb.mp3",
+     "t": "08",
+     "s": 915
+    }
+   ],
+   "premium": true
+  },
+  {
+   "id": "lv-tijl-uilenspiegel-1011-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "12-18"
+   ],
+   "title": "Tijl Uilenspiegel in Vlaanderen",
+   "author": "Jan Bruylants",
+   "minutes": 1048,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/tijl_uilenspiegel_1011_librivox",
+   "base": "https://archive.org/download/tijl_uilenspiegel_1011_librivox/",
+   "tracks": [
+    {
+     "f": "uilenspiegel_01_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 01",
+     "s": 274
+    },
+    {
+     "f": "uilenspiegel_02_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 02",
+     "s": 159
+    },
+    {
+     "f": "uilenspiegel_03_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 03",
+     "s": 172
+    },
+    {
+     "f": "uilenspiegel_04_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 04",
+     "s": 298
+    },
+    {
+     "f": "uilenspiegel_05_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 05",
+     "s": 347
+    },
+    {
+     "f": "uilenspiegel_06_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 06",
+     "s": 248
+    },
+    {
+     "f": "uilenspiegel_07_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 07",
+     "s": 334
+    },
+    {
+     "f": "uilenspiegel_08_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 08",
+     "s": 387
+    },
+    {
+     "f": "uilenspiegel_09_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 09",
+     "s": 323
+    },
+    {
+     "f": "uilenspiegel_10_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 10",
+     "s": 618
+    },
+    {
+     "f": "uilenspiegel_11_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 11",
+     "s": 386
+    },
+    {
+     "f": "uilenspiegel_12_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 12",
+     "s": 577
+    },
+    {
+     "f": "uilenspiegel_13_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 13",
+     "s": 973
+    },
+    {
+     "f": "uilenspiegel_14_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 14",
+     "s": 670
+    },
+    {
+     "f": "uilenspiegel_15_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 15",
+     "s": 316
+    },
+    {
+     "f": "uilenspiegel_16_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 16",
+     "s": 872
+    },
+    {
+     "f": "uilenspiegel_17_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 17",
+     "s": 292
+    },
+    {
+     "f": "uilenspiegel_18_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 18",
+     "s": 360
+    },
+    {
+     "f": "uilenspiegel_19_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 19",
+     "s": 590
+    },
+    {
+     "f": "uilenspiegel_20_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 20",
+     "s": 1464
+    },
+    {
+     "f": "uilenspiegel_21_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 21",
+     "s": 965
+    },
+    {
+     "f": "uilenspiegel_22_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 22",
+     "s": 1081
+    },
+    {
+     "f": "uilenspiegel_23_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 23",
+     "s": 577
+    },
+    {
+     "f": "uilenspiegel_24_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 24",
+     "s": 747
+    },
+    {
+     "f": "uilenspiegel_25_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 25",
+     "s": 616
+    },
+    {
+     "f": "uilenspiegel_26_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 26",
+     "s": 1372
+    },
+    {
+     "f": "uilenspiegel_27_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 27",
+     "s": 939
+    },
+    {
+     "f": "uilenspiegel_28_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 28",
+     "s": 924
+    },
+    {
+     "f": "uilenspiegel_29_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 29",
+     "s": 2113
+    },
+    {
+     "f": "uilenspiegel_30_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 30",
+     "s": 905
+    },
+    {
+     "f": "uilenspiegel_31_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 31",
+     "s": 2447
+    },
+    {
+     "f": "uilenspiegel_32_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 32",
+     "s": 1430
+    },
+    {
+     "f": "uilenspiegel_33_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 33",
+     "s": 1025
+    },
+    {
+     "f": "uilenspiegel_34_bruylants_64kb.mp3",
+     "t": "Boek 1, Hoofdstuk 34",
+     "s": 626
+    },
+    {
+     "f": "uilenspiegel_35_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 01",
+     "s": 188
+    },
+    {
+     "f": "uilenspiegel_36_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 02",
+     "s": 671
+    },
+    {
+     "f": "uilenspiegel_37_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 03",
+     "s": 762
+    },
+    {
+     "f": "uilenspiegel_38_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 04",
+     "s": 1062
+    },
+    {
+     "f": "uilenspiegel_39_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 05",
+     "s": 331
+    },
+    {
+     "f": "uilenspiegel_40_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 06",
+     "s": 368
+    },
+    {
+     "f": "uilenspiegel_41_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 07",
+     "s": 1137
+    },
+    {
+     "f": "uilenspiegel_42_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 08",
+     "s": 655
+    },
+    {
+     "f": "uilenspiegel_43_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 09",
+     "s": 504
+    },
+    {
+     "f": "uilenspiegel_44_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 10",
+     "s": 512
+    },
+    {
+     "f": "uilenspiegel_45_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 11",
+     "s": 963
+    },
+    {
+     "f": "uilenspiegel_46_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 12",
+     "s": 311
+    },
+    {
+     "f": "uilenspiegel_47_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 13",
+     "s": 1226
+    },
+    {
+     "f": "uilenspiegel_48_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 14",
+     "s": 903
+    },
+    {
+     "f": "uilenspiegel_49_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 15",
+     "s": 1020
+    },
+    {
+     "f": "uilenspiegel_50_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 16",
+     "s": 754
+    },
+    {
+     "f": "uilenspiegel_51_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 17",
+     "s": 460
+    },
+    {
+     "f": "uilenspiegel_52_bruylants_64kb.mp3",
+     "t": "Boek 2, Hoofdstuk 18",
+     "s": 1046
+    },
+    {
+     "f": "uilenspiegel_53_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 01",
+     "s": 188
+    },
+    {
+     "f": "uilenspiegel_54_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 02",
+     "s": 610
+    },
+    {
+     "f": "uilenspiegel_55_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 03",
+     "s": 825
+    },
+    {
+     "f": "uilenspiegel_56_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 04",
+     "s": 584
+    },
+    {
+     "f": "uilenspiegel_57_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 05",
+     "s": 1044
+    },
+    {
+     "f": "uilenspiegel_58_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 06",
+     "s": 661
+    },
+    {
+     "f": "uilenspiegel_59_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 07",
+     "s": 1271
+    },
+    {
+     "f": "uilenspiegel_60_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 08",
+     "s": 790
+    },
+    {
+     "f": "uilenspiegel_61_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 09",
+     "s": 984
+    },
+    {
+     "f": "uilenspiegel_62_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 10",
+     "s": 822
+    },
+    {
+     "f": "uilenspiegel_63_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 11",
+     "s": 1518
+    },
+    {
+     "f": "uilenspiegel_64_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 12",
+     "s": 545
+    },
+    {
+     "f": "uilenspiegel_65_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 13",
+     "s": 1265
+    },
+    {
+     "f": "uilenspiegel_66_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 14",
+     "s": 1586
+    },
+    {
+     "f": "uilenspiegel_67_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 15",
+     "s": 337
+    },
+    {
+     "f": "uilenspiegel_68_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 16",
+     "s": 1574
+    },
+    {
+     "f": "uilenspiegel_69_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 17",
+     "s": 2220
+    },
+    {
+     "f": "uilenspiegel_70_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 18",
+     "s": 2387
+    },
+    {
+     "f": "uilenspiegel_71_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 19",
+     "s": 2058
+    },
+    {
+     "f": "uilenspiegel_72_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 20",
+     "s": 840
+    },
+    {
+     "f": "uilenspiegel_73_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 21",
+     "s": 996
+    },
+    {
+     "f": "uilenspiegel_74_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 22",
+     "s": 1234
+    },
+    {
+     "f": "uilenspiegel_75_bruylants_64kb.mp3",
+     "t": "Boek 3, Hoofdstuk 23",
+     "s": 211
+    }
+   ],
+   "premium": true
+  }
+ ]
+}

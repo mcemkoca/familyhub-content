@@ -48,7 +48,7 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
   <div class="wrap">
     <div class="eyebrow">FamilyHub · Android</div>
     <h1>Gizlilik Politikası</h1>
-    <div class="meta">Yürürlük tarihi: 12 Kasım 2026 · Sürüm 4.0</div>
+    <div class="meta">Yürürlük tarihi: 13 Kasım 2026 · Sürüm 4.1</div>
   </div>
 </header>
 
@@ -111,6 +111,10 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
       <p>Uygulama haftada bir, herkese açık bir adresten (GitHub Pages) imzalı içerik dosyaları indirir: Belçika hakları ve tutarları, tatil takvimi, dil kartları, öğrenme bağlantıları. Bu sırada uygulama hiçbir kişisel ya da aile bilgisi göndermez; her web sitesinde olduğu gibi barındırma hizmeti teknik bağlantı kayıtları (IP adresi gibi) tutabilir. Ayarlar → İçerik ve takvim'den kapatılabilir.</p>
     </section>
     <section>
+      <h2>Öğren: dil okulu, kütüphane ve destek köşesi</h2>
+      <p>Dil alıştırmalarındaki ilerleme (hangi cümleyi ne zaman tekrar edeceğiniz) aile verisinin bir parçasıdır ve yalnızca aile telefonları arasında şifreli eşitlenir. Cümleleri ve masalları sesli okuma telefonun kendi metin okuma motoruyla yapılır. Konuşma alıştırmasında mikrofon düğmesine bastığınızda telefonun kendi ses tanıma uygulaması açılır (ör. Google); onun gizlilik kuralları geçerlidir, FamilyHub ses kaydetmez ve mikrofon izni istemez. Sesli kitaplar LibriVox'un kamu malı kayıtlarıdır ve dinlerken doğrudan archive.org'dan akış olarak çalınır; archive.org her web sitesi gibi teknik bağlantı kayıtları (IP adresi gibi) tutabilir, aile bilgisi gönderilmez. Görsel plan ve “önce–sonra” panosu yalnızca o telefonda saklanır.</p>
+    </section>
+    <section>
       <h2>WhatsApp, Instagram ve Facebook'a paylaşma</h2>
       <p>FamilyHub hiçbir sosyal ağa bağlanmaz, bu servislerde hesap açmaz. Bir paylaş düğmesine dokunduğunuzda Android'in paylaşım ekranı (ya da seçtiğiniz uygulama) paylaştığınız metin, takvim dosyası veya görselle açılır; siz orada göndermedikçe hiçbir şey gönderilmez. Kaydettiğiniz WhatsApp grup bağlantısı yalnızca telefonunuzda durur. Başka bir uygulamadan FamilyHub'a paylaştığınız metin ya da fotoğraf yalnızca Hızlı ekle'yi veya yeni bir hatırayı doldurmak için okunur.</p>
     </section>
@@ -120,9 +124,10 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
         <table>
           <thead><tr><th>Bileşen</th><th>Ne için</th><th>Veri</th></tr></thead>
           <tbody>
+            <tr><td>archive.org (Internet Archive)</td><td>Kütüphanede LibriVox sesli kitaplarını dinlemek</td><td>Yalnızca çal düğmesine bastığınızda ses dosyası archive.org'dan istenir; aile bilgisi gönderilmez. <a href="https://archive.org/about/terms" rel="noopener" target="_blank">archive.org koşulları</a></td></tr>
             <tr><td>Google Play hizmetleri kod tarayıcısı (ML Kit)</td><td>Eşleştirme QR kodunu okumak</td><td>Google; cihaz ve uygulama bilgisi, performans ve hata ölçümleri gibi teşhis verilerini HTTPS ile toplayabilir, üçüncü taraflarla paylaşmaz. <a href="https://developers.google.com/ml-kit/android-data-disclosure" rel="noopener" target="_blank">Google'ın açıklaması</a></td></tr>
             <tr><td>Google ML Kit metin tanıma ve çeviri</td><td>Mektup asistanı: fotoğraftaki yazıyı okumak ve Türkçeye çevirmek</td><td>Okuma ve çeviri telefonda yapılır; metin ve fotoğraf gönderilmez. Çeviri için dil paketi bir kez Google'dan indirilir. Google teşhis verisi toplayabilir (yukarıdaki açıklama).</td></tr>
-            <tr><td>Telefonun ses tanıma hizmeti</td><td>Hızlı ekle'de mikrofon düğmesi</td><td>Yalnızca siz düğmeye bastığınızda telefonunuzun kendi ses tanıma uygulaması açılır ve onun gizlilik kuralları geçerlidir. FamilyHub mikrofon izni istemez.</td></tr>
+            <tr><td>Telefonun ses tanıma hizmeti</td><td>Hızlı ekle'de ve dil okulunda mikrofon düğmesi</td><td>Yalnızca siz düğmeye bastığınızda telefonunuzun kendi ses tanıma uygulaması açılır ve onun gizlilik kuralları geçerlidir. FamilyHub mikrofon izni istemez.</td></tr>
           </tbody>
         </table>
       </div>
@@ -192,6 +197,10 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
     <section>
       <h2>Security</h2>
       <p>The family sync key is protected by the phone's Android Keystore. The guardian PIN, personal sign-ins and the women's health PIN are stored only as slow hashes; after 5 wrong tries a waiting time starts, and parents see repeated wrong attempts in the family history (never for the women's health PIN). Sign-in, recovery code and women's health screens cannot be captured. With the app lock on, lock-screen notifications and the home-screen widget show no details. Backup files can be protected with a password; we never have it, and a forgotten password cannot be recovered. Weekly automatic backups are kept in the app's internal storage.</p>
+    </section>
+    <section>
+      <h2>Learn: language school, library and support corner</h2>
+      <p>Language practice progress is family data and is only synced end-to-end encrypted between family phones. Read-aloud uses the phone's own text-to-speech. The speaking exercise opens the phone's own speech recognition app (e.g. Google) only when you tap the microphone; its privacy terms apply, FamilyHub records no audio and asks for no microphone permission. Audiobooks are public-domain LibriVox recordings streamed directly from archive.org when you press play; archive.org may keep technical connection logs (such as IP address); no family data is sent. The visual schedule and first–then board stay on that phone.</p>
     </section>
     <section>
       <h2>Purchases</h2>

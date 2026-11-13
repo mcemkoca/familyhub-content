@@ -1,0 +1,2465 @@
+{
+ "checked": "2026-11-13",
+ "note": "Cümleler Belçika'da günlük hayatta en çok gereken durumlardan seçildi. Ses telefonun kendi okuma motoruyla (Hollandaca: Belçika, Fransızca: Belçika) çalınır.",
+ "langs": [
+  {
+   "id": "nl",
+   "label": "Hollandaca (Vlaams)",
+   "locale": "nl-BE",
+   "regions": [
+    "flanders",
+    "brussels"
+   ]
+  },
+  {
+   "id": "fr",
+   "label": "Fransızca (Belçika)",
+   "locale": "fr-BE",
+   "regions": [
+    "wallonia",
+    "brussels"
+   ]
+  }
+ ],
+ "levels": [
+  {
+   "id": "a0",
+   "label": "İlk adım"
+  },
+  {
+   "id": "a1",
+   "label": "Günlük hayat"
+  },
+  {
+   "id": "a2",
+   "label": "Bağımsız"
+  }
+ ],
+ "units": [
+  {
+   "id": "nl-hallo",
+   "lang": "nl",
+   "level": "a0",
+   "icon": "👋",
+   "title": "Selamlaşma ve tanışma",
+   "goal": "Kendini tanıtmak, nasılsın demek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-hallo-1",
+     "t": "Goedemorgen!",
+     "tr": "Günaydın!"
+    },
+    {
+     "id": "nl-hallo-2",
+     "t": "Goeiemiddag, hoe gaat het met u?",
+     "tr": "İyi günler, nasılsınız?",
+     "note": "Vlaanderen'de öğleden sonra 'goeiemiddag' sık kullanılır."
+    },
+    {
+     "id": "nl-hallo-3",
+     "t": "Ik heet Ayşe. En u?",
+     "tr": "Benim adım Ayşe. Ya siz?"
+    },
+    {
+     "id": "nl-hallo-4",
+     "t": "Ik kom uit Turkije, maar ik woon in Gent.",
+     "tr": "Türkiye'denim ama Gent'te oturuyorum."
+    },
+    {
+     "id": "nl-hallo-5",
+     "t": "Ik spreek een beetje Nederlands.",
+     "tr": "Biraz Hollandaca konuşuyorum."
+    },
+    {
+     "id": "nl-hallo-6",
+     "t": "Kunt u wat trager spreken, alstublieft?",
+     "tr": "Biraz daha yavaş konuşabilir misiniz, lütfen?",
+     "note": "Belçika'da 'trager' (daha yavaş) çok duyulur; Hollanda'da 'langzamer'."
+    },
+    {
+     "id": "nl-hallo-7",
+     "t": "Sorry, dat heb ik niet begrepen.",
+     "tr": "Pardon, bunu anlamadım."
+    },
+    {
+     "id": "nl-hallo-8",
+     "t": "Tot straks! / Tot morgen!",
+     "tr": "Birazdan görüşürüz! / Yarın görüşürüz!"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Dag! Bent u de mama van Elif?",
+     "tr": "Merhaba! Elif'in annesi siz misiniz?"
+    },
+    {
+     "who": "B",
+     "t": "Ja, ik ben Ayşe. Aangenaam.",
+     "tr": "Evet, ben Ayşe. Memnun oldum."
+    },
+    {
+     "who": "A",
+     "t": "Aangenaam. Ik ben de mama van Lotte. Ze zitten in dezelfde klas.",
+     "tr": "Memnun oldum. Ben Lotte'nin annesiyim. Aynı sınıftalar."
+    },
+    {
+     "who": "B",
+     "t": "Leuk! Elif vertelt veel over Lotte.",
+     "tr": "Ne güzel! Elif, Lotte'yi çok anlatıyor."
+    }
+   ],
+   "words": [
+    {
+     "t": "dag",
+     "tr": "merhaba / hoşça kal"
+    },
+    {
+     "t": "aangenaam",
+     "tr": "memnun oldum"
+    },
+    {
+     "t": "de buurman / de buurvrouw",
+     "tr": "komşu (erkek/kadın)"
+    },
+    {
+     "t": "alstublieft",
+     "tr": "lütfen / buyurun"
+    },
+    {
+     "t": "dank u wel",
+     "tr": "çok teşekkür ederim"
+    }
+   ]
+  },
+  {
+   "id": "nl-school",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🏫",
+   "title": "Okulda",
+   "goal": "Öğretmenle konuşmak, haber vermek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-school-1",
+     "t": "Mijn zoon is vandaag ziek. Hij komt niet naar school.",
+     "tr": "Oğlum bugün hasta. Okula gelmiyor."
+    },
+    {
+     "id": "nl-school-2",
+     "t": "Mag ik even met de juf spreken?",
+     "tr": "Öğretmenle (kadın) biraz konuşabilir miyim?",
+     "note": "Belçika'da ilkokul öğretmenine 'juf' (kadın) ya da 'meester' (erkek) denir."
+    },
+    {
+     "id": "nl-school-3",
+     "t": "Wanneer is het oudercontact?",
+     "tr": "Veli toplantısı ne zaman?"
+    },
+    {
+     "id": "nl-school-4",
+     "t": "Moet hij morgen zijn turnzak meebrengen?",
+     "tr": "Yarın beden eğitimi çantasını getirmesi gerekiyor mu?"
+    },
+    {
+     "id": "nl-school-5",
+     "t": "Ze eet 's middags in de refter.",
+     "tr": "Öğlen yemekhanede yiyor.",
+     "note": "'Refter' Flaman okullarında yemekhane demektir."
+    },
+    {
+     "id": "nl-school-6",
+     "t": "Hoe gaat het met haar in de klas?",
+     "tr": "Sınıfta nasıl gidiyor?"
+    },
+    {
+     "id": "nl-school-7",
+     "t": "Ik heb het briefje ondertekend.",
+     "tr": "Notu (veli yazısını) imzaladım."
+    },
+    {
+     "id": "nl-school-8",
+     "t": "Kan ik de factuur in schijven betalen?",
+     "tr": "Faturayı taksitle ödeyebilir miyim?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Dag juf, Emir was gisteren afwezig. Hij had koorts.",
+     "tr": "Merhaba öğretmenim, Emir dün yoktu. Ateşi vardı."
+    },
+    {
+     "who": "B",
+     "t": "Dank u om het te laten weten. Is hij nu beter?",
+     "tr": "Haber verdiğiniz için teşekkürler. Şimdi daha iyi mi?"
+    },
+    {
+     "who": "A",
+     "t": "Ja, gelukkig wel. Heeft hij huiswerk gemist?",
+     "tr": "Evet, neyse ki. Kaçırdığı ödev var mı?"
+    },
+    {
+     "who": "B",
+     "t": "Een blad rekenen. Ik steek het in zijn boekentas.",
+     "tr": "Bir sayfa matematik. Çantasına koyuyorum."
+    },
+    {
+     "who": "A",
+     "t": "Super, bedankt!",
+     "tr": "Süper, teşekkürler!"
+    }
+   ],
+   "words": [
+    {
+     "t": "de boekentas",
+     "tr": "okul çantası"
+    },
+    {
+     "t": "de speeltijd",
+     "tr": "teneffüs"
+    },
+    {
+     "t": "het rapport",
+     "tr": "karne"
+    },
+    {
+     "t": "de turnles",
+     "tr": "beden eğitimi dersi"
+    },
+    {
+     "t": "de schoolreis",
+     "tr": "okul gezisi"
+    }
+   ]
+  },
+  {
+   "id": "nl-dokter",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🩺",
+   "title": "Doktor ve eczane",
+   "goal": "Şikâyeti anlatmak, randevu almak",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-dokter-1",
+     "t": "Ik wil graag een afspraak maken bij de huisarts.",
+     "tr": "Aile hekiminden randevu almak istiyorum."
+    },
+    {
+     "id": "nl-dokter-2",
+     "t": "Mijn dochter heeft koorts sinds gisteren.",
+     "tr": "Kızımın dünden beri ateşi var."
+    },
+    {
+     "id": "nl-dokter-3",
+     "t": "Ze heeft pijn in haar buik.",
+     "tr": "Karnı ağrıyor."
+    },
+    {
+     "id": "nl-dokter-4",
+     "t": "Hij hoest veel 's nachts.",
+     "tr": "Geceleri çok öksürüyor."
+    },
+    {
+     "id": "nl-dokter-5",
+     "t": "Is dit medicijn ook geschikt voor kinderen?",
+     "tr": "Bu ilaç çocuklar için de uygun mu?"
+    },
+    {
+     "id": "nl-dokter-6",
+     "t": "Hoeveel keer per dag moet ze dit nemen?",
+     "tr": "Bunu günde kaç kez alması gerekiyor?"
+    },
+    {
+     "id": "nl-dokter-7",
+     "t": "Hier is mijn identiteitskaart.",
+     "tr": "Kimlik kartım burada.",
+     "note": "Eczanede eID ile reçete (voorschrift) okunur."
+    },
+    {
+     "id": "nl-dokter-8",
+     "t": "Mag ik een attest voor school?",
+     "tr": "Okul için bir rapor (belge) alabilir miyim?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Dokterspraktijk, goeiemorgen.",
+     "tr": "Doktor muayenehanesi, günaydın."
+    },
+    {
+     "who": "B",
+     "t": "Goeiemorgen, ik wil een afspraak maken voor mijn zoon.",
+     "tr": "Günaydın, oğlum için randevu almak istiyorum."
+    },
+    {
+     "who": "A",
+     "t": "Wat scheelt er?",
+     "tr": "Neyi var?"
+    },
+    {
+     "who": "B",
+     "t": "Hij heeft oorpijn en een beetje koorts.",
+     "tr": "Kulağı ağrıyor ve biraz ateşi var."
+    },
+    {
+     "who": "A",
+     "t": "Kan hij om half vijf komen?",
+     "tr": "Dört buçukta gelebilir mi?"
+    },
+    {
+     "who": "B",
+     "t": "Ja, dat past. Dank u.",
+     "tr": "Evet, uygun. Teşekkürler."
+    }
+   ],
+   "words": [
+    {
+     "t": "de huisarts",
+     "tr": "aile hekimi"
+    },
+    {
+     "t": "de apotheek",
+     "tr": "eczane"
+    },
+    {
+     "t": "het voorschrift",
+     "tr": "reçete"
+    },
+    {
+     "t": "het ziekenfonds / de mutualiteit",
+     "tr": "sağlık sigortası kurumu"
+    },
+    {
+     "t": "de wachtdienst",
+     "tr": "nöbetçi (doktor/eczane)"
+    }
+   ]
+  },
+  {
+   "id": "nl-winkel",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🛒",
+   "title": "Market ve alışveriş",
+   "goal": "Sormak, ödemek, iade etmek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-winkel-1",
+     "t": "Waar vind ik de melk?",
+     "tr": "Sütü nerede bulabilirim?"
+    },
+    {
+     "id": "nl-winkel-2",
+     "t": "Hoeveel kost dit?",
+     "tr": "Bu ne kadar?"
+    },
+    {
+     "id": "nl-winkel-3",
+     "t": "Mag ik betalen met Bancontact?",
+     "tr": "Bancontact ile ödeyebilir miyim?"
+    },
+    {
+     "id": "nl-winkel-4",
+     "t": "Heeft u een zakje voor mij?",
+     "tr": "Bana bir poşet verebilir misiniz?"
+    },
+    {
+     "id": "nl-winkel-5",
+     "t": "Ik wil dit graag terugbrengen. Hier is het kasticket.",
+     "tr": "Bunu iade etmek istiyorum. Fiş burada."
+    },
+    {
+     "id": "nl-winkel-6",
+     "t": "Is dit in promotie?",
+     "tr": "Bu indirimde mi?",
+     "note": "Belçika'da indirim için 'promotie / promo' denir."
+    },
+    {
+     "id": "nl-winkel-7",
+     "t": "Doe maar een halve kilo, alstublieft.",
+     "tr": "Yarım kilo verin, lütfen."
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Wie is er aan de beurt?",
+     "tr": "Sıra kimde?"
+    },
+    {
+     "who": "B",
+     "t": "Ik. Mag ik zes broodjes, alstublieft?",
+     "tr": "Bende. Altı küçük ekmek alabilir miyim, lütfen?"
+    },
+    {
+     "who": "A",
+     "t": "Anders nog iets?",
+     "tr": "Başka bir şey?"
+    },
+    {
+     "who": "B",
+     "t": "Nee, dat was het. Hoeveel is het?",
+     "tr": "Hayır, bu kadar. Ne kadar?"
+    },
+    {
+     "who": "A",
+     "t": "Vier euro twintig, alstublieft.",
+     "tr": "Dört euro yirmi, buyurun."
+    }
+   ],
+   "words": [
+    {
+     "t": "het kasticket",
+     "tr": "fiş"
+    },
+    {
+     "t": "de kassa",
+     "tr": "kasa"
+    },
+    {
+     "t": "goedkoop / duur",
+     "tr": "ucuz / pahalı"
+    },
+    {
+     "t": "de korting",
+     "tr": "indirim"
+    },
+    {
+     "t": "de bakker / de beenhouwer",
+     "tr": "fırın / kasap (BE)"
+    }
+   ]
+  },
+  {
+   "id": "nl-gemeente",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🏛️",
+   "title": "Belediye ve resmî işler",
+   "goal": "Randevu, belge, adres değişikliği",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-gemeente-1",
+     "t": "Ik wil een afspraak maken aan het loket burgerzaken.",
+     "tr": "Nüfus işleri gişesinden randevu almak istiyorum."
+    },
+    {
+     "id": "nl-gemeente-2",
+     "t": "Ik ben verhuisd. Ik wil mijn adres veranderen.",
+     "tr": "Taşındım. Adresimi değiştirmek istiyorum."
+    },
+    {
+     "id": "nl-gemeente-3",
+     "t": "Mijn identiteitskaart vervalt binnenkort.",
+     "tr": "Kimlik kartımın süresi yakında doluyor."
+    },
+    {
+     "id": "nl-gemeente-4",
+     "t": "Welke documenten moet ik meebrengen?",
+     "tr": "Hangi belgeleri getirmem gerekiyor?"
+    },
+    {
+     "id": "nl-gemeente-5",
+     "t": "Ik heb een brief gekregen, maar ik begrijp hem niet goed.",
+     "tr": "Bir mektup aldım ama tam anlamıyorum."
+    },
+    {
+     "id": "nl-gemeente-6",
+     "t": "Kunt u dat voor mij opschrijven?",
+     "tr": "Bunu benim için yazabilir misiniz?"
+    },
+    {
+     "id": "nl-gemeente-7",
+     "t": "Hoe lang duurt het?",
+     "tr": "Ne kadar sürer?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Volgende! Waarmee kan ik u helpen?",
+     "tr": "Sıradaki! Size nasıl yardımcı olabilirim?"
+    },
+    {
+     "who": "B",
+     "t": "Ik kom mijn nieuwe identiteitskaart afhalen.",
+     "tr": "Yeni kimlik kartımı almaya geldim."
+    },
+    {
+     "who": "A",
+     "t": "Heeft u de brief met de codes bij?",
+     "tr": "Kodların olduğu mektup yanınızda mı?"
+    },
+    {
+     "who": "B",
+     "t": "Ja, hier is hij.",
+     "tr": "Evet, işte burada."
+    },
+    {
+     "who": "A",
+     "t": "Prima. Even uw oude kaart, alstublieft.",
+     "tr": "Çok iyi. Eski kartınızı alayım, lütfen."
+    }
+   ],
+   "words": [
+    {
+     "t": "het gemeentehuis",
+     "tr": "belediye binası"
+    },
+    {
+     "t": "de wijkagent",
+     "tr": "mahalle polisi (adres kontrolü)"
+    },
+    {
+     "t": "het rijksregisternummer",
+     "tr": "ulusal sicil numarası"
+    },
+    {
+     "t": "de pincode en pukcode",
+     "tr": "eID PIN ve PUK kodları"
+    },
+    {
+     "t": "het uittreksel",
+     "tr": "(nüfus) kayıt örneği"
+    }
+   ]
+  },
+  {
+   "id": "nl-opvang",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🧸",
+   "title": "Kreş ve çocuk bakımı",
+   "goal": "Bakımla ilgili bilgi vermek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-opvang-1",
+     "t": "Ik zoek een plaats in de kinderopvang.",
+     "tr": "Kreşte yer arıyorum."
+    },
+    {
+     "id": "nl-opvang-2",
+     "t": "Ze slaapt meestal na de middag.",
+     "tr": "Genellikle öğleden sonra uyur."
+    },
+    {
+     "id": "nl-opvang-3",
+     "t": "Hij is allergisch voor noten.",
+     "tr": "Kuruyemişe alerjisi var."
+    },
+    {
+     "id": "nl-opvang-4",
+     "t": "Wie haalt haar vandaag af? Haar oma.",
+     "tr": "Bugün onu kim alacak? Babaannesi/anneannesi."
+    },
+    {
+     "id": "nl-opvang-5",
+     "t": "Mag hij zijn knuffel meenemen?",
+     "tr": "Peluş oyuncağını yanında getirebilir mi?"
+    },
+    {
+     "id": "nl-opvang-6",
+     "t": "Hoe was haar dag?",
+     "tr": "Günü nasıl geçti?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Hoe was zijn dag vandaag?",
+     "tr": "Bugün günü nasıldı?"
+    },
+    {
+     "who": "B",
+     "t": "Heel goed. Hij heeft goed gegeten en een uur geslapen.",
+     "tr": "Çok iyi. İyi yedi ve bir saat uyudu."
+    },
+    {
+     "who": "A",
+     "t": "Fijn. Morgen komt zijn papa hem halen.",
+     "tr": "Güzel. Yarın babası alacak."
+    },
+    {
+     "who": "B",
+     "t": "Oké, ik schrijf het op.",
+     "tr": "Tamam, not alıyorum."
+    }
+   ],
+   "words": [
+    {
+     "t": "de kinderopvang / de crèche",
+     "tr": "kreş"
+    },
+    {
+     "t": "de luier",
+     "tr": "bez"
+    },
+    {
+     "t": "het flesje",
+     "tr": "biberon"
+    },
+    {
+     "t": "de knuffel",
+     "tr": "peluş / sarılmak"
+    },
+    {
+     "t": "de onthaalouder",
+     "tr": "evde çocuk bakıcısı (kayıtlı)"
+    }
+   ]
+  },
+  {
+   "id": "nl-vervoer",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🚌",
+   "title": "Toplu taşıma ve yol",
+   "goal": "Bilet almak, yol sormak",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-vervoer-1",
+     "t": "Waar is de dichtstbijzijnde bushalte?",
+     "tr": "En yakın otobüs durağı nerede?"
+    },
+    {
+     "id": "nl-vervoer-2",
+     "t": "Welke bus gaat naar het station?",
+     "tr": "İstasyona hangi otobüs gidiyor?"
+    },
+    {
+     "id": "nl-vervoer-3",
+     "t": "Ik wil een ticket naar Antwerpen-Centraal, enkel.",
+     "tr": "Antwerpen-Centraal'e tek yön bilet istiyorum."
+    },
+    {
+     "id": "nl-vervoer-4",
+     "t": "Moet ik hier overstappen?",
+     "tr": "Burada aktarma yapmam gerekiyor mu?"
+    },
+    {
+     "id": "nl-vervoer-5",
+     "t": "De trein heeft vertraging.",
+     "tr": "Trenin rötarı var."
+    },
+    {
+     "id": "nl-vervoer-6",
+     "t": "Is het ver te voet?",
+     "tr": "Yürüyerek uzak mı?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Pardon, stopt deze tram aan het ziekenhuis?",
+     "tr": "Pardon, bu tramvay hastanede duruyor mu?"
+    },
+    {
+     "who": "B",
+     "t": "Ja, dat is de derde halte.",
+     "tr": "Evet, üçüncü durak."
+    },
+    {
+     "who": "A",
+     "t": "Dank u. Kan ik hier een ticket kopen?",
+     "tr": "Teşekkürler. Burada bilet alabilir miyim?"
+    },
+    {
+     "who": "B",
+     "t": "Nee, gebruik de app van De Lijn of een sms.",
+     "tr": "Hayır, De Lijn uygulamasını ya da SMS'i kullanın."
+    }
+   ],
+   "words": [
+    {
+     "t": "de halte",
+     "tr": "durak"
+    },
+    {
+     "t": "de overstap",
+     "tr": "aktarma"
+    },
+    {
+     "t": "heen en terug",
+     "tr": "gidiş-dönüş"
+    },
+    {
+     "t": "het fietspad",
+     "tr": "bisiklet yolu"
+    },
+    {
+     "t": "het perron",
+     "tr": "peron"
+    }
+   ]
+  },
+  {
+   "id": "nl-buren",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🏡",
+   "title": "Komşular ve ev",
+   "goal": "Rica etmek, sorun anlatmak",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-buren-1",
+     "t": "Wij zijn de nieuwe buren.",
+     "tr": "Biz yeni komşularız."
+    },
+    {
+     "id": "nl-buren-2",
+     "t": "Kunt u ons pakje aannemen?",
+     "tr": "Paketimizi teslim alabilir misiniz?"
+    },
+    {
+     "id": "nl-buren-3",
+     "t": "Sorry voor het lawaai gisteren. Het was een verjaardag.",
+     "tr": "Dün gürültü için özür dileriz. Doğum günüydü."
+    },
+    {
+     "id": "nl-buren-4",
+     "t": "Wanneer wordt het afval opgehaald?",
+     "tr": "Çöp ne zaman toplanıyor?"
+    },
+    {
+     "id": "nl-buren-5",
+     "t": "De verwarming werkt niet. Kunt u de huisbaas bellen?",
+     "tr": "Kalorifer çalışmıyor. Ev sahibini arayabilir misiniz?"
+    },
+    {
+     "id": "nl-buren-6",
+     "t": "Wilt u een stukje baklava proeven?",
+     "tr": "Bir parça baklava tatmak ister misiniz?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Dag buurvrouw! Alles goed?",
+     "tr": "Merhaba komşu! Her şey yolunda mı?"
+    },
+    {
+     "who": "B",
+     "t": "Ja hoor. Er ligt een pakje voor jullie bij mij.",
+     "tr": "Evet. Sizin için bende bir paket var."
+    },
+    {
+     "who": "A",
+     "t": "Oh, heel vriendelijk, dank u!",
+     "tr": "Ah, çok naziksiniz, teşekkürler!"
+    },
+    {
+     "who": "B",
+     "t": "Graag gedaan. Dat doen buren voor elkaar.",
+     "tr": "Rica ederim. Komşular bunu birbirine yapar."
+    }
+   ],
+   "words": [
+    {
+     "t": "de huisbaas",
+     "tr": "ev sahibi"
+    },
+    {
+     "t": "de huur",
+     "tr": "kira"
+    },
+    {
+     "t": "de PMD-zak",
+     "tr": "plastik-metal-karton torbası"
+    },
+    {
+     "t": "de GFT-container",
+     "tr": "organik atık kutusu"
+    },
+    {
+     "t": "de waarborg",
+     "tr": "depozito"
+    }
+   ]
+  },
+  {
+   "id": "nl-werk",
+   "lang": "nl",
+   "level": "a2",
+   "icon": "💼",
+   "title": "İş ve iş arama",
+   "goal": "Başvuru, mülakat, izin",
+   "premium": true,
+   "phrases": [
+    {
+     "id": "nl-werk-1",
+     "t": "Ik solliciteer voor de vacature van magazijnier.",
+     "tr": "Depo görevlisi ilanına başvuruyorum."
+    },
+    {
+     "id": "nl-werk-2",
+     "t": "Ik heb vijf jaar ervaring in de bouw.",
+     "tr": "İnşaatta beş yıl deneyimim var."
+    },
+    {
+     "id": "nl-werk-3",
+     "t": "Ik kan vanaf volgende maand beginnen.",
+     "tr": "Gelecek aydan itibaren başlayabilirim."
+    },
+    {
+     "id": "nl-werk-4",
+     "t": "Mag ik vrijdag een dag verlof nemen? Mijn kind is ziek.",
+     "tr": "Cuma bir gün izin alabilir miyim? Çocuğum hasta."
+    },
+    {
+     "id": "nl-werk-5",
+     "t": "Ik volg avondles Nederlands bij het CVO.",
+     "tr": "CVO'da akşam Hollandaca kursuna gidiyorum."
+    },
+    {
+     "id": "nl-werk-6",
+     "t": "Wat zijn de werkuren?",
+     "tr": "Çalışma saatleri nedir?"
+    },
+    {
+     "id": "nl-werk-7",
+     "t": "Is het een vast contract of interim?",
+     "tr": "Sürekli sözleşme mi, geçici (interim) mi?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Waarom wilt u hier werken?",
+     "tr": "Neden burada çalışmak istiyorsunuz?"
+    },
+    {
+     "who": "B",
+     "t": "Ik werk graag in team en ik leer snel.",
+     "tr": "Ekip içinde çalışmayı severim ve hızlı öğrenirim."
+    },
+    {
+     "who": "A",
+     "t": "Heeft u een rijbewijs?",
+     "tr": "Ehliyetiniz var mı?"
+    },
+    {
+     "who": "B",
+     "t": "Ja, rijbewijs B, en ik heb een eigen wagen.",
+     "tr": "Evet, B ehliyetim var ve kendi arabam var."
+    }
+   ],
+   "words": [
+    {
+     "t": "de VDAB",
+     "tr": "Flaman iş ve meslek kurumu"
+    },
+    {
+     "t": "het loon",
+     "tr": "maaş"
+    },
+    {
+     "t": "de werkloosheid",
+     "tr": "işsizlik"
+    },
+    {
+     "t": "het verlof",
+     "tr": "izin"
+    },
+    {
+     "t": "de ploegen",
+     "tr": "vardiyalar"
+    }
+   ]
+  },
+  {
+   "id": "nl-brief",
+   "lang": "nl",
+   "level": "a2",
+   "icon": "✉️",
+   "title": "Mektup ve e-posta",
+   "goal": "Resmî kısa mesaj yazmak",
+   "premium": true,
+   "phrases": [
+    {
+     "id": "nl-brief-1",
+     "t": "Geachte mevrouw, geachte heer,",
+     "tr": "Sayın hanımefendi, sayın beyefendi,"
+    },
+    {
+     "id": "nl-brief-2",
+     "t": "Hierbij stuur ik u het gevraagde document.",
+     "tr": "İstenen belgeyi ekte gönderiyorum."
+    },
+    {
+     "id": "nl-brief-3",
+     "t": "Ik wil graag meer informatie over …",
+     "tr": "… hakkında daha fazla bilgi almak istiyorum."
+    },
+    {
+     "id": "nl-brief-4",
+     "t": "Mijn dossiernummer is …",
+     "tr": "Dosya numaram …"
+    },
+    {
+     "id": "nl-brief-5",
+     "t": "Kunt u mij laten weten wanneer …?",
+     "tr": "… ne zaman olduğunu bana bildirebilir misiniz?"
+    },
+    {
+     "id": "nl-brief-6",
+     "t": "Alvast bedankt voor uw antwoord.",
+     "tr": "Yanıtınız için şimdiden teşekkürler."
+    },
+    {
+     "id": "nl-brief-7",
+     "t": "Met vriendelijke groeten,",
+     "tr": "Saygılarımla,"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Beste juf, Elif kan morgen niet mee op schoolreis.",
+     "tr": "Sevgili öğretmenim, Elif yarın okul gezisine katılamayacak."
+    },
+    {
+     "who": "A",
+     "t": "Ze heeft een afspraak in het ziekenhuis.",
+     "tr": "Hastanede randevusu var."
+    },
+    {
+     "who": "A",
+     "t": "Met vriendelijke groeten, Ayşe Yılmaz",
+     "tr": "Saygılarımla, Ayşe Yılmaz"
+    }
+   ],
+   "words": [
+    {
+     "t": "de bijlage",
+     "tr": "ek"
+    },
+    {
+     "t": "de vervaldatum",
+     "tr": "son ödeme tarihi"
+    },
+    {
+     "t": "de herinnering",
+     "tr": "hatırlatma (ödeme)"
+    },
+    {
+     "t": "het bezwaar",
+     "tr": "itiraz"
+    },
+    {
+     "t": "de handtekening",
+     "tr": "imza"
+    }
+   ]
+  },
+  {
+   "id": "nl-noodgeval",
+   "lang": "nl",
+   "level": "a1",
+   "icon": "🚑",
+   "title": "Acil durum",
+   "goal": "112'yi aramak, yardım istemek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "nl-noodgeval-1",
+     "t": "Help! Bel 112!",
+     "tr": "İmdat! 112'yi arayın!"
+    },
+    {
+     "id": "nl-noodgeval-2",
+     "t": "Mijn kind ademt moeilijk.",
+     "tr": "Çocuğum zor nefes alıyor."
+    },
+    {
+     "id": "nl-noodgeval-3",
+     "t": "Er is een ongeval gebeurd.",
+     "tr": "Bir kaza oldu."
+    },
+    {
+     "id": "nl-noodgeval-4",
+     "t": "Mijn adres is Kerkstraat 12, in Genk.",
+     "tr": "Adresim Kerkstraat 12, Genk."
+    },
+    {
+     "id": "nl-noodgeval-5",
+     "t": "Hij is bewusteloos.",
+     "tr": "Bilinci kapalı."
+    },
+    {
+     "id": "nl-noodgeval-6",
+     "t": "Ik moet het Antigifcentrum bellen.",
+     "tr": "Zehir danışma merkezini aramam gerekiyor.",
+     "note": "Antigifcentrum: 070 245 245."
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Hulpdiensten 112, wat is het adres van het noodgeval?",
+     "tr": "Acil servis 112, acil durumun adresi nedir?"
+    },
+    {
+     "who": "B",
+     "t": "Stationsstraat 5 in Lokeren.",
+     "tr": "Stationsstraat 5, Lokeren."
+    },
+    {
+     "who": "A",
+     "t": "Wat is er gebeurd?",
+     "tr": "Ne oldu?"
+    },
+    {
+     "who": "B",
+     "t": "Mijn vader is gevallen en hij bloedt aan zijn hoofd.",
+     "tr": "Babam düştü ve başı kanıyor."
+    },
+    {
+     "who": "A",
+     "t": "De ambulance is onderweg. Blijf aan de lijn.",
+     "tr": "Ambulans yolda. Hatta kalın."
+    }
+   ],
+   "words": [
+    {
+     "t": "de ambulance",
+     "tr": "ambulans"
+    },
+    {
+     "t": "de brandweer",
+     "tr": "itfaiye"
+    },
+    {
+     "t": "de politie",
+     "tr": "polis"
+    },
+    {
+     "t": "de spoed(dienst)",
+     "tr": "acil servis"
+    },
+    {
+     "t": "bloeden",
+     "tr": "kanamak"
+    }
+   ]
+  },
+  {
+   "id": "fr-bonjour",
+   "lang": "fr",
+   "level": "a0",
+   "icon": "👋",
+   "title": "Selamlaşma ve tanışma",
+   "goal": "Kendini tanıtmak, nasılsın demek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-bonjour-1",
+     "t": "Bonjour, comment allez-vous ?",
+     "tr": "Merhaba, nasılsınız?"
+    },
+    {
+     "id": "fr-bonjour-2",
+     "t": "Je m'appelle Mehmet. Et vous ?",
+     "tr": "Benim adım Mehmet. Ya siz?"
+    },
+    {
+     "id": "fr-bonjour-3",
+     "t": "Je viens de Turquie et j'habite à Liège.",
+     "tr": "Türkiye'denim ve Liège'de oturuyorum."
+    },
+    {
+     "id": "fr-bonjour-4",
+     "t": "Je parle un peu français.",
+     "tr": "Biraz Fransızca konuşuyorum."
+    },
+    {
+     "id": "fr-bonjour-5",
+     "t": "Pouvez-vous parler plus lentement, s'il vous plaît ?",
+     "tr": "Daha yavaş konuşabilir misiniz, lütfen?"
+    },
+    {
+     "id": "fr-bonjour-6",
+     "t": "Pardon, je n'ai pas compris.",
+     "tr": "Pardon, anlamadım."
+    },
+    {
+     "id": "fr-bonjour-7",
+     "t": "À tantôt ! / À demain !",
+     "tr": "Birazdan görüşürüz! / Yarın görüşürüz!",
+     "note": "Belçika'da 'à tantôt' = birazdan / bugün sonra görüşürüz."
+    },
+    {
+     "id": "fr-bonjour-8",
+     "t": "S'il vous plaît.",
+     "tr": "Lütfen / Buyurun.",
+     "note": "Belçika'da bir şey uzatırken de 's'il vous plaît' denir."
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Bonjour ! Vous êtes la maman de Yusuf ?",
+     "tr": "Merhaba! Yusuf'un annesi siz misiniz?"
+    },
+    {
+     "who": "B",
+     "t": "Oui, je suis Zeynep. Enchantée.",
+     "tr": "Evet, ben Zeynep. Memnun oldum."
+    },
+    {
+     "who": "A",
+     "t": "Enchantée. Je suis la maman de Chloé. Ils sont dans la même classe.",
+     "tr": "Memnun oldum. Ben Chloé'nin annesiyim. Aynı sınıftalar."
+    },
+    {
+     "who": "B",
+     "t": "Super ! Yusuf parle souvent de Chloé.",
+     "tr": "Süper! Yusuf sık sık Chloé'den bahsediyor."
+    }
+   ],
+   "words": [
+    {
+     "t": "salut",
+     "tr": "selam (samimi)"
+    },
+    {
+     "t": "enchanté(e)",
+     "tr": "memnun oldum"
+    },
+    {
+     "t": "le voisin / la voisine",
+     "tr": "komşu"
+    },
+    {
+     "t": "merci beaucoup",
+     "tr": "çok teşekkürler"
+    },
+    {
+     "t": "septante / nonante",
+     "tr": "yetmiş / doksan (Belçika)"
+    }
+   ]
+  },
+  {
+   "id": "fr-ecole",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🏫",
+   "title": "Okulda",
+   "goal": "Öğretmenle konuşmak, haber vermek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-ecole-1",
+     "t": "Mon fils est malade aujourd'hui. Il ne vient pas à l'école.",
+     "tr": "Oğlum bugün hasta. Okula gelmiyor."
+    },
+    {
+     "id": "fr-ecole-2",
+     "t": "Est-ce que je peux parler à l'institutrice ?",
+     "tr": "Öğretmenle (kadın) konuşabilir miyim?",
+     "note": "Belçika'da ilkokul öğretmeni: instituteur / institutrice; 'Madame' / 'Monsieur' diye hitap edilir."
+    },
+    {
+     "id": "fr-ecole-3",
+     "t": "Quand a lieu la réunion de parents ?",
+     "tr": "Veli toplantısı ne zaman?"
+    },
+    {
+     "id": "fr-ecole-4",
+     "t": "Elle mange à l'école le midi.",
+     "tr": "Öğlenleri okulda yiyor."
+    },
+    {
+     "id": "fr-ecole-5",
+     "t": "Est-ce qu'il doit apporter son sac de gym demain ?",
+     "tr": "Yarın spor çantasını getirmesi gerekiyor mu?"
+    },
+    {
+     "id": "fr-ecole-6",
+     "t": "J'ai signé le journal de classe.",
+     "tr": "Okul ajandasını (journal de classe) imzaladım.",
+     "note": "Belçika'da 'journal de classe' ödev ve notların yazıldığı ajandadır."
+    },
+    {
+     "id": "fr-ecole-7",
+     "t": "Comment ça se passe en classe ?",
+     "tr": "Sınıfta nasıl gidiyor?"
+    },
+    {
+     "id": "fr-ecole-8",
+     "t": "Est-ce que je peux payer la facture en plusieurs fois ?",
+     "tr": "Faturayı taksitle ödeyebilir miyim?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Bonjour Madame, Emir était absent hier. Il avait de la fièvre.",
+     "tr": "Merhaba öğretmenim, Emir dün yoktu. Ateşi vardı."
+    },
+    {
+     "who": "B",
+     "t": "Merci de me prévenir. Il va mieux ?",
+     "tr": "Haber verdiğiniz için teşekkürler. Daha iyi mi?"
+    },
+    {
+     "who": "A",
+     "t": "Oui, heureusement. Il a raté des devoirs ?",
+     "tr": "Evet, neyse ki. Kaçırdığı ödev var mı?"
+    },
+    {
+     "who": "B",
+     "t": "Une feuille de calcul. Je la mets dans son cartable.",
+     "tr": "Bir sayfa matematik. Çantasına koyuyorum."
+    }
+   ],
+   "words": [
+    {
+     "t": "le cartable",
+     "tr": "okul çantası"
+    },
+    {
+     "t": "la récréation (la récré)",
+     "tr": "teneffüs"
+    },
+    {
+     "t": "le bulletin",
+     "tr": "karne"
+    },
+    {
+     "t": "la farde",
+     "tr": "dosya / klasör (Belçika)"
+    },
+    {
+     "t": "le dîner",
+     "tr": "öğle yemeği (Belçika)"
+    }
+   ]
+  },
+  {
+   "id": "fr-medecin",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🩺",
+   "title": "Doktor ve eczane",
+   "goal": "Şikâyeti anlatmak, randevu almak",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-medecin-1",
+     "t": "Je voudrais prendre rendez-vous chez le médecin traitant.",
+     "tr": "Aile hekiminden randevu almak istiyorum."
+    },
+    {
+     "id": "fr-medecin-2",
+     "t": "Ma fille a de la fièvre depuis hier.",
+     "tr": "Kızımın dünden beri ateşi var."
+    },
+    {
+     "id": "fr-medecin-3",
+     "t": "Il a mal au ventre.",
+     "tr": "Karnı ağrıyor."
+    },
+    {
+     "id": "fr-medecin-4",
+     "t": "Elle tousse beaucoup la nuit.",
+     "tr": "Geceleri çok öksürüyor."
+    },
+    {
+     "id": "fr-medecin-5",
+     "t": "Ce médicament convient aussi aux enfants ?",
+     "tr": "Bu ilaç çocuklar için de uygun mu?"
+    },
+    {
+     "id": "fr-medecin-6",
+     "t": "Combien de fois par jour faut-il le prendre ?",
+     "tr": "Günde kaç kez alınmalı?"
+    },
+    {
+     "id": "fr-medecin-7",
+     "t": "Voici ma carte d'identité.",
+     "tr": "Kimlik kartım burada."
+    },
+    {
+     "id": "fr-medecin-8",
+     "t": "Je peux avoir un certificat pour l'école ?",
+     "tr": "Okul için rapor alabilir miyim?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Cabinet médical, bonjour.",
+     "tr": "Muayenehane, merhaba."
+    },
+    {
+     "who": "B",
+     "t": "Bonjour, je voudrais un rendez-vous pour mon fils.",
+     "tr": "Merhaba, oğlum için randevu istiyorum."
+    },
+    {
+     "who": "A",
+     "t": "Qu'est-ce qu'il a ?",
+     "tr": "Neyi var?"
+    },
+    {
+     "who": "B",
+     "t": "Il a mal à l'oreille et un peu de fièvre.",
+     "tr": "Kulağı ağrıyor ve biraz ateşi var."
+    },
+    {
+     "who": "A",
+     "t": "Il peut venir à seize heures trente ?",
+     "tr": "16.30'da gelebilir mi?"
+    },
+    {
+     "who": "B",
+     "t": "Oui, c'est parfait. Merci.",
+     "tr": "Evet, mükemmel. Teşekkürler."
+    }
+   ],
+   "words": [
+    {
+     "t": "le médecin traitant",
+     "tr": "aile hekimi"
+    },
+    {
+     "t": "la pharmacie de garde",
+     "tr": "nöbetçi eczane"
+    },
+    {
+     "t": "l'ordonnance",
+     "tr": "reçete"
+    },
+    {
+     "t": "la mutuelle",
+     "tr": "sağlık sigortası kurumu"
+    },
+    {
+     "t": "les urgences",
+     "tr": "acil servis"
+    }
+   ]
+  },
+  {
+   "id": "fr-magasin",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🛒",
+   "title": "Market ve alışveriş",
+   "goal": "Sormak, ödemek, iade etmek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-magasin-1",
+     "t": "Où est-ce que je trouve le lait ?",
+     "tr": "Sütü nerede bulabilirim?"
+    },
+    {
+     "id": "fr-magasin-2",
+     "t": "Ça coûte combien ?",
+     "tr": "Bu ne kadar?"
+    },
+    {
+     "id": "fr-magasin-3",
+     "t": "Je peux payer avec Bancontact ?",
+     "tr": "Bancontact ile ödeyebilir miyim?"
+    },
+    {
+     "id": "fr-magasin-4",
+     "t": "Vous avez un sac, s'il vous plaît ?",
+     "tr": "Bir poşetiniz var mı, lütfen?"
+    },
+    {
+     "id": "fr-magasin-5",
+     "t": "Je voudrais rapporter ceci. Voici le ticket.",
+     "tr": "Bunu iade etmek istiyorum. İşte fiş."
+    },
+    {
+     "id": "fr-magasin-6",
+     "t": "C'est en promotion ?",
+     "tr": "Bu indirimde mi?"
+    },
+    {
+     "id": "fr-magasin-7",
+     "t": "Une demi-livre de fromage, s'il vous plaît.",
+     "tr": "Yarım livre (250 g) peynir, lütfen.",
+     "note": "Belçika'da 'une livre' = 500 g."
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "C'est à qui ?",
+     "tr": "Sıra kimde?"
+    },
+    {
+     "who": "B",
+     "t": "C'est à moi. Six pistolets, s'il vous plaît.",
+     "tr": "Bende. Altı küçük ekmek, lütfen."
+    },
+    {
+     "who": "A",
+     "t": "Et avec ceci ?",
+     "tr": "Başka?"
+    },
+    {
+     "who": "B",
+     "t": "Ce sera tout. Ça fait combien ?",
+     "tr": "Bu kadar. Ne kadar tuttu?"
+    },
+    {
+     "who": "A",
+     "t": "Quatre euros vingt, s'il vous plaît.",
+     "tr": "Dört euro yirmi, lütfen."
+    }
+   ],
+   "words": [
+    {
+     "t": "un pistolet",
+     "tr": "küçük yuvarlak ekmek (Belçika)"
+    },
+    {
+     "t": "la caisse",
+     "tr": "kasa"
+    },
+    {
+     "t": "pas cher / cher",
+     "tr": "ucuz / pahalı"
+    },
+    {
+     "t": "la réduction",
+     "tr": "indirim"
+    },
+    {
+     "t": "la boucherie",
+     "tr": "kasap"
+    }
+   ]
+  },
+  {
+   "id": "fr-commune",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🏛️",
+   "title": "Belediye ve resmî işler",
+   "goal": "Randevu, belge, adres değişikliği",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-commune-1",
+     "t": "Je voudrais prendre rendez-vous au service population.",
+     "tr": "Nüfus hizmetinden randevu almak istiyorum."
+    },
+    {
+     "id": "fr-commune-2",
+     "t": "J'ai déménagé. Je voudrais changer mon adresse.",
+     "tr": "Taşındım. Adresimi değiştirmek istiyorum."
+    },
+    {
+     "id": "fr-commune-3",
+     "t": "Ma carte d'identité expire bientôt.",
+     "tr": "Kimlik kartımın süresi yakında doluyor."
+    },
+    {
+     "id": "fr-commune-4",
+     "t": "Quels documents dois-je apporter ?",
+     "tr": "Hangi belgeleri getirmeliyim?"
+    },
+    {
+     "id": "fr-commune-5",
+     "t": "J'ai reçu une lettre, mais je ne la comprends pas bien.",
+     "tr": "Bir mektup aldım ama tam anlamıyorum."
+    },
+    {
+     "id": "fr-commune-6",
+     "t": "Vous pouvez me l'écrire, s'il vous plaît ?",
+     "tr": "Bunu bana yazabilir misiniz, lütfen?"
+    },
+    {
+     "id": "fr-commune-7",
+     "t": "Ça prend combien de temps ?",
+     "tr": "Ne kadar sürer?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Au suivant ! Je peux vous aider ?",
+     "tr": "Sıradaki! Yardımcı olabilir miyim?"
+    },
+    {
+     "who": "B",
+     "t": "Je viens chercher ma nouvelle carte d'identité.",
+     "tr": "Yeni kimlik kartımı almaya geldim."
+    },
+    {
+     "who": "A",
+     "t": "Vous avez la lettre avec les codes ?",
+     "tr": "Kodların olduğu mektup yanınızda mı?"
+    },
+    {
+     "who": "B",
+     "t": "Oui, la voici.",
+     "tr": "Evet, işte burada."
+    }
+   ],
+   "words": [
+    {
+     "t": "la maison communale",
+     "tr": "belediye binası (Belçika)"
+    },
+    {
+     "t": "le bourgmestre",
+     "tr": "belediye başkanı (Belçika)"
+    },
+    {
+     "t": "l'agent de quartier",
+     "tr": "mahalle polisi"
+    },
+    {
+     "t": "le numéro de registre national",
+     "tr": "ulusal sicil numarası"
+    },
+    {
+     "t": "un extrait d'acte",
+     "tr": "kayıt örneği"
+    }
+   ]
+  },
+  {
+   "id": "fr-creche",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🧸",
+   "title": "Kreş ve çocuk bakımı",
+   "goal": "Bakımla ilgili bilgi vermek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-creche-1",
+     "t": "Je cherche une place en crèche.",
+     "tr": "Kreşte yer arıyorum."
+    },
+    {
+     "id": "fr-creche-2",
+     "t": "Elle fait souvent la sieste l'après-midi.",
+     "tr": "Öğleden sonra genellikle uyur."
+    },
+    {
+     "id": "fr-creche-3",
+     "t": "Il est allergique aux noix.",
+     "tr": "Cevize/kuruyemişe alerjisi var."
+    },
+    {
+     "id": "fr-creche-4",
+     "t": "C'est sa grand-mère qui vient la chercher aujourd'hui.",
+     "tr": "Bugün onu büyükannesi alacak."
+    },
+    {
+     "id": "fr-creche-5",
+     "t": "Il peut prendre son doudou ?",
+     "tr": "Peluşunu (doudou) yanına alabilir mi?"
+    },
+    {
+     "id": "fr-creche-6",
+     "t": "Comment s'est passée sa journée ?",
+     "tr": "Günü nasıl geçti?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Comment s'est passée sa journée ?",
+     "tr": "Günü nasıl geçti?"
+    },
+    {
+     "who": "B",
+     "t": "Très bien. Il a bien mangé et il a dormi une heure.",
+     "tr": "Çok iyi. İyi yedi ve bir saat uyudu."
+    },
+    {
+     "who": "A",
+     "t": "Parfait. Demain, c'est son papa qui vient.",
+     "tr": "Harika. Yarın babası gelecek."
+    },
+    {
+     "who": "B",
+     "t": "D'accord, je le note.",
+     "tr": "Tamam, not alıyorum."
+    }
+   ],
+   "words": [
+    {
+     "t": "la crèche",
+     "tr": "kreş"
+    },
+    {
+     "t": "le lange",
+     "tr": "bez (Belçika)"
+    },
+    {
+     "t": "le biberon",
+     "tr": "biberon"
+    },
+    {
+     "t": "le doudou",
+     "tr": "peluş / uyku oyuncağı"
+    },
+    {
+     "t": "l'accueillante",
+     "tr": "evde çocuk bakıcısı (kayıtlı)"
+    }
+   ]
+  },
+  {
+   "id": "fr-transport",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🚌",
+   "title": "Toplu taşıma ve yol",
+   "goal": "Bilet almak, yol sormak",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-transport-1",
+     "t": "Où est l'arrêt de bus le plus proche ?",
+     "tr": "En yakın otobüs durağı nerede?"
+    },
+    {
+     "id": "fr-transport-2",
+     "t": "Quel bus va à la gare ?",
+     "tr": "Gara hangi otobüs gidiyor?"
+    },
+    {
+     "id": "fr-transport-3",
+     "t": "Un aller simple pour Namur, s'il vous plaît.",
+     "tr": "Namur'a tek yön bilet, lütfen."
+    },
+    {
+     "id": "fr-transport-4",
+     "t": "Je dois changer ici ?",
+     "tr": "Burada aktarma yapmam gerekiyor mu?"
+    },
+    {
+     "id": "fr-transport-5",
+     "t": "Le train a du retard.",
+     "tr": "Trenin rötarı var."
+    },
+    {
+     "id": "fr-transport-6",
+     "t": "C'est loin à pied ?",
+     "tr": "Yürüyerek uzak mı?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Pardon, ce bus s'arrête à l'hôpital ?",
+     "tr": "Pardon, bu otobüs hastanede duruyor mu?"
+    },
+    {
+     "who": "B",
+     "t": "Oui, c'est le troisième arrêt.",
+     "tr": "Evet, üçüncü durak."
+    },
+    {
+     "who": "A",
+     "t": "Merci. Je peux acheter un ticket ici ?",
+     "tr": "Teşekkürler. Burada bilet alabilir miyim?"
+    },
+    {
+     "who": "B",
+     "t": "Utilisez plutôt l'application du TEC.",
+     "tr": "En iyisi TEC uygulamasını kullanın."
+    }
+   ],
+   "words": [
+    {
+     "t": "l'arrêt",
+     "tr": "durak"
+    },
+    {
+     "t": "la correspondance",
+     "tr": "aktarma"
+    },
+    {
+     "t": "aller-retour",
+     "tr": "gidiş-dönüş"
+    },
+    {
+     "t": "le quai",
+     "tr": "peron"
+    },
+    {
+     "t": "la piste cyclable",
+     "tr": "bisiklet yolu"
+    }
+   ]
+  },
+  {
+   "id": "fr-voisins",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🏡",
+   "title": "Komşular ve ev",
+   "goal": "Rica etmek, sorun anlatmak",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-voisins-1",
+     "t": "Nous sommes les nouveaux voisins.",
+     "tr": "Biz yeni komşularız."
+    },
+    {
+     "id": "fr-voisins-2",
+     "t": "Vous pouvez réceptionner notre colis ?",
+     "tr": "Paketimizi teslim alabilir misiniz?"
+    },
+    {
+     "id": "fr-voisins-3",
+     "t": "Désolés pour le bruit hier, c'était un anniversaire.",
+     "tr": "Dünkü gürültü için özür dileriz, doğum günüydü."
+    },
+    {
+     "id": "fr-voisins-4",
+     "t": "Quand passe le camion poubelle ?",
+     "tr": "Çöp kamyonu ne zaman geçiyor?"
+    },
+    {
+     "id": "fr-voisins-5",
+     "t": "Le chauffage ne marche pas. Vous avez le numéro du propriétaire ?",
+     "tr": "Kalorifer çalışmıyor. Ev sahibinin numarası sizde var mı?"
+    },
+    {
+     "id": "fr-voisins-6",
+     "t": "Vous voulez goûter un morceau de baklava ?",
+     "tr": "Bir parça baklava tatmak ister misiniz?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Bonjour voisine ! Ça va ?",
+     "tr": "Merhaba komşu! İyi misiniz?"
+    },
+    {
+     "who": "B",
+     "t": "Ça va, merci. J'ai un colis pour vous.",
+     "tr": "İyiyim, teşekkürler. Sizin için bir paketim var."
+    },
+    {
+     "who": "A",
+     "t": "Oh, c'est gentil, merci !",
+     "tr": "Ah, çok naziksiniz, teşekkürler!"
+    },
+    {
+     "who": "B",
+     "t": "Avec plaisir. Entre voisins, c'est normal.",
+     "tr": "Memnuniyetle. Komşular arasında bu normal."
+    }
+   ],
+   "words": [
+    {
+     "t": "le propriétaire",
+     "tr": "ev sahibi"
+    },
+    {
+     "t": "le loyer",
+     "tr": "kira"
+    },
+    {
+     "t": "la garantie locative",
+     "tr": "kira depozitosu"
+    },
+    {
+     "t": "les sacs PMC",
+     "tr": "plastik-metal-karton torbaları"
+    },
+    {
+     "t": "le conteneur à déchets organiques",
+     "tr": "organik atık kutusu"
+    }
+   ]
+  },
+  {
+   "id": "fr-travail",
+   "lang": "fr",
+   "level": "a2",
+   "icon": "💼",
+   "title": "İş ve iş arama",
+   "goal": "Başvuru, mülakat, izin",
+   "premium": true,
+   "phrases": [
+    {
+     "id": "fr-travail-1",
+     "t": "Je postule pour l'offre de magasinier.",
+     "tr": "Depo görevlisi ilanına başvuruyorum."
+    },
+    {
+     "id": "fr-travail-2",
+     "t": "J'ai cinq ans d'expérience dans la construction.",
+     "tr": "İnşaatta beş yıl deneyimim var."
+    },
+    {
+     "id": "fr-travail-3",
+     "t": "Je peux commencer le mois prochain.",
+     "tr": "Gelecek ay başlayabilirim."
+    },
+    {
+     "id": "fr-travail-4",
+     "t": "Je peux prendre congé vendredi ? Mon enfant est malade.",
+     "tr": "Cuma izin alabilir miyim? Çocuğum hasta."
+    },
+    {
+     "id": "fr-travail-5",
+     "t": "Je suis des cours du soir de français.",
+     "tr": "Akşam Fransızca kursuna gidiyorum."
+    },
+    {
+     "id": "fr-travail-6",
+     "t": "Quels sont les horaires ?",
+     "tr": "Çalışma saatleri nedir?"
+    },
+    {
+     "id": "fr-travail-7",
+     "t": "C'est un CDI ou un contrat intérimaire ?",
+     "tr": "Süresiz sözleşme mi, geçici mi?"
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Pourquoi voulez-vous travailler ici ?",
+     "tr": "Neden burada çalışmak istiyorsunuz?"
+    },
+    {
+     "who": "B",
+     "t": "J'aime travailler en équipe et j'apprends vite.",
+     "tr": "Ekip içinde çalışmayı severim ve hızlı öğrenirim."
+    },
+    {
+     "who": "A",
+     "t": "Vous avez le permis de conduire ?",
+     "tr": "Ehliyetiniz var mı?"
+    },
+    {
+     "who": "B",
+     "t": "Oui, le permis B, et j'ai une voiture.",
+     "tr": "Evet, B ehliyetim ve arabam var."
+    }
+   ],
+   "words": [
+    {
+     "t": "le Forem / Actiris",
+     "tr": "Valonya / Brüksel iş kurumu"
+    },
+    {
+     "t": "le salaire",
+     "tr": "maaş"
+    },
+    {
+     "t": "le chômage",
+     "tr": "işsizlik"
+    },
+    {
+     "t": "le congé",
+     "tr": "izin"
+    },
+    {
+     "t": "travailler en pauses",
+     "tr": "vardiyalı çalışmak (Belçika)"
+    }
+   ]
+  },
+  {
+   "id": "fr-lettre",
+   "lang": "fr",
+   "level": "a2",
+   "icon": "✉️",
+   "title": "Mektup ve e-posta",
+   "goal": "Resmî kısa mesaj yazmak",
+   "premium": true,
+   "phrases": [
+    {
+     "id": "fr-lettre-1",
+     "t": "Madame, Monsieur,",
+     "tr": "Sayın ilgili,"
+    },
+    {
+     "id": "fr-lettre-2",
+     "t": "Veuillez trouver ci-joint le document demandé.",
+     "tr": "İstenen belgeyi ekte bulabilirsiniz."
+    },
+    {
+     "id": "fr-lettre-3",
+     "t": "Je souhaiterais obtenir plus d'informations sur …",
+     "tr": "… hakkında daha fazla bilgi almak isterim."
+    },
+    {
+     "id": "fr-lettre-4",
+     "t": "Mon numéro de dossier est …",
+     "tr": "Dosya numaram …"
+    },
+    {
+     "id": "fr-lettre-5",
+     "t": "Pourriez-vous m'indiquer quand … ?",
+     "tr": "… ne zaman olduğunu belirtebilir misiniz?"
+    },
+    {
+     "id": "fr-lettre-6",
+     "t": "Je vous remercie d'avance pour votre réponse.",
+     "tr": "Yanıtınız için şimdiden teşekkür ederim."
+    },
+    {
+     "id": "fr-lettre-7",
+     "t": "Veuillez agréer, Madame, Monsieur, mes salutations distinguées.",
+     "tr": "Saygılarımı sunarım."
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Madame, Elif ne pourra pas participer à l'excursion demain.",
+     "tr": "Öğretmenim, Elif yarın geziye katılamayacak."
+    },
+    {
+     "who": "A",
+     "t": "Elle a un rendez-vous à l'hôpital.",
+     "tr": "Hastanede randevusu var."
+    },
+    {
+     "who": "A",
+     "t": "Bien à vous, Ayşe Yılmaz",
+     "tr": "Saygılarımla, Ayşe Yılmaz"
+    }
+   ],
+   "words": [
+    {
+     "t": "la pièce jointe",
+     "tr": "ek"
+    },
+    {
+     "t": "l'échéance",
+     "tr": "son tarih"
+    },
+    {
+     "t": "le rappel",
+     "tr": "hatırlatma (ödeme)"
+    },
+    {
+     "t": "la réclamation",
+     "tr": "itiraz / şikâyet"
+    },
+    {
+     "t": "la signature",
+     "tr": "imza"
+    }
+   ]
+  },
+  {
+   "id": "fr-urgence",
+   "lang": "fr",
+   "level": "a1",
+   "icon": "🚑",
+   "title": "Acil durum",
+   "goal": "112'yi aramak, yardım istemek",
+   "premium": false,
+   "phrases": [
+    {
+     "id": "fr-urgence-1",
+     "t": "Au secours ! Appelez le 112 !",
+     "tr": "İmdat! 112'yi arayın!"
+    },
+    {
+     "id": "fr-urgence-2",
+     "t": "Mon enfant a du mal à respirer.",
+     "tr": "Çocuğum zor nefes alıyor."
+    },
+    {
+     "id": "fr-urgence-3",
+     "t": "Il y a eu un accident.",
+     "tr": "Bir kaza oldu."
+    },
+    {
+     "id": "fr-urgence-4",
+     "t": "Mon adresse est rue de la Station 12, à Charleroi.",
+     "tr": "Adresim rue de la Station 12, Charleroi."
+    },
+    {
+     "id": "fr-urgence-5",
+     "t": "Il est inconscient.",
+     "tr": "Bilinci kapalı."
+    },
+    {
+     "id": "fr-urgence-6",
+     "t": "Je dois appeler le Centre Antipoisons.",
+     "tr": "Zehir danışma merkezini aramam gerekiyor.",
+     "note": "Centre Antipoisons: 070 245 245."
+    }
+   ],
+   "dialog": [
+    {
+     "who": "A",
+     "t": "Urgences 112, quelle est l'adresse ?",
+     "tr": "Acil 112, adres nedir?"
+    },
+    {
+     "who": "B",
+     "t": "Rue Haute 5 à Mons.",
+     "tr": "Rue Haute 5, Mons."
+    },
+    {
+     "who": "A",
+     "t": "Que s'est-il passé ?",
+     "tr": "Ne oldu?"
+    },
+    {
+     "who": "B",
+     "t": "Mon père est tombé et il saigne à la tête.",
+     "tr": "Babam düştü ve başı kanıyor."
+    },
+    {
+     "who": "A",
+     "t": "L'ambulance arrive. Restez en ligne.",
+     "tr": "Ambulans geliyor. Hatta kalın."
+    }
+   ],
+   "words": [
+    {
+     "t": "l'ambulance",
+     "tr": "ambulans"
+    },
+    {
+     "t": "les pompiers",
+     "tr": "itfaiye"
+    },
+    {
+     "t": "la police",
+     "tr": "polis"
+    },
+    {
+     "t": "les urgences",
+     "tr": "acil servis"
+    },
+    {
+     "t": "saigner",
+     "tr": "kanamak"
+    }
+   ]
+  }
+ ],
+ "idioms": [
+  {
+   "id": "nl-id-1",
+   "lang": "nl",
+   "t": "Alle begin is moeilijk.",
+   "lit": "Her başlangıç zordur.",
+   "meaning": "Yeni bir şeye başlamak zordur, sonra kolaylaşır.",
+   "tr": "Her işin başı zordur.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-2",
+   "lang": "nl",
+   "t": "Beter laat dan nooit.",
+   "lit": "Geç, hiç olmamasından iyidir.",
+   "meaning": "Geç kalmak hiç yapmamaktan iyidir.",
+   "tr": "Geç olsun, güç olmasın.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-3",
+   "lang": "nl",
+   "t": "Al doende leert men.",
+   "lit": "Yaparak öğrenilir.",
+   "meaning": "Pratik yaparak öğrenirsin.",
+   "tr": "İşleyen demir pas tutmaz.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-4",
+   "lang": "nl",
+   "t": "De appel valt niet ver van de boom.",
+   "lit": "Elma ağaçtan uzağa düşmez.",
+   "meaning": "Çocuk anne-babasına benzer.",
+   "tr": "Armut dibine düşer.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-5",
+   "lang": "nl",
+   "t": "Oost west, thuis best.",
+   "lit": "Doğu, batı; en iyisi ev.",
+   "meaning": "En rahat yer insanın kendi evidir.",
+   "tr": "Ev gibisi yok.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-6",
+   "lang": "nl",
+   "t": "Spreken is zilver, zwijgen is goud.",
+   "lit": "Konuşmak gümüş, susmak altın.",
+   "meaning": "Bazen susmak daha akıllıcadır.",
+   "tr": "Söz gümüşse sükût altındır.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-7",
+   "lang": "nl",
+   "t": "Haastige spoed is zelden goed.",
+   "lit": "Aceleyle yapılan nadiren iyidir.",
+   "meaning": "Acele edince hata yapılır.",
+   "tr": "Acele işe şeytan karışır.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-8",
+   "lang": "nl",
+   "t": "Wie niet waagt, die niet wint.",
+   "lit": "Cesaret etmeyen kazanmaz.",
+   "meaning": "Risk almadan kazanç olmaz.",
+   "tr": "Korkak bezirgân ne kâr eder ne zarar.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-9",
+   "lang": "nl",
+   "t": "Eind goed, al goed.",
+   "lit": "Sonu iyi, hepsi iyi.",
+   "meaning": "Sonuç iyiyse sorunlar unutulur.",
+   "tr": "Sonu iyi biten her şey iyidir.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-10",
+   "lang": "nl",
+   "t": "Wie het kleine niet eert, is het grote niet weerd.",
+   "lit": "Küçüğe değer vermeyen büyüğü hak etmez.",
+   "meaning": "Küçük paraya/şeye de değer ver.",
+   "tr": "Damlaya damlaya göl olur.",
+   "kind": "spreekwoord"
+  },
+  {
+   "id": "nl-id-11",
+   "lang": "nl",
+   "t": "Twee vliegen in één klap slaan.",
+   "lit": "Bir vuruşta iki sinek öldürmek.",
+   "meaning": "Tek hamlede iki iş görmek.",
+   "tr": "Bir taşla iki kuş vurmak.",
+   "kind": "uitdrukking"
+  },
+  {
+   "id": "nl-id-12",
+   "lang": "nl",
+   "t": "Het regent pijpenstelen.",
+   "lit": "Pipo sapları yağıyor.",
+   "meaning": "Çok şiddetli yağmur yağıyor.",
+   "tr": "Bardaktan boşanırcasına yağıyor.",
+   "kind": "uitdrukking"
+  },
+  {
+   "id": "nl-id-13",
+   "lang": "nl",
+   "t": "De kat uit de boom kijken.",
+   "lit": "Kediyi ağaçtan izlemek.",
+   "meaning": "Karar vermeden önce durumu izlemek.",
+   "tr": "Rüzgârın yönüne bakmak.",
+   "kind": "uitdrukking"
+  },
+  {
+   "id": "nl-id-14",
+   "lang": "nl",
+   "t": "Met de deur in huis vallen.",
+   "lit": "Kapıyla eve düşmek.",
+   "meaning": "Lafı dolandırmadan hemen konuya girmek.",
+   "tr": "Sadede gelmek / dobra konuşmak.",
+   "kind": "uitdrukking"
+  },
+  {
+   "id": "nl-id-15",
+   "lang": "nl",
+   "t": "Iets onder de knie hebben.",
+   "lit": "Bir şeyi dizin altında tutmak.",
+   "meaning": "Bir şeyi iyice öğrenmiş olmak.",
+   "tr": "Bir işi kıvırmak / elinde olmak.",
+   "kind": "uitdrukking"
+  },
+  {
+   "id": "nl-id-16",
+   "lang": "nl",
+   "t": "Door de bomen het bos niet meer zien.",
+   "lit": "Ağaçlardan ormanı görememek.",
+   "meaning": "Ayrıntılar arasında bütünü kaybetmek.",
+   "tr": "Ağaçlara bakarken ormanı görememek.",
+   "kind": "uitdrukking"
+  },
+  {
+   "id": "nl-id-17",
+   "lang": "nl",
+   "t": "Amai!",
+   "lit": "—",
+   "meaning": "Flaman konuşma dilinde şaşkınlık: 'vay be!'",
+   "tr": "Vay canına!",
+   "kind": "Vlaams"
+  },
+  {
+   "id": "nl-id-18",
+   "lang": "nl",
+   "t": "Allee, kom!",
+   "lit": "—",
+   "meaning": "Flaman dilinde 'hadi ama!', 'haydi gel!'",
+   "tr": "Hadi ama!",
+   "kind": "Vlaams"
+  },
+  {
+   "id": "nl-id-19",
+   "lang": "nl",
+   "t": "Ik heb geen goesting.",
+   "lit": "Hevesim yok.",
+   "meaning": "Flaman dilinde 'zin hebben' yerine 'goesting'.",
+   "tr": "Canım istemiyor.",
+   "kind": "Vlaams"
+  },
+  {
+   "id": "nl-id-20",
+   "lang": "nl",
+   "t": "Seffens / efkes",
+   "lit": "—",
+   "meaning": "Flaman dilinde 'birazdan' / 'bir dakika'.",
+   "tr": "Az sonra / bir saniye.",
+   "kind": "Vlaams"
+  },
+  {
+   "id": "fr-id-21",
+   "lang": "fr",
+   "t": "Petit à petit, l'oiseau fait son nid.",
+   "lit": "Kuş yuvasını azar azar yapar.",
+   "meaning": "Sabırla, adım adım ilerlenir.",
+   "tr": "Damlaya damlaya göl olur.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-22",
+   "lang": "fr",
+   "t": "Mieux vaut tard que jamais.",
+   "lit": "Geç, hiç olmamasından iyidir.",
+   "meaning": "Geç kalmak hiç yapmamaktan iyidir.",
+   "tr": "Geç olsun, güç olmasın.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-23",
+   "lang": "fr",
+   "t": "Tel père, tel fils.",
+   "lit": "Babası nasılsa oğlu öyle.",
+   "meaning": "Çocuk babasına benzer.",
+   "tr": "Armut dibine düşer.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-24",
+   "lang": "fr",
+   "t": "Les murs ont des oreilles.",
+   "lit": "Duvarların kulakları var.",
+   "meaning": "Dikkatli konuş, biri duyabilir.",
+   "tr": "Yerin kulağı var.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-25",
+   "lang": "fr",
+   "t": "Qui sème le vent récolte la tempête.",
+   "lit": "Rüzgâr eken fırtına biçer.",
+   "meaning": "Kötülük yapan daha büyüğüyle karşılaşır.",
+   "tr": "Rüzgâr eken fırtına biçer.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-26",
+   "lang": "fr",
+   "t": "Pierre qui roule n'amasse pas mousse.",
+   "lit": "Yuvarlanan taş yosun tutmaz.",
+   "meaning": "Sürekli yer değiştiren bir şey biriktiremez.",
+   "tr": "Yuvarlanan taş yosun tutmaz.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-27",
+   "lang": "fr",
+   "t": "Quand le chat n'est pas là, les souris dansent.",
+   "lit": "Kedi yokken fareler dans eder.",
+   "meaning": "Denetleyen olmayınca kurallar unutulur.",
+   "tr": "Kedi yoksa fareler cirit atar.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-28",
+   "lang": "fr",
+   "t": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+   "lit": "Ayıyı vurmadan postunu satmamalı.",
+   "meaning": "Sonuç kesinleşmeden sevinme.",
+   "tr": "Dereyi görmeden paçaları sıvama.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-29",
+   "lang": "fr",
+   "t": "Après la pluie, le beau temps.",
+   "lit": "Yağmurdan sonra güzel hava.",
+   "meaning": "Zor günlerin ardından iyi günler gelir.",
+   "tr": "Her gecenin bir sabahı var.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-30",
+   "lang": "fr",
+   "t": "L'habit ne fait pas le moine.",
+   "lit": "Cübbe keşiş yapmaz.",
+   "meaning": "Görünüşe aldanmamak gerekir.",
+   "tr": "Görünüşe aldanma.",
+   "kind": "proverbe"
+  },
+  {
+   "id": "fr-id-31",
+   "lang": "fr",
+   "t": "Faire d'une pierre deux coups.",
+   "lit": "Bir taşla iki vuruş yapmak.",
+   "meaning": "Tek hamlede iki iş görmek.",
+   "tr": "Bir taşla iki kuş vurmak.",
+   "kind": "expression"
+  },
+  {
+   "id": "fr-id-32",
+   "lang": "fr",
+   "t": "Il pleut des cordes.",
+   "lit": "İp yağıyor.",
+   "meaning": "Çok şiddetli yağmur yağıyor.",
+   "tr": "Bardaktan boşanırcasına yağıyor.",
+   "kind": "expression"
+  },
+  {
+   "id": "fr-id-33",
+   "lang": "fr",
+   "t": "Avoir le cœur sur la main.",
+   "lit": "Kalbi elinde olmak.",
+   "meaning": "Çok cömert ve yardımsever olmak.",
+   "tr": "Eli açık, gönlü bol olmak.",
+   "kind": "expression"
+  },
+  {
+   "id": "fr-id-34",
+   "lang": "fr",
+   "t": "Coûter les yeux de la tête.",
+   "lit": "Kafadaki gözlere mal olmak.",
+   "meaning": "Çok pahalı olmak.",
+   "tr": "Dudak uçuklatan fiyat.",
+   "kind": "expression"
+  },
+  {
+   "id": "fr-id-35",
+   "lang": "fr",
+   "t": "Poser un lapin à quelqu'un.",
+   "lit": "Birine tavşan koymak.",
+   "meaning": "Randevuya gelmemek.",
+   "tr": "Birini ekmek.",
+   "kind": "expression"
+  },
+  {
+   "id": "fr-id-36",
+   "lang": "fr",
+   "t": "Avoir un poil dans la main.",
+   "lit": "Elinde bir kıl olmak.",
+   "meaning": "Çok tembel olmak.",
+   "tr": "Elini sıcak sudan soğuk suya sokmamak.",
+   "kind": "expression"
+  },
+  {
+   "id": "fr-id-37",
+   "lang": "fr",
+   "t": "Viens une fois !",
+   "lit": "Bir kez gel!",
+   "meaning": "Belçika Fransızcasında 'une fois' cümleyi yumuşatır: 'bir gelsene!'",
+   "tr": "Bir gelsene!",
+   "kind": "belgicisme"
+  },
+  {
+   "id": "fr-id-38",
+   "lang": "fr",
+   "t": "À tantôt !",
+   "lit": "—",
+   "meaning": "Belçika'da 'birazdan / bugün sonra görüşürüz'.",
+   "tr": "Sonra görüşürüz!",
+   "kind": "belgicisme"
+  },
+  {
+   "id": "fr-id-39",
+   "lang": "fr",
+   "t": "Septante, nonante",
+   "lit": "—",
+   "meaning": "Belçika'da 70 = septante, 90 = nonante (Fransa'da soixante-dix, quatre-vingt-dix).",
+   "tr": "Yetmiş, doksan.",
+   "kind": "belgicisme"
+  },
+  {
+   "id": "fr-id-40",
+   "lang": "fr",
+   "t": "Il fait caillant.",
+   "lit": "—",
+   "meaning": "Belçika (özellikle Liège) konuşma dilinde 'çok soğuk'.",
+   "tr": "Hava buz gibi.",
+   "kind": "belgicisme"
+  }
+ ],
+ "tips": [
+  {
+   "lang": "nl",
+   "title": "Vlaams mı, Nederlands mı?",
+   "text": "Okulda, belediyede ve mektuplarda standart Hollandaca (Belgisch-Nederlands) kullanılır; burada öğrendiğiniz odur. Sokakta 'ge/gij' (sen/siz), 'amai', 'goesting' gibi Flaman kelimeleri duyarsınız — 'Vlaams' etiketli kartlar bunları tanıtır."
+  },
+  {
+   "lang": "nl",
+   "title": "Ücretsiz kurslar",
+   "text": "Huis van het Nederlands bölgenizde size uygun ücretsiz ya da ucuz kursu (CVO, CBE) bulur. Agentschap Integratie en Inburgering inburgering programını yönetir."
+  },
+  {
+   "lang": "fr",
+   "title": "Belçika Fransızcası",
+   "text": "Belçika'da 70 = septante, 90 = nonante; öğle yemeği 'dîner', akşam yemeği 'souper'. Belediyede 'bourgmestre' ve 'maison communale' duyarsınız."
+  },
+  {
+   "lang": "fr",
+   "title": "Ücretsiz kurslar",
+   "text": "Valonya'da CRI'ler (Centres régionaux d'intégration) ve Lire et Écrire ücretsiz Fransızca kursu sunar; Brüksel'de BAPA'lar (Bureaux d'accueil pour primo-arrivants) yönlendirir."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Huis van het Nederlands Brussel (kurs bulma)",
+   "url": "https://www.huisnederlandsbrussel.be"
+  },
+  {
+   "label": "Agentschap Integratie en Inburgering",
+   "url": "https://www.integratie-inburgering.be"
+  },
+  {
+   "label": "Lire et Écrire (Fransızca okuma-yazma)",
+   "url": "https://lire-et-ecrire.be"
+  },
+  {
+   "label": "Antigifcentrum / Centre Antipoisons — 070 245 245",
+   "url": "https://www.antigifcentrum.be"
+  }
+ ]
+}

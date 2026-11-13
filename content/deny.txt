@@ -1,0 +1,1 @@
+# archive.org ids that must never be in the kid library (one per line). The weekly job also removes them.

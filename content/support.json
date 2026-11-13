@@ -1,0 +1,753 @@
+{
+ "checked": "2026-11-13",
+ "intro": "Bu köşe herkese ücretsizdir. Otizm, ADHD, disleksi gibi farklı gelişen (nöroçeşitli) çocuklar ve zor bir dönemden geçen aileler için günlük araçlar ve Belçika'daki resmî destekler. Tıbbi tavsiye yerine geçmez; endişeleriniz için aile hekiminize, CLB/PMS merkezine ya da bir derneğe başvurun.",
+ "pictos": [
+  {
+   "id": "wake",
+   "emoji": "⏰",
+   "label": "Uyan"
+  },
+  {
+   "id": "toilet",
+   "emoji": "🚽",
+   "label": "Tuvalet"
+  },
+  {
+   "id": "wash",
+   "emoji": "🧼",
+   "label": "El-yüz yıka"
+  },
+  {
+   "id": "teeth",
+   "emoji": "🦷",
+   "label": "Diş fırçala"
+  },
+  {
+   "id": "dress",
+   "emoji": "👕",
+   "label": "Giyin"
+  },
+  {
+   "id": "breakfast",
+   "emoji": "🥣",
+   "label": "Kahvaltı"
+  },
+  {
+   "id": "shoes",
+   "emoji": "👟",
+   "label": "Ayakkabı"
+  },
+  {
+   "id": "bag",
+   "emoji": "🎒",
+   "label": "Çanta"
+  },
+  {
+   "id": "car",
+   "emoji": "🚗",
+   "label": "Araba"
+  },
+  {
+   "id": "bus",
+   "emoji": "🚌",
+   "label": "Otobüs"
+  },
+  {
+   "id": "school",
+   "emoji": "🏫",
+   "label": "Okul"
+  },
+  {
+   "id": "play",
+   "emoji": "🧸",
+   "label": "Oyun"
+  },
+  {
+   "id": "lunch",
+   "emoji": "🍽️",
+   "label": "Yemek"
+  },
+  {
+   "id": "homework",
+   "emoji": "✏️",
+   "label": "Ödev"
+  },
+  {
+   "id": "read",
+   "emoji": "📖",
+   "label": "Kitap"
+  },
+  {
+   "id": "park",
+   "emoji": "🌳",
+   "label": "Park"
+  },
+  {
+   "id": "sport",
+   "emoji": "⚽",
+   "label": "Spor"
+  },
+  {
+   "id": "music",
+   "emoji": "🎵",
+   "label": "Müzik"
+  },
+  {
+   "id": "tablet",
+   "emoji": "📱",
+   "label": "Tablet"
+  },
+  {
+   "id": "tv",
+   "emoji": "📺",
+   "label": "Televizyon"
+  },
+  {
+   "id": "shop",
+   "emoji": "🛒",
+   "label": "Market"
+  },
+  {
+   "id": "doctor",
+   "emoji": "🩺",
+   "label": "Doktor"
+  },
+  {
+   "id": "bath",
+   "emoji": "🛁",
+   "label": "Banyo"
+  },
+  {
+   "id": "pyjama",
+   "emoji": "🌙",
+   "label": "Pijama"
+  },
+  {
+   "id": "story",
+   "emoji": "📚",
+   "label": "Masal"
+  },
+  {
+   "id": "sleep",
+   "emoji": "😴",
+   "label": "Uyku"
+  },
+  {
+   "id": "calm",
+   "emoji": "🌈",
+   "label": "Sakin köşe"
+  },
+  {
+   "id": "hug",
+   "emoji": "🤗",
+   "label": "Sarılma"
+  },
+  {
+   "id": "snack",
+   "emoji": "🍎",
+   "label": "Ara öğün"
+  },
+  {
+   "id": "walk",
+   "emoji": "🚶",
+   "label": "Yürüyüş"
+  },
+  {
+   "id": "guest",
+   "emoji": "🏠",
+   "label": "Misafir"
+  },
+  {
+   "id": "prayer",
+   "emoji": "🤲",
+   "label": "Dua"
+  },
+  {
+   "id": "clean",
+   "emoji": "🧹",
+   "label": "Toplama"
+  },
+  {
+   "id": "wait",
+   "emoji": "⏳",
+   "label": "Bekle"
+  }
+ ],
+ "social": [
+  {
+   "id": "ss-doctor",
+   "title": "Doktora gidiyorum",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "pages": [
+    {
+     "emoji": "🚗",
+     "text": "Bugün doktora gidiyoruz. Annem ya da babam yanımda olacak."
+    },
+    {
+     "emoji": "💺",
+     "text": "Bekleme odasında otururuz. Biraz bekleyebiliriz; kitap bakabilir ya da oyuncakla oynayabilirim."
+    },
+    {
+     "emoji": "🩺",
+     "text": "Doktor bana merhaba der. Kalbimi dinlemek için soğuk bir aleti göğsüme koyabilir. Bu acıtmaz."
+    },
+    {
+     "emoji": "👂",
+     "text": "Kulağıma ya da boğazıma ışıkla bakabilir. 'Aaa' diyebilirim."
+    },
+    {
+     "emoji": "😟",
+     "text": "Korkarsam annemin elini tutabilirim. Korkmak normaldir."
+    },
+    {
+     "emoji": "⭐",
+     "text": "Bittiğinde eve döneriz. Cesur davrandığım için kendimle gurur duyabilirim."
+    }
+   ]
+  },
+  {
+   "id": "ss-haircut",
+   "title": "Saçımı kestiriyorum",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "pages": [
+    {
+     "emoji": "💈",
+     "text": "Bugün berbere/kuaföre gidiyoruz."
+    },
+    {
+     "emoji": "💺",
+     "text": "Yüksek bir sandalyeye otururum. Üstüme bir örtü konur; saçlar üstüme dökülmesin diye."
+    },
+    {
+     "emoji": "✂️",
+     "text": "Makas 'şık şık' ses çıkarır. Makine 'vızzz' diye titreyebilir. Ses yüksek gelirse kulaklığımı takabilirim."
+    },
+    {
+     "emoji": "🙂",
+     "text": "Kıpırdamadan oturmaya çalışırım. Zor gelirse 'mola' diyebilirim."
+    },
+    {
+     "emoji": "✨",
+     "text": "Sonunda aynaya bakarım. Yeni saçım hazır!"
+    }
+   ]
+  },
+  {
+   "id": "ss-dentist",
+   "title": "Diş hekimine gidiyorum",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "pages": [
+    {
+     "emoji": "🦷",
+     "text": "Diş hekimi dişlerimin sağlıklı olup olmadığına bakar."
+    },
+    {
+     "emoji": "💺",
+     "text": "Özel bir koltuğa uzanırım. Koltuk yukarı aşağı hareket edebilir."
+    },
+    {
+     "emoji": "💡",
+     "text": "Yukarıda parlak bir ışık olur. Güneş gözlüğü takmak isteyebilirim."
+    },
+    {
+     "emoji": "✨",
+     "text": "Diş hekimi küçük bir aynayla dişlerimi sayar. Ağzımı açık tutarım."
+    },
+    {
+     "emoji": "✋",
+     "text": "Durmak istersem elimi kaldırırım. Diş hekimi durur."
+    },
+    {
+     "emoji": "⭐",
+     "text": "Bitince dişlerim temiz ve güçlü olur."
+    }
+   ]
+  },
+  {
+   "id": "ss-shop",
+   "title": "Markete gidiyoruz",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "pages": [
+    {
+     "emoji": "📝",
+     "text": "Markete gitmeden önce listeye bakarız. Ne alacağımızı bilirim."
+    },
+    {
+     "emoji": "🛒",
+     "text": "Markette çok insan ve ses olabilir. Ellerimi arabaya koyup yürüyebilirim."
+    },
+    {
+     "emoji": "🍫",
+     "text": "Bir şey istersem sorabilirim. Bazen cevap 'hayır' olur; bu da olur."
+    },
+    {
+     "emoji": "💳",
+     "text": "Kasada sıra bekleriz. Beklerken sayı sayabilirim."
+    },
+    {
+     "emoji": "🏠",
+     "text": "Alışveriş bitince eve döneriz ve poşetleri birlikte yerleştiririz."
+    }
+   ]
+  },
+  {
+   "id": "ss-fire-drill",
+   "title": "Okulda yangın tatbikatı",
+   "bands": [
+    "6-12"
+   ],
+   "pages": [
+    {
+     "emoji": "🔔",
+     "text": "Bazen okulda yüksek bir alarm çalar. Bu bir tatbikattır; okul bizi hazırlar."
+    },
+    {
+     "emoji": "🎧",
+     "text": "Ses yüksek gelirse ellerimle kulaklarımı kapatabilirim."
+    },
+    {
+     "emoji": "🚶",
+     "text": "Öğretmenimin arkasından sakin adımlarla yürürüm. Koşmam."
+    },
+    {
+     "emoji": "🌳",
+     "text": "Bahçede sınıfımla birlikte dururuz. Öğretmen herkesi sayar."
+    },
+    {
+     "emoji": "🏫",
+     "text": "Tatbikat bitince sınıfa döneriz. Her şey yolundadır."
+    }
+   ]
+  },
+  {
+   "id": "ss-guests",
+   "title": "Evimize misafir geliyor",
+   "bands": [
+    "0-6",
+    "6-12"
+   ],
+   "pages": [
+    {
+     "emoji": "🏠",
+     "text": "Bugün evimize misafir gelecek. Kim geleceğini önceden öğrenirim."
+    },
+    {
+     "emoji": "👋",
+     "text": "Kapıda merhaba deriz. Sarılmak istemezsem el sallayabilirim."
+    },
+    {
+     "emoji": "🔊",
+     "text": "Ev kalabalık ve gürültülü olabilir. Yorulursam odamda ya da sakin köşede dinlenebilirim."
+    },
+    {
+     "emoji": "🍽️",
+     "text": "Birlikte yemek yeriz. Yeni bir yemek denemek zorunda değilim."
+    },
+    {
+     "emoji": "🌙",
+     "text": "Misafirler gidince ev yine sessizleşir."
+    }
+   ]
+  },
+  {
+   "id": "ss-new-school",
+   "title": "Yeni okulum",
+   "bands": [
+    "6-12",
+    "12-18"
+   ],
+   "pages": [
+    {
+     "emoji": "🏫",
+     "text": "Yeni bir okula başlıyorum. Önce okulun fotoğraflarına birlikte bakabiliriz."
+    },
+    {
+     "emoji": "👩‍🏫",
+     "text": "Öğretmenimin adını öğrenirim. Ona soru sorabilirim."
+    },
+    {
+     "emoji": "🗺️",
+     "text": "Tuvaletin, sınıfımın ve yemekhanenin yerini öğrenirim."
+    },
+    {
+     "emoji": "😟",
+     "text": "İlk günler yorucu olabilir. Bu normaldir ve zamanla kolaylaşır."
+    },
+    {
+     "emoji": "🤝",
+     "text": "Yavaş yavaş yeni arkadaşlar edinirim."
+    }
+   ]
+  }
+ ],
+ "sensory": [
+  {
+   "id": "wall-push",
+   "emoji": "🧱",
+   "title": "Duvar itme",
+   "text": "Ellerini duvara koy ve 10 saniye boyunca bütün gücünle it. Sonra bırak. 3 kez tekrarla.",
+   "seconds": 40
+  },
+  {
+   "id": "bear-walk",
+   "emoji": "🐻",
+   "title": "Ayı yürüyüşü",
+   "text": "Eller ve ayaklar yerde, odanın bir ucundan öbür ucuna ayı gibi yürü.",
+   "seconds": 60
+  },
+  {
+   "id": "squeeze",
+   "emoji": "🍋",
+   "title": "Limon sık",
+   "text": "Ellerinde birer limon varmış gibi sıkabildiğin kadar sık… ve bırak. 5 kez.",
+   "seconds": 30
+  },
+  {
+   "id": "heavy-carry",
+   "emoji": "📚",
+   "title": "Ağır taşı",
+   "text": "Birkaç kitabı ya da su şişesini bir odadan diğerine taşı. Ağırlık bedeni sakinleştirir.",
+   "seconds": 60
+  },
+  {
+   "id": "blanket",
+   "emoji": "🌯",
+   "title": "Battaniye dürümü",
+   "text": "Battaniyeye sıkıca sarıl (başın dışarıda). Bir yetişkin hafifçe bastırabilir.",
+   "seconds": 90
+  },
+  {
+   "id": "jump",
+   "emoji": "🦘",
+   "title": "Kanguru zıplaması",
+   "text": "Yerinde 20 kez zıpla, sonra 3 derin nefes al.",
+   "seconds": 40
+  },
+  {
+   "id": "cold-water",
+   "emoji": "💧",
+   "title": "Serin su",
+   "text": "Ellerini ve bileklerini serin suyla ıslat, yavaşça kurula.",
+   "seconds": 30
+  },
+  {
+   "id": "hum",
+   "emoji": "🐝",
+   "title": "Arı vızıltısı",
+   "text": "Burnundan nefes al, ağzın kapalı 'mmmm' diye vızıldayarak ver. Titreşimi hisset.",
+   "seconds": 40
+  }
+ ],
+ "grounding": [
+  "Gördüğün 5 şeyi say.",
+  "Dokunabildiğin 4 şeyi say.",
+  "Duyduğun 3 sesi say.",
+  "Kokusunu alabildiğin 2 şeyi bul.",
+  "Tadını aldığın 1 şeyi düşün."
+ ],
+ "parents": [
+  {
+   "id": "meltdown",
+   "title": "Kriz anında",
+   "text": [
+    "Önce güvenlik: çevrede çocuğa zarar verebilecek şeyleri uzaklaştırın.",
+    "Az konuşun, yavaş ve alçak sesle. Kriz anında açıklama ve ceza işe yaramaz; beyin şu an öğrenmeye değil, sakinleşmeye çalışıyor.",
+    "Ses, ışık ve kalabalığı azaltın. Sakin köşeye birlikte gidin.",
+    "Kriz geçince ne olduğunu sakin bir anda, kısa cümlelerle konuşun. Tetikleyiciyi not edin — örüntüyü görmek sonrakileri önler.",
+    "Kendinize de nefes verin. Siz sakin kaldıkça çocuk da güvende hisseder."
+   ]
+  },
+  {
+   "id": "transitions",
+   "title": "Geçişleri kolaylaştırmak",
+   "text": [
+    "Değişikliği önceden haber verin: '5 dakika sonra parktan çıkıyoruz.' Kum saati ya da zamanlayıcı kullanın.",
+    "Görsel günlük plan, günün akışını tahmin edilebilir yapar; değişiklik olacaksa plana birlikte ekleyin.",
+    "'Önce–Sonra' panosu: önce zor olan, sonra sevilen şey.",
+    "Yeni yerleri önceden fotoğraflardan gösterin; sosyal hikâye okuyun."
+   ]
+  },
+  {
+   "id": "sleep",
+   "title": "Uyku düzeni",
+   "text": [
+    "Her gece aynı sırayla aynı adımlar: banyo, pijama, masal, ışıklar.",
+    "Yatmadan bir saat önce ekranları kapatın.",
+    "Ağır battaniye, beyaz gürültü ya da loş ışık bazı çocuklara iyi gelir; çocuğunuzu gözleyin.",
+    "Uyku sorunu sürerse aile hekiminize danışın."
+   ]
+  },
+  {
+   "id": "siblings",
+   "title": "Kardeşler",
+   "text": [
+    "Diğer çocuklarınıza da yalnızca onlara ait zaman ayırın — haftada 15 dakika bile değerlidir.",
+    "Kardeşin farklılığını yaşına uygun dille anlatın; soru sormalarına izin verin.",
+    "Kardeşleri 'küçük bakıcı' yapmayın; yardım etmeleri gönüllü olsun."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Okulla iş birliği",
+   "text": [
+    "Flanders'ta CLB (Centrum voor Leerlingenbegeleiding), Valonya ve Brüksel'de PMS merkezi ücretsizdir; okul desteği ve uyarlamalar için ilk adres.",
+    "Uyarlamalar (sessiz alan, ek süre, görsel plan) için yazılı istekte bulunun ve toplantıda neyin işe yaradığını paylaşın.",
+    "Okulla bir iletişim defteri ya da kısa haftalık mesaj düzeni kurun."
+   ]
+  },
+  {
+   "id": "self-care",
+   "title": "Kendinize iyi bakın",
+   "text": [
+    "Yorgunluk zayıflık değildir. Destek istemek çocuğunuz için de iyidir.",
+    "Benzer yollardan geçen ailelerle tanışmak (dernekler, ebeveyn grupları) yalnızlık hissini azaltır.",
+    "Kısa molalar planlayın: bir yakın, bir bakıcı ya da 'mola/répit' hizmetleri yardımcı olabilir.",
+    "Zor bir gününüzde konuşmak için Tele-Onthaal 106 (Hollandaca) ve Télé-Accueil 107 (Fransızca) gece gündüz ücretsizdir."
+   ]
+  }
+ ],
+ "resources": [
+  {
+   "id": "zorgtoeslag",
+   "region": "flanders",
+   "kind": "money",
+   "title": "Zorgtoeslag (Groeipakket)",
+   "text": "Özel destek ihtiyacı olan çocuklar için Groeipakket'e ek aylık ödeme. Başvuru Groeipakket ödeme kurumunuz üzerinden yapılır.",
+   "url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/zorgtoeslag-voor-kinderen-met-een-specifieke-ondersteuningsbehoefte"
+  },
+  {
+   "id": "supplement-wallonie",
+   "region": "wallonia",
+   "kind": "money",
+   "title": "Supplément pour enfant atteint d'une affection",
+   "text": "Engelli ya da kronik hastalığı olan çocuk için aile yardımına ek ödeme (Valonya). Başvuru aile yardımı kurumunuz üzerinden.",
+   "url": "https://wallonie.be/fr/demarches/beneficier-dallocations-familiales-supplementaires-si-mon-enfant-est-atteint-dun-handicap-ou-dune-affection"
+  },
+  {
+   "id": "supplement-bxl",
+   "region": "brussels",
+   "kind": "money",
+   "title": "Supplément / zorgtoeslag (Brüksel — Iriscare)",
+   "text": "Brüksel'de aile yardımları Iriscare çatısı altında; engelli ya da hastalığı olan çocuk için ek ödeme vardır.",
+   "url": "https://www.iriscare.brussels"
+  },
+  {
+   "id": "federal-handicap",
+   "region": "all",
+   "kind": "money",
+   "title": "Engellilik ve sosyal haklar (federal)",
+   "text": "Sosyal güvenlik portalında engellilik, ek yardımlar ve diğer önlemler hakkında resmî bilgi.",
+   "url": "https://www.socialsecurity.be/citizen/fr/handicap/supplement-aux-allocations-familiales-pour-enfants-handicapes"
+  },
+  {
+   "id": "vaph",
+   "region": "flanders",
+   "kind": "care",
+   "title": "VAPH — destek ve bakım bütçesi",
+   "text": "Engelli kişiler için Flaman ajansı: doğrudan erişilebilir yardım (RTH), kişiye bağlı bütçe ve bakım desteği.",
+   "url": "https://www.vaph.be"
+  },
+  {
+   "id": "aviq",
+   "region": "wallonia",
+   "kind": "care",
+   "title": "AVIQ — handicap",
+   "text": "Valonya'da engelli kişiler ve aileleri için destek, hizmetler ve yardımlar.",
+   "url": "https://www.aviq.be"
+  },
+  {
+   "id": "phare",
+   "region": "brussels",
+   "kind": "care",
+   "title": "Service PHARE (Brüksel)",
+   "text": "Brüksel'de engelli kişiler için bilgi, yönlendirme, mola (répit) ve destek hizmetleri.",
+   "url": "https://phare.irisnet.be"
+  },
+  {
+   "id": "opgroeien",
+   "region": "flanders",
+   "kind": "care",
+   "title": "Opgroeien / Kind en Gezin",
+   "text": "Gebelikten ergenliğe Flaman aile desteği; çocuk bakımı ve ebeveynlik soruları.",
+   "url": "https://www.opgroeien.be"
+  },
+  {
+   "id": "one",
+   "region": "wallonia",
+   "kind": "care",
+   "title": "ONE — Office de la Naissance et de l'Enfance",
+   "text": "Valonya ve Brüksel'de (Fransızca topluluk) çocuk sağlığı ve aile desteği.",
+   "url": "https://www.one.be"
+  },
+  {
+   "id": "caw",
+   "region": "flanders",
+   "kind": "care",
+   "title": "CAW — genel sosyal yardım",
+   "text": "Para, konut, aile ve ilişki sorunlarında ücretsiz ve gizli destek (Flanders ve Brüksel).",
+   "url": "https://www.caw.be"
+  },
+  {
+   "id": "clb",
+   "region": "flanders",
+   "kind": "school",
+   "title": "CLB — öğrenci rehberliği",
+   "text": "Okul, öğrenme ve gelişim soruları için ücretsiz rehberlik; çevrimiçi sohbet de var.",
+   "url": "https://www.clbchat.be"
+  },
+  {
+   "id": "vva",
+   "region": "flanders",
+   "kind": "association",
+   "title": "Vlaamse Vereniging Autisme",
+   "text": "Otizmli kişiler ve aileleri için bilgi hattı, ebeveyn grupları ve etkinlikler.",
+   "url": "https://www.autismevlaanderen.be"
+  },
+  {
+   "id": "autisme-centraal",
+   "region": "flanders",
+   "kind": "association",
+   "title": "Autisme Centraal",
+   "text": "Otizm hakkında eğitim, kitaplar ve ebeveyn kursları.",
+   "url": "https://www.autismecentraal.com"
+  },
+  {
+   "id": "participate",
+   "region": "wallonia",
+   "kind": "association",
+   "title": "Participate! (autisme)",
+   "text": "Fransızca konuşan aileler için otizm bilgi ve kaynak sitesi (Valonya ve Brüksel).",
+   "url": "https://www.participate-autisme.be"
+  },
+  {
+   "id": "zitstil",
+   "region": "flanders",
+   "kind": "association",
+   "title": "ZitStil (ADHD)",
+   "text": "ADHD hakkında bilgi, ebeveyn eğitimleri ve danışma.",
+   "url": "https://www.zitstil.be"
+  },
+  {
+   "id": "tdah",
+   "region": "wallonia",
+   "kind": "association",
+   "title": "TDA/H Belgique",
+   "text": "Dikkat eksikliği ve hiperaktivite hakkında Fransızca bilgi ve aile desteği.",
+   "url": "https://www.tdah.be"
+  },
+  {
+   "id": "handicap-federal",
+   "region": "all",
+   "kind": "association",
+   "title": "Engelli kişiler için federal hizmet",
+   "text": "Engellilik tanınması, park kartı ve indirimler için başvurular.",
+   "url": "https://www.handicap.belgium.be"
+  },
+  {
+   "id": "awel",
+   "region": "flanders",
+   "kind": "helpline",
+   "title": "Awel — 102",
+   "text": "Çocuk ve gençler için ücretsiz, anonim konuşma hattı (Hollandaca); sohbet de var.",
+   "url": "https://www.awel.be",
+   "phone": "102"
+  },
+  {
+   "id": "ecoute-enfants",
+   "region": "wallonia",
+   "kind": "helpline",
+   "title": "Écoute-Enfants — 103",
+   "text": "Çocuk ve gençler için ücretsiz, anonim konuşma hattı (Fransızca).",
+   "url": "https://www.103ecoute.be",
+   "phone": "103"
+  },
+  {
+   "id": "tele-onthaal",
+   "region": "flanders",
+   "kind": "helpline",
+   "title": "Tele-Onthaal — 106",
+   "text": "Yetişkinler için gece gündüz ücretsiz, anonim konuşma hattı (Hollandaca).",
+   "url": "https://www.tele-onthaal.be",
+   "phone": "106"
+  },
+  {
+   "id": "tele-accueil",
+   "region": "wallonia",
+   "kind": "helpline",
+   "title": "Télé-Accueil — 107",
+   "text": "Yetişkinler için gece gündüz ücretsiz, anonim konuşma hattı (Fransızca).",
+   "url": "https://www.tele-accueil.be",
+   "phone": "107"
+  },
+  {
+   "id": "1712",
+   "region": "flanders",
+   "kind": "helpline",
+   "title": "1712 — şiddet ve istismar",
+   "text": "Şiddet, istismar ya da çocuk ihmali konusunda soru ve bildirimler için ücretsiz hat.",
+   "url": "https://www.1712.be",
+   "phone": "1712"
+  },
+  {
+   "id": "child-focus",
+   "region": "all",
+   "kind": "helpline",
+   "title": "Child Focus — 116 000",
+   "text": "Kaybolan ya da cinsel istismara uğrayan çocuklar için 24 saat ücretsiz hat.",
+   "url": "https://childfocus.be",
+   "phone": "116000"
+  },
+  {
+   "id": "zelfmoordlijn",
+   "region": "flanders",
+   "kind": "helpline",
+   "title": "Zelfmoordlijn — 1813",
+   "text": "İntihar düşünceleri olan kişiler ve yakınları için ücretsiz, anonim destek.",
+   "url": "https://www.zelfmoord1813.be",
+   "phone": "1813"
+  },
+  {
+   "id": "prevention-suicide",
+   "region": "wallonia",
+   "kind": "helpline",
+   "title": "Centre de prévention du suicide — 0800 32 123",
+   "text": "İntihar düşünceleri olan kişiler ve yakınları için ücretsiz, 24 saat hat.",
+   "url": "https://www.preventionsuicide.be",
+   "phone": "080032123"
+  }
+ ],
+ "kinds": [
+  {
+   "id": "money",
+   "label": "Maddi destek"
+  },
+  {
+   "id": "care",
+   "label": "Bakım ve hizmet"
+  },
+  {
+   "id": "school",
+   "label": "Okul"
+  },
+  {
+   "id": "association",
+   "label": "Dernekler"
+  },
+  {
+   "id": "helpline",
+   "label": "Konuşma hatları"
+  }
+ ]
+}
