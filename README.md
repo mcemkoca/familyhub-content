@@ -11,3 +11,9 @@ FamilyHub uygulamasının kendini güncelleyen içeriği: Belçika hakları ve t
 Tek seferlik kurulum: Settings → Pages → Source: **GitHub Actions**. Settings → Secrets → Actions: `FEED_PRIVATE_KEY`.
 
 Kaynak listesi ve kurallar: [RESEARCH.md](RESEARCH.md).
+
+## v3 akışı ve otomatik kütüphane (uygulama 4.1)
+
+- `site/v3/` = 4.1 ve sonrası: `lang.json` (dil okulu), `library.json` (çocuk kütüphanesi), `support.json` (ücretsiz destek köşesi). v1/v2 eski uygulamalar için aynen sürer.
+- **Tam otomatik:** `collect.yml` her pazartesi archive.org'daki LibriVox (kamu malı) çocuk sesli kitaplarından en fazla 6 yenisini ekler. Ekleme ancak `validate.py` kapılarından geçerse (lisans = public-domain, ses yalnızca archive.org'dan, yaş bandı, çocuklara uygun olmayan kelime/yazar filtresi) kaydedilir ve imzalı akış yayımlanır. Yönetici adımı yoktur.
+- Bir kitabı kalıcı olarak çıkarmak için archive.org kimliğini `content/deny.txt` dosyasına ekleyin; sonraki çalışmada kütüphaneden de silinir.

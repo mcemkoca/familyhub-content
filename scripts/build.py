@@ -6,12 +6,14 @@ import json, sys, hashlib, pathlib, subprocess, datetime, shutil, base64, os
 root = pathlib.Path(__file__).resolve().parent.parent
 version, key = int(sys.argv[1]), sys.argv[2]
 shutil.rmtree(root / "site", ignore_errors=True)
-V1_ONLY_KNOWN = {"rules.json"}   # older apps reject unknown files, so v1 never lists these
+# Apps before 4.1 reject unknown files, so older channels never list the newer ones.
+V2_NEW = {"rules.json"}                                   # 4.0+
+V3_NEW = {"lang.json", "library.json", "support.json"}     # 4.1+ (these apps also skip files they do not know)
 notes = (os.environ.get("FEED_NOTES", "").strip().splitlines() or [""])[0][:120]
 def build(channel, min_app, skip):
     out = root / "site" / channel; out.mkdir(parents=True)
     files = {}
-    for p in sorted((root / "content").glob("*.json")):
+    for p in sorted((root / "content").glob("*.json")):   # deny.txt and other non-JSON files are never published
         if p.name in skip: continue
         b = p.read_bytes(); (out / p.name).write_bytes(b)
         files[p.name] = {"sha256": hashlib.sha256(b).hexdigest(), "bytes": len(b)}
@@ -21,9 +23,10 @@ def build(channel, min_app, skip):
     sig = subprocess.run(["openssl", "dgst", "-sha256", "-sign", key, str(out / "manifest.json")], check=True, capture_output=True).stdout
     (out / "manifest.json.sig").write_text(base64.b64encode(sig).decode())
     return len(files)
-n1 = build("v1", 16, V1_ONLY_KNOWN)
-n2 = build("v2", 23, set())
-files = {"v1": n1, "v2": n2}
+n1 = build("v1", 16, V2_NEW | V3_NEW)
+n2 = build("v2", 23, V3_NEW)
+n3 = build("v3", 25, set())
+files = {"v1": n1, "v2": n2, "v3": n3}
 (root / "site" / "index.html").write_text("<!doctype html><meta charset=utf-8><title>FamilyHub content</title><p>FamilyHub içerik akışı. Kişisel veri yok.</p>")
 (root / "site" / ".nojekyll").write_text("")
 print("built version", version, "files", files)
