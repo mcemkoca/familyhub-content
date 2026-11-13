@@ -1,0 +1,669 @@
+{
+ "checked": "2026-11-13",
+ "note": "Okul kuralları her öğretim yılı değişebilir. Her kartta resmî kaynak bağlantısı var; önemli kararlardan önce okulunuza ve CLB/PMS'ye danışın.",
+ "school": [
+  {
+   "id": "be-leerplicht",
+   "region": "all",
+   "title": "Okul zorunluluğu: 5 ile 18 yaş arası",
+   "text": [
+    "Belçika'da okul zorunluluğu 5 yaşında başlar ve 18 yaşına kadar sürer. Anaokulunun son yılı da bu yüzden zorunludur.",
+    "Çocuk 2,5 yaşından itibaren anaokuluna gidebilir. Erken başlamak dili (Hollandaca/Fransızca) öğrenmek için büyük avantajdır.",
+    "Okul ücretsizdir; gezi, malzeme gibi ek masraflar için yıllık üst sınırlar vardır. Okul faturası anlamadığınız bir şey içeriyorsa sormaktan çekinmeyin."
+   ],
+   "sources": [
+    {
+     "label": "vlaanderen.be · Onderwijs",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming"
+    },
+    {
+     "label": "enseignement.be",
+     "url": "https://www.enseignement.be"
+    }
+   ]
+  },
+  {
+   "id": "vl-basis",
+   "region": "flanders",
+   "title": "Flaman bölgesi: anaokulu ve ilkokul (basisonderwijs)",
+   "text": [
+    "Kleuteronderwijs (anaokulu) 2,5–6 yaş; lager onderwijs (ilkokul) 6 yıl sürer: 1. leerjaar'dan 6. leerjaar'a.",
+    "İlkokulun sonunda çocuklar Vlaamse toetsen'e (Flaman sınavları) girer; okulun eğitim düzeyini ölçer, çocuk için 'geçti-kaldı' sınavı değildir.",
+    "İlkokulu bitiren getuigschrift basisonderwijs alır. Almadıysa da ortaokula, çoğunlukla B-stroom'a geçebilir.",
+    "Okul 'zorg' (destek) için öğretmen, okul içi destek ekibi ve CLB ile birlikte çalışır. Çocuğunuzun zorlandığını düşünüyorsanız önce sınıf öğretmeniyle konuşun."
+   ],
+   "sources": [
+    {
+     "label": "vlaanderen.be · Onderwijs",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming"
+    },
+    {
+     "label": "CLB (vlaanderen.be/clb)",
+     "url": "https://www.vlaanderen.be/clb"
+    }
+   ]
+  },
+  {
+   "id": "vl-secundair",
+   "region": "flanders",
+   "title": "Flaman bölgesi: ortaokul (secundair onderwijs)",
+   "text": [
+    "Ortaokul 3 graad (kademe) ve 6 yıldır; genelde 12–18 yaş. 1. graad yönlendirme yılıdır.",
+    "1. graad'da A-stroom (getuigschrift basisonderwijs alanlar) ve B-stroom (almayanlar veya daha pratik bir yolu tercih edenler) vardır.",
+    "2. ve 3. graad'da öğrenci bir alan (studiedomein) ve bir 'finaliteit' seçer: yükseköğretime hazırlık (doorstroom), hem yükseköğretim hem iş (dubbele finaliteit) ya da doğrudan iş hayatı (arbeidsmarkt).",
+    "Her yılın sonunda sınıf kurulu (klassenraad) bir belge verir: A-attest (geçti), B-attest (geçti ama bazı alanlar kapalı), C-attest (sınıf tekrarı).",
+    "B-attest'e itiraz etmeden önce okulun açıklamasını dinleyin; itirazın kısa bir süresi vardır, okulun yönetmeliğinde (schoolreglement) yazar."
+   ],
+   "sources": [
+    {
+     "label": "Wegwijs in het secundair onderwijs",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming/wegwijs-in-de-onderwijsniveaus/wegwijs-in-het-gewoon-secundair-onderwijs"
+    }
+   ]
+  },
+  {
+   "id": "vl-aanmelden",
+   "region": "flanders",
+   "title": "Flaman okullarına kayıt: aanmelden ve inschrijven",
+   "text": [
+    "Birçok şehirde (Antwerpen, Gent, Brüksel'deki Hollandaca okullar, Leuven…) okula önce internetten 'aanmelden' (ön başvuru) yapılır; yerler bir sisteme göre dağıtılır.",
+    "Başvuru dönemleri kış ve ilkbahardadır; kardeşi aynı okulda olan ya da çalışan ebeveynin çocuğu gibi öncelikli gruplar daha erken başvurur.",
+    "Aanmelden yapılan şehirlerde dönemi kaçırmak, istediğiniz okulda yer bulamamak demektir. Tarihleri sonbaharda öğrenin.",
+    "Brüksel'de Hollandaca okullar için başvuru onderwijsinbrussel.be üzerinden yapılır; Hollandaca bilen ebeveynin çocuğuna öncelik tanınır."
+   ],
+   "sources": [
+    {
+     "label": "Inschrijven in het basis- en secundair onderwijs",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming/inschrijving-en-toelating-in-onderwijs/basis-en-secundair-onderwijs/gewoon-onderwijs"
+    },
+    {
+     "label": "onderwijsinbrussel.be (aanmelden in Brussel)",
+     "url": "https://www.onderwijsinbrussel.be"
+    }
+   ]
+  },
+  {
+   "id": "fwb-fondamental",
+   "region": "fwb",
+   "title": "Valonya ve Brüksel Fransızca okullar: temel eğitim",
+   "text": [
+    "Maternelle (anaokulu) 2,5 yaşından itibaren, primaire (ilkokul) 6 yıl: P1–P6.",
+    "Fransızca okullarda ortak gövde (tronc commun) reformu yıl yıl uygulanıyor: bütün çocuklar daha uzun süre aynı temel programı görüyor; yeni dersler (ör. eğitimde dijital, teknoloji) ekleniyor.",
+    "P6'nın sonunda CEB (Certificat d'études de base) sınavı yapılır. CEB, ortaokulun ilk yılına geçiş için önemlidir.",
+    "Okul takvimi Flaman okullarından farklıdır: Fransızca okullarda sonbahar ve karnaval tatilleri 2 hafta, yaz tatili temmuz başından ağustos sonuna. Kardeşler farklı dilde okullardaysa takvimi iki kez kontrol edin."
+   ],
+   "sources": [
+    {
+     "label": "enseignement.be",
+     "url": "https://www.enseignement.be"
+    }
+   ]
+  },
+  {
+   "id": "fwb-secondaire",
+   "region": "fwb",
+   "title": "Fransızca ortaokul ve kayıt (FUI)",
+   "text": [
+    "1re secondaire'e kayıt için ilkokul size FUI (formulaire unique d'inscription) verir. Formda en fazla 10 okulu tercih sırasına göre yazarsınız.",
+    "Kayıt dönemi her yıl şubat–mart arasıdır (2026'da 2 Şubat – 6 Mart). Bu dönem içinde erken vermek avantaj sağlamaz.",
+    "Yer kalmayan okullar için bir sıralama yapılır; sonuç ilkbaharda bildirilir. Sahte adres vb. hileler başvuruyu iptal ettirir.",
+    "Ortaokulun 2. yılı sonunda CE1D, son yıl sonunda CESS sınavları/diplomaları vardır."
+   ],
+   "sources": [
+    {
+     "label": "Inscription en 1re secondaire (enseignement.be)",
+     "url": "https://www.enseignement.be"
+    },
+    {
+     "label": "enseignement.be",
+     "url": "https://www.enseignement.be"
+    }
+   ]
+  },
+  {
+   "id": "be-clb-pms",
+   "region": "all",
+   "title": "CLB ve PMS: ücretsiz okul rehberliği",
+   "text": [
+    "Her okulun bağlı olduğu ücretsiz bir rehberlik merkezi vardır: Flaman okullarında CLB, Fransızca okullarda centre PMS.",
+    "Öğrenme güçlüğü, okul değişikliği, yönlendirme, devamsızlık, okulda zorbalık gibi konularda ebeveynler de başvurabilir.",
+    "CLB/PMS bağımsızdır ve gizlilik ilkesine bağlıdır. Görüşmede tercüman isteyebilirsiniz.",
+    "Okul bir 'yönlendirme' önerdiğinde (ör. özel eğitim, B-stroom) karar vermeden önce CLB/PMS ile ayrıca konuşun ve sorularınızı yazılı hazırlayın."
+   ],
+   "sources": [
+    {
+     "label": "CLB (vlaanderen.be/clb)",
+     "url": "https://www.vlaanderen.be/clb"
+    },
+    {
+     "label": "Centres PMS (enseignement.be)",
+     "url": "https://www.enseignement.be"
+    }
+   ]
+  },
+  {
+   "id": "be-taal-school",
+   "region": "all",
+   "title": "Okulun dili ve evdeki Türkçe",
+   "text": [
+    "Okul, çocuğun okul dilini (Hollandaca/Fransızca) yeterince bilmediğini düşünürse ek dil desteği verebilir; Flaman ilkokullarında giriş taraması (taalscreening) yapılır.",
+    "Evde Türkçe konuşmak okul dilini öğrenmeye engel değildir; güçlü bir ana dil ikinci dili destekler. Önemli olan, çocuğun okul dilini okul dışında da duymasıdır (kütüphane, spor kulübü, çizgi film).",
+    "Öğretmen 'evde Hollandaca konuşun' derse, kendi iyi bilmediğiniz bir dili konuşmak yerine okul dilinde kitap, etkinlik ve arkadaşlık fırsatı artırabileceğinizi anlatın."
+   ],
+   "sources": [
+    {
+     "label": "vlaanderen.be · Onderwijs",
+     "url": "https://www.vlaanderen.be/onderwijs-en-vorming"
+    },
+    {
+     "label": "enseignement.be",
+     "url": "https://www.enseignement.be"
+    }
+   ]
+  }
+ ],
+ "bilingual": [
+  {
+   "id": "bi-1",
+   "title": "Bir kişi, bir dil",
+   "text": [
+    "Çocuk dilleri en kolay kişilere bağlayarak öğrenir: örneğin anne her zaman Türkçe, okul ve arkadaşlar Hollandaca/Fransızca.",
+    "Kurala katı olmak gerekmez; tutarlılık yeterlidir."
+   ]
+  },
+  {
+   "id": "bi-2",
+   "title": "Karıştırmak normaldir",
+   "text": [
+    "'Mama, ik wil su' gibi cümleler dil bozukluğu değil, iki dilli beynin normal bir evresidir.",
+    "Düzeltmek yerine doğru biçimi doğal olarak tekrarlayın: 'Su mu istiyorsun? Buyur, su.'"
+   ]
+  },
+  {
+   "id": "bi-3",
+   "title": "Türkçe kitap köşesi",
+   "text": [
+    "Evde küçük bir Türkçe kitap rafı kurun; haftada birkaç kez birlikte okuyun.",
+    "Nidova'daki Türkçe masallar ve 'Nenemin sesinden' kayıtları bu işi kolaylaştırır."
+   ]
+  },
+  {
+   "id": "bi-4",
+   "title": "Okul dili ödev saatinde",
+   "text": [
+    "Ödevi siz bilmeseniz de çocuğa 'Bana anlat' deyin: çocuk konuyu Türkçe anlatırken iki dilde de düşünür.",
+    "Okulun dilinde zorlandığı yerleri not edip öğretmene sorun."
+   ]
+  },
+  {
+   "id": "bi-5",
+   "title": "Utanma evresi",
+   "text": [
+    "Bazı çocuklar bir dönem Türkçe konuşmak istemez. Zorlamak yerine Türkçeyi eğlenceli tutun: oyun, şarkı, yemek, Türkiye'deki akrabalarla görüntülü konuşma.",
+    "Bu evre genellikle geçer; dili 'ceza' ya da 'ödev' hâline getirmeyin."
+   ]
+  },
+  {
+   "id": "bi-6",
+   "title": "Kelime avı",
+   "text": [
+    "Akşam yemeğinde günün kelimesini seçin: bir kelimeyi üç dilde söyleyin (Türkçe, Hollandaca/Fransızca, İngilizce).",
+    "Nidova'daki Türkçe kartları ve Öğren bölümü bu oyun için hazır kelimeler sunar."
+   ]
+  },
+  {
+   "id": "bi-7",
+   "title": "Ekran da bir öğretmen olabilir",
+   "text": [
+    "Çizgi filmi bazen Türkçe, bazen okul dilinde izletin.",
+    "Ekran süresini kısıtlamak yerine ne izlendiğini ve hangi dilde izlendiğini seçmek daha etkilidir."
+   ]
+  },
+  {
+   "id": "bi-8",
+   "title": "Ebeveynin dili de öğrenmesi",
+   "text": [
+    "Siz de okul dilini öğrendikçe çocuk okulla ilgili konuları sizinle paylaşmakta daha rahat olur.",
+    "Öğren → Dil okulu'nda veli görüşmesi ve okul mektupları için hazır cümleler var."
+   ]
+  },
+  {
+   "id": "bi-9",
+   "title": "Türkiye ziyareti, dil kampıdır",
+   "text": [
+    "Yaz tatilinde akrabalarla geçen birkaç hafta Türkçeye büyük bir hız kazandırır.",
+    "Dönüşte okul dili biraz geriler gibi görünebilir; birkaç haftada toparlanır."
+   ]
+  },
+  {
+   "id": "bi-10",
+   "title": "Övgüyü iki dilde de verin",
+   "text": [
+    "Çocuğun iki dili de bildiğini bir 'süper güç' olarak görmesini sağlayın: 'İki dil biliyorsun, harika!'",
+    "İki dillilik ileride okulda ve iş hayatında gerçek bir avantajdır."
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "topic": "Selamlaşma",
+   "tr": "Merhaba, ben Deniz'in annesiyim / babasıyım.",
+   "nl": "Hallo, ik ben de mama / papa van Deniz.",
+   "fr": "Bonjour, je suis la maman / le papa de Deniz."
+  },
+  {
+   "topic": "Selamlaşma",
+   "tr": "Görüşme için teşekkür ederim.",
+   "nl": "Bedankt voor het gesprek.",
+   "fr": "Merci pour cet entretien."
+  },
+  {
+   "topic": "Dil",
+   "tr": "Lütfen biraz yavaş konuşur musunuz?",
+   "nl": "Kunt u wat trager spreken, alstublieft?",
+   "fr": "Pouvez-vous parler un peu plus lentement, s'il vous plaît ?"
+  },
+  {
+   "topic": "Dil",
+   "tr": "Bir tercüman ya da bir arkadaşımla gelebilir miyim?",
+   "nl": "Mag ik een tolk of een vriend meebrengen?",
+   "fr": "Puis-je venir avec un interprète ou un ami ?"
+  },
+  {
+   "topic": "Dil",
+   "tr": "Bunu yazılı olarak da verebilir misiniz?",
+   "nl": "Kunt u dat ook op papier geven?",
+   "fr": "Pouvez-vous me le donner aussi par écrit ?"
+  },
+  {
+   "topic": "Durum",
+   "tr": "Çocuğum sınıfta nasıl?",
+   "nl": "Hoe gaat het met mijn kind in de klas?",
+   "fr": "Comment va mon enfant en classe ?"
+  },
+  {
+   "topic": "Durum",
+   "tr": "Hangi derste zorlanıyor?",
+   "nl": "Voor welk vak heeft hij/zij het moeilijk?",
+   "fr": "Dans quelle matière a-t-il/elle des difficultés ?"
+  },
+  {
+   "topic": "Durum",
+   "tr": "Arkadaşlarıyla arası nasıl?",
+   "nl": "Hoe gaat het met zijn/haar vrienden?",
+   "fr": "Comment ça se passe avec ses amis ?"
+  },
+  {
+   "topic": "Durum",
+   "tr": "Teneffüste neler oluyor?",
+   "nl": "Wat gebeurt er op de speelplaats?",
+   "fr": "Que se passe-t-il pendant la récréation ?"
+  },
+  {
+   "topic": "Destek",
+   "tr": "Evde nasıl yardımcı olabilirim?",
+   "nl": "Hoe kan ik thuis helpen?",
+   "fr": "Comment puis-je aider à la maison ?"
+  },
+  {
+   "topic": "Destek",
+   "tr": "Okulda ek destek var mı?",
+   "nl": "Is er extra ondersteuning op school?",
+   "fr": "Y a-t-il un soutien supplémentaire à l'école ?"
+  },
+  {
+   "topic": "Destek",
+   "tr": "CLB / PMS ile görüşmek istiyorum.",
+   "nl": "Ik wil graag met het CLB spreken.",
+   "fr": "Je voudrais rencontrer le centre PMS."
+  },
+  {
+   "topic": "Ödev",
+   "tr": "Ödevler ne kadar sürmeli?",
+   "nl": "Hoe lang mag het huiswerk duren?",
+   "fr": "Combien de temps doivent durer les devoirs ?"
+  },
+  {
+   "topic": "Ödev",
+   "tr": "Ödevi nereden görebilirim (Smartschool / Classroom)?",
+   "nl": "Waar kan ik het huiswerk zien (Smartschool)?",
+   "fr": "Où puis-je voir les devoirs ?"
+  },
+  {
+   "topic": "Sorun",
+   "tr": "Çocuğum okulda üzgün; zorbalığa uğradığını düşünüyorum.",
+   "nl": "Mijn kind is verdrietig op school; ik denk dat het gepest wordt.",
+   "fr": "Mon enfant est triste à l'école ; je pense qu'il/elle est harcelé(e)."
+  },
+  {
+   "topic": "Sorun",
+   "tr": "Bu karar hakkında daha fazla bilgi istiyorum.",
+   "nl": "Ik wil meer uitleg over deze beslissing.",
+   "fr": "Je voudrais plus d'explications sur cette décision."
+  },
+  {
+   "topic": "Sorun",
+   "tr": "İtiraz etmek için ne yapmalıyım?",
+   "nl": "Hoe kan ik in beroep gaan?",
+   "fr": "Comment puis-je introduire un recours ?"
+  },
+  {
+   "topic": "Planlama",
+   "tr": "Bir sonraki görüşme ne zaman?",
+   "nl": "Wanneer is het volgende oudercontact?",
+   "fr": "Quand est la prochaine réunion de parents ?"
+  },
+  {
+   "topic": "Planlama",
+   "tr": "Size nasıl ulaşabilirim?",
+   "nl": "Hoe kan ik u bereiken?",
+   "fr": "Comment puis-je vous joindre ?"
+  },
+  {
+   "topic": "Planlama",
+   "tr": "Çocuğum yarın gelmeyecek, hasta.",
+   "nl": "Mijn kind komt morgen niet, het is ziek.",
+   "fr": "Mon enfant ne viendra pas demain, il/elle est malade."
+  }
+ ],
+ "questions": [
+  "Çocuğum sınıf seviyesinin neresinde? Güçlü olduğu alanlar neler?",
+  "Okul dilinde (Hollandaca/Fransızca) okuma ve konuşması nasıl?",
+  "Derste dikkatini toplayabiliyor mu, soru soruyor mu?",
+  "Arkadaş ilişkileri, teneffüs ve öğle arası nasıl geçiyor?",
+  "Bir sonraki dönem için hedefimiz ne olmalı? Evde neyi çalışalım?",
+  "Okulda ek destek, ödev kulübü ya da dil desteği var mı?",
+  "Bir sorun olursa size en kolay nasıl ulaşırım (Smartschool, e-posta, defter)?",
+  "Not ve karne sistemi nasıl işliyor? Hangi notlar önemli?"
+ ],
+ "cards": [
+  {
+   "id": "c-rutin",
+   "age": [
+    0,
+    6
+   ],
+   "title": "Akşam rutini huzur verir",
+   "text": [
+    "Her akşam aynı sırayla: banyo, pijama, diş, masal, ışık. Tahmin edilebilir sıra çocuğu sakinleştirir.",
+    "Nidova'da 'Rutinler' ile resimli bir akşam listesi kurabilirsiniz."
+   ]
+  },
+  {
+   "id": "c-hayir",
+   "age": [
+    2,
+    5
+   ],
+   "title": "'Hayır' dönemi",
+   "text": [
+    "İki-üç yaşında 'hayır' demek bağımsızlığın başlangıcıdır.",
+    "Seçenek sunun: 'Mavi bardak mı, kırmızı mı?' Çocuk seçtiği için daha kolay iş birliği yapar."
+   ]
+  },
+  {
+   "id": "c-ofke",
+   "age": [
+    2,
+    7
+   ],
+   "title": "Öfke nöbeti sırasında",
+   "text": [
+    "Önce güvenlik, sonra sakinlik: kısa cümleler, alçak ses, yanında durun.",
+    "Duyguyu adlandırın: 'Çok kızdın çünkü park bitti.' Ders vermeyi sonra, sakinleşince yapın."
+   ]
+  },
+  {
+   "id": "c-kardes",
+   "age": [
+    2,
+    12
+   ],
+   "title": "Yeni kardeş geldiğinde",
+   "text": [
+    "Büyük çocuğa her gün 10–15 dakikalık 'sadece ikimiz' zamanı ayırın.",
+    "Bebeğe yardım ettirin ama zorunlu kılmayın; 'abla/ağabey' rolünü övün."
+   ]
+  },
+  {
+   "id": "c-ovgu",
+   "age": [
+    3,
+    12
+   ],
+   "title": "Çabayı övün",
+   "text": [
+    "'Akıllısın' yerine 'Çok uğraştın, pes etmedin' deyin.",
+    "Çabaya yönelik övgü, zor görevlerde denemeye devam etmeyi öğretir."
+   ]
+  },
+  {
+   "id": "c-ev-isi",
+   "age": [
+    3,
+    18
+   ],
+   "title": "Ev işinde herkesin payı",
+   "text": [
+    "3 yaş: oyuncak toplamak. 6 yaş: sofra kurmak. 10 yaş: çamaşır asmak. 14 yaş: basit yemek.",
+    "Nidova görevleri ve yıldızlarla bunu oyuna dönüştürür."
+   ]
+  },
+  {
+   "id": "c-ekran",
+   "age": [
+    2,
+    12
+   ],
+   "title": "Ekran planı",
+   "text": [
+    "Ekranı yasaklamak yerine birlikte plan yapın: ne zaman, ne kadar, ne izleniyor.",
+    "Yemek masasında ve yatmadan önceki saatte ekran yok kuralı herkes için (büyükler dahil) işe yarar."
+   ]
+  },
+  {
+   "id": "c-okul-sabah",
+   "age": [
+    6,
+    12
+   ],
+   "title": "Sakin okul sabahları",
+   "text": [
+    "Çantayı ve kıyafeti akşamdan hazırlayın.",
+    "Sabah 5 dakikalık erken kalkış, bağırmalı sabahların çoğunu çözer."
+   ]
+  },
+  {
+   "id": "c-odev",
+   "age": [
+    6,
+    14
+   ],
+   "title": "Ödev saati",
+   "text": [
+    "Her gün aynı saat ve aynı yer; telefon başka odada.",
+    "Yanında oturun ama yerine yapmayın. 'Nerede takıldın?' sorusu en iyi yardımdır."
+   ]
+  },
+  {
+   "id": "c-sinav",
+   "age": [
+    8,
+    18
+   ],
+   "title": "Sınav kaygısı",
+   "text": [
+    "Sonuçtan çok hazırlığı konuşun: 'Bugün ne çalıştın?'",
+    "Sınav sabahı kahvaltı ve sakin bir yol, son dakika tekrarından daha değerlidir."
+   ]
+  },
+  {
+   "id": "c-arkadas",
+   "age": [
+    6,
+    14
+   ],
+   "title": "Arkadaşlık sorunları",
+   "text": [
+    "Hemen çözüm sunmadan önce dinleyin: 'Sence ne olabilir?'",
+    "Çocuğun kendi çözümünü bulmasına fırsat verin; gerekiyorsa öğretmenle konuşun."
+   ]
+  },
+  {
+   "id": "c-zorbalik",
+   "age": [
+    6,
+    18
+   ],
+   "title": "Zorbalık işaretleri",
+   "text": [
+    "Okula gitmek istememek, eşyaların kaybolması, açıklanamayan üzüntü.",
+    "Çocuğunuza inandığınızı söyleyin, okulla yazılı iletişime geçin, gerekirse CLB/PMS'ye başvurun."
+   ]
+  },
+  {
+   "id": "c-harclik",
+   "age": [
+    6,
+    18
+   ],
+   "title": "Harçlık ve para dersi",
+   "text": [
+    "Haftalık küçük bir harçlık, para yönetimini öğretmenin en iyi yoludur.",
+    "Kumbara üçe bölünsün: harca, biriktir, paylaş. Nidova'daki 'İstek mi ihtiyaç mı' kartlarını birlikte konuşun."
+   ]
+  },
+  {
+   "id": "c-ilk-telefon",
+   "age": [
+    10,
+    15
+   ],
+   "title": "İlk telefon",
+   "text": [
+    "Kuralları baştan birlikte yazın: gece telefon odada kalmaz, uygulama indirmeden önce sorulur.",
+    "Telefon bir güven anlaşmasıdır; kurallar yaşla birlikte genişleyebilir."
+   ]
+  },
+  {
+   "id": "c-sosyal",
+   "age": [
+    11,
+    18
+   ],
+   "title": "Sosyal medya",
+   "text": [
+    "Gizli hesap, tanımadığı kişiyi eklememek, fotoğraf paylaşmadan önce düşünmek.",
+    "'Bir şey seni rahatsız ederse bana söylersen kızmayacağım' sözünü verin ve tutun."
+   ]
+  },
+  {
+   "id": "c-ergen",
+   "age": [
+    11,
+    18
+   ],
+   "title": "Ergenlikte konuşmak",
+   "text": [
+    "Yüz yüze değil yan yana konuşmak daha kolaydır: arabada, yürüyüşte, yemek yaparken.",
+    "Her konuşmayı nasihate çevirmeyin; bazen sadece dinlemek yeter."
+   ]
+  },
+  {
+   "id": "c-mahremiyet",
+   "age": [
+    10,
+    18
+   ],
+   "title": "Mahremiyet ve güven",
+   "text": [
+    "Ergen çocuğun odasına girmeden kapıyı çalın; günlüğünü okumayın.",
+    "Güveni bozan bir durum varsa açıkça konuşun; gizli kontrol güveni yıkar."
+   ]
+  },
+  {
+   "id": "c-is",
+   "age": [
+    15,
+    18
+   ],
+   "title": "İlk iş deneyimi",
+   "text": [
+    "Belçika'da öğrenciler belirli saat sınırları içinde öğrenci işi yapabilir (student@work).",
+    "İlk maaşla bütçe yapmayı birlikte planlayın."
+   ]
+  },
+  {
+   "id": "c-yonlendirme",
+   "age": [
+    11,
+    15
+   ],
+   "title": "Ortaokulda yön seçimi",
+   "text": [
+    "Çocuğun ilgisi, notlarından daha uzun süre motive eder.",
+    "Okulun açık günlerine birlikte gidin; CLB/PMS'nin yönlendirme testlerini sorun."
+   ]
+  },
+  {
+   "id": "c-aile-yemegi",
+   "age": [
+    0,
+    18
+   ],
+   "title": "Aile sofrası",
+   "text": [
+    "Haftada en az birkaç akşam herkes birlikte, ekransız yemek.",
+    "Nidova'daki 'Akşam yemeği soruları' sohbeti başlatır."
+   ]
+  },
+  {
+   "id": "c-teşekkür",
+   "age": [
+    3,
+    18
+   ],
+   "title": "Teşekkür etmeyi öğretmek",
+   "text": [
+    "Akşamları herkes günün bir 'iyi şey'ini söylesin.",
+    "Nidova'da İltifat kutusu ile aile içinde güzel sözler biriktirebilirsiniz."
+   ]
+  },
+  {
+   "id": "c-kendine-zaman",
+   "age": [
+    0,
+    18
+   ],
+   "title": "Ebeveynin kendine zamanı",
+   "text": [
+    "Kendinize ayırdığınız 20 dakika bencillik değil, sabrın yakıtıdır.",
+    "'Benim alanım'da kendinize ayırdığınız zamanı takip edebilirsiniz."
+   ]
+  },
+  {
+   "id": "c-dede-nine",
+   "age": [
+    0,
+    18
+   ],
+   "title": "Uzaktaki büyüklerle bağ",
+   "text": [
+    "Haftada bir görüntülü konuşma, bir fotoğraf, bir sesli masal.",
+    "'Nenemin sesinden' ile büyükler çocuklara uyku masalı okuyabilir."
+   ]
+  },
+  {
+   "id": "c-hata",
+   "age": [
+    3,
+    18
+   ],
+   "title": "Hata yapmak öğrenmektir",
+   "text": [
+    "Kendi hatanızı da söyleyin: 'Bugün ben de sabırsızdım, özür dilerim.'",
+    "Çocuk özür dilemeyi en çok sizden görerek öğrenir."
+   ]
+  }
+ ]
+}
