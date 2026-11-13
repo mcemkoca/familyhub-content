@@ -4,7 +4,7 @@ import json, sys, re, datetime, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent / "content"
 ALLOWED = {"questions.json","skills.json","adventures.json","stories.json","emotions.json","recipes.json","levels.json","prompts.json",
            "activities.json","plans.json","belgium.json","money.json","rights.json","topics.json","turkish.json","savings.json",
-           "calendar.json","life.json","learn.json"}
+           "calendar.json","life.json","learn.json","rules.json"}
 EMOJI13 = set("🫁🪜🧑‍🍼🫶🛝🪟🪑🪐")
 errors = []
 def err(f, m): errors.append(f"{f}: {m}")
@@ -49,6 +49,21 @@ for p in sorted(ROOT.glob("*.json")):
         secs = {s["id"] for s in data["sections"]}
         for i in data["items"]:
             if i["section"] not in secs: err(f, f"unknown section ({i['id']})")
+    if f == "rules.json":
+        unique(f, data["rules"]); date(f, data["checked"], "checked")
+        pk = {"health","carhome","admin","letters","school","kids","money","remote","travel","menu"}
+        for r in data["rules"]:
+            rid = r.get("id")
+            if r.get("pkg") not in pk: err(f, f"unknown pkg ({rid})")
+            if r.get("kind") not in ("interval","user","dates","yearly","info"): err(f, f"unknown kind ({rid})")
+            if r.get("kind") != "user" and not (r.get("source") or {}).get("url","").startswith("https://"): err(f, f"official rule without https source ({rid})")
+            for k, v in (r.get("months") or {}).items():
+                if k not in ("all","flanders","brussels","wallonia") or not isinstance(v, int) or v <= 0: err(f, f"bad months {k}={v} ({rid})")
+            for d in r.get("dates", []): date(f, d["day"], rid)
+            if r.get("kind") == "yearly":
+                try: datetime.date(2028, r["month"], r["day"])
+                except Exception: err(f, f"bad month/day ({rid})")
+            if r.get("kind") == "interval" and not r.get("months"): err(f, f"interval without months ({rid})")
     if f == "turkish.json":
         unique(f, data["words"]); unique(f, data["idioms"]); unique(f, data["phrases"])
 
