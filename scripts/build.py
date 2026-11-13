@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Builds site/v1 (apps before 4.0: files they know) and site/v2 (4.0+: every file, e.g. rules.json),
+"""Builds site/v1 (apps before 4.0), site/v2 (4.0: + rules.json) and site/v3 (4.1+: + lang, library, support),
 each with manifest.json (version, sha256, size) + manifest.json.sig (ECDSA P-256, SHA-256).
 Usage: build.py <version> <private-key.pem>   (in GitHub Actions the key comes from the FEED_PRIVATE_KEY secret)."""
 import json, sys, hashlib, pathlib, subprocess, datetime, shutil, base64, os
@@ -29,4 +29,6 @@ n3 = build("v3", 25, set())
 files = {"v1": n1, "v2": n2, "v3": n3}
 (root / "site" / "index.html").write_text("<!doctype html><meta charset=utf-8><title>FamilyHub content</title><p>FamilyHub içerik akışı. Kişisel veri yok.</p>")
 (root / "site" / ".nojekyll").write_text("")
+for page in sorted((root / "pages").glob("*.html")):   # public pages (privacy policy for Google Play)
+    shutil.copy(page, root / "site" / page.name)
 print("built version", version, "files", files)
