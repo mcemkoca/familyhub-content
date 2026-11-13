@@ -1,0 +1,5 @@
+{
+ "note": "Uygulama ayarları (imzalı içerik akışıyla gelir). crashUrl: geliştiricinin çökme raporu adresi; boşsa raporlar telefonda bekler (en fazla 500).",
+ "crashUrl": "",
+ "crashToken": "8b67e06752de701e79af9af8f7277e66"
+}
