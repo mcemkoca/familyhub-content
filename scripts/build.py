@@ -17,4 +17,6 @@ sig = subprocess.run(["openssl", "dgst", "-sha256", "-sign", key, str(out / "man
 (out / "manifest.json.sig").write_text(base64.b64encode(sig).decode())
 (root / "site" / "index.html").write_text("<!doctype html><meta charset=utf-8><title>FamilyHub content</title><p>FamilyHub içerik akışı. Kişisel veri yok.</p>")
 (root / "site" / ".nojekyll").write_text("")
+for page in sorted((root / "pages").glob("*.html")):   # public pages (privacy policy for Google Play)
+    shutil.copy(page, root / "site" / page.name)
 print("built version", version, "with", len(files), "files")
