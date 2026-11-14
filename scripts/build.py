@@ -8,7 +8,7 @@ version, key = int(sys.argv[1]), sys.argv[2]
 shutil.rmtree(root / "site", ignore_errors=True)
 # Apps before 4.1 reject unknown files, so older channels never list the newer ones.
 V2_NEW = {"rules.json"}                                   # 4.0+
-V3_NEW = {"lang.json", "library.json", "support.json", "app.json"}     # 4.1+ (these apps also skip files they do not know)
+V3_NEW = {"lang.json", "library.json", "support.json", "app.json", "parents.json", "islam.json"}     # 4.1+ (these apps also skip files they do not know)
 notes = (os.environ.get("FEED_NOTES", "").strip().splitlines() or [""])[0][:120]
 def build(channel, min_app, skip):
     out = root / "site" / channel; out.mkdir(parents=True)

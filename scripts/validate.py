@@ -4,7 +4,7 @@ import json, sys, re, datetime, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent / "content"
 ALLOWED = {"questions.json","skills.json","adventures.json","stories.json","emotions.json","recipes.json","levels.json","prompts.json",
            "activities.json","plans.json","belgium.json","money.json","rights.json","topics.json","turkish.json","savings.json",
-           "calendar.json","life.json","learn.json","rules.json","lang.json","library.json","support.json","app.json"}
+           "calendar.json","life.json","learn.json","rules.json","lang.json","library.json","support.json","app.json","parents.json","islam.json"}
 NON_JSON = {"deny.txt"}
 BANDS = {"0-6", "6-12", "12-18"}
 LANGS = {"tr", "nl", "fr", "en"}
@@ -60,7 +60,7 @@ for p in sorted(ROOT.iterdir()):
             if i["section"] not in secs: err(f, f"unknown section ({i['id']})")
     if f == "rules.json":
         unique(f, data["rules"]); date(f, data["checked"], "checked")
-        pk = {"health","carhome","admin","letters","school","kids","money","remote","travel","menu"}
+        pk = {"health","carhome","admin","letters","school","kids","money","remote","travel","menu","library","islam","stickers"}
         for r in data["rules"]:
             rid = r.get("id")
             if r.get("pkg") not in pk: err(f, f"unknown pkg ({rid})")
@@ -102,6 +102,9 @@ for p in sorted(ROOT.iterdir()):
             elif k in ("story", "guide"):
                 if i.get("license") != "own" or len(i.get("text", [])) < 3: err(f, f"story/guide must be our own text ({iid})")
                 if i.get("premium"): err(f, f"stories and guides stay free ({iid})")
+                for l, paras in (i.get("alt") or {}).items():
+                    if l not in LANGS or len(paras) != len(i.get("text", [])): err(f, f"alt translation must match paragraph by paragraph ({iid})")
+                    if UNSAFE.search(" ".join(paras)): err(f, f"blocked word in translation ({iid})")
             elif k == "link":
                 if not i.get("url", "").startswith(LINK_HOSTS): err(f, f"link host not on the allow-list ({iid})")
             else: err(f, f"unknown kind ({iid})")
@@ -109,6 +112,8 @@ for p in sorted(ROOT.iterdir()):
         u = data.get("crashUrl", "")
         if u and not u.startswith("https://script.google.com/macros/s/"): err(f, "crashUrl must be the developer's Apps Script web app (or empty)")
         if len(data.get("crashToken", "")) < 16: err(f, "crashToken too short")
+        r = data.get("relayUrl", "")
+        if r and not r.startswith("https://"): err(f, "relayUrl must be https (or empty)")
     if f == "support.json":
         unique(f, data["resources"]); unique(f, data["social"]); unique(f, data["pictos"])
         kinds = {k["id"] for k in data["kinds"]}
@@ -116,6 +121,23 @@ for p in sorted(ROOT.iterdir()):
             if r["region"] not in ("all", "flanders", "brussels", "wallonia") or r["kind"] not in kinds: err(f, f"bad region/kind ({r['id']})")
             if r.get("phone") and not re.fullmatch(r"\d{3,10}", r["phone"]): err(f, f"phone digits only ({r['id']})")
         if any(UNSAFE.search(json.dumps(x, ensure_ascii=False)) for x in data["social"]): err(f, "blocked word in social stories")
+    if f == "parents.json":
+        unique(f, data["school"]); unique(f, data["bilingual"]); unique(f, data["cards"])
+        for c in data["school"]:
+            if c["region"] not in ("all", "flanders", "fwb", "brussels"): err(f, f"bad region ({c['id']})")
+            if not c.get("sources") or any(not s["url"].startswith("https://") for s in c["sources"]): err(f, f"school card needs https sources ({c['id']})")
+        for c in data["cards"]:
+            a = c.get("age", [0, 18])
+            if len(a) != 2 or not 0 <= a[0] <= a[1] <= 18: err(f, f"bad age ({c['id']})")
+        for ph in data["phrases"]:
+            if not (ph["tr"].strip() and ph["nl"].strip() and ph["fr"].strip()): err(f, "phrase needs tr, nl and fr")
+    if f == "islam.json":
+        date(f, data["checked"], "checked")
+        for d in data["dates"]: date(f, d["date"], d["key"])
+        for c in data["cities"]:
+            if not (49.4 <= c["lat"] <= 51.6 and 2.4 <= c["lon"] <= 6.5): err(f, f"city outside Belgium ({c['id']})")
+        for s in data["suras"]:
+            if len(s["arabic"]) != len(s["reading"]): err(f, f"arabic/reading lines differ ({s['id']})")
     if f == "turkish.json":
         unique(f, data["words"]); unique(f, data["idioms"]); unique(f, data["phrases"])
 
