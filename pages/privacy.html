@@ -48,7 +48,7 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
   <div class="wrap">
     <div class="eyebrow">Nidova · Android</div>
     <h1>Gizlilik Politikası</h1>
-    <div class="meta">Yürürlük tarihi: 13 Kasım 2026 · Sürüm 4.4.0</div>
+    <div class="meta">Yürürlük tarihi: 14 Kasım 2026 · Sürüm 4.5.0</div>
   </div>
 </header>
 
@@ -78,7 +78,9 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
         <li>Aile telefonları QR kod ya da 6 haneli kodla eşleşir ve aynı Wi-Fi ağında doğrudan birbirine bağlanır.</li>
         <li>Aktarılan her şey aile anahtarıyla AES-256-GCM kullanılarak şifrelenir. Anahtar yalnızca eşleşen telefonlarda bulunur.</li>
         <li>"Evden uzakta eşitleme" (ücretsiz) için şifreli paket Nidova'nın ortak sunucusunda (Cloudflare) ya da ailenin kendi bilgisayarındaki bir sunucuda saklanır. Sunucu yalnızca şifreli paketi görür; anahtar sunucuda yoktur ve içeriği okuyamaz. 400 gün kullanılmayan paketler silinir.</li>
-        <li>Sohbette gönderilen konum, dosya ve "Nenemin sesinden" ses kayıtları da yalnızca aile telefonları arasında aynı şifrelemeyle gider; geliştirici erişemez.</li>
+        <li>Sohbette gönderilen konum, dosya, sesli mesaj ve "Nenemin sesinden" ses kayıtları da yalnızca aile telefonları arasında aynı şifrelemeyle gider; geliştirici erişemez.</li>
+        <li><strong>Uygulama içi aramalar (4.5):</strong> arama kurulum mesajları aile anahtarından türetilen bir anahtarla şifrelenip Nidova sunucusundaki (Cloudflare) aile "arama odası" üzerinden iletilir; sunucu kimin kimi aradığını ve içeriği göremez. Ses ve görüntü WebRTC ile (DTLS-SRTP) mümkünse doğrudan telefondan telefona gider; bazı ağlarda Cloudflare'in TURN aktarıcısı kullanılır, o da yalnızca şifreli akışı taşır. Aramalar kaydedilmez; sohbete yalnızca "Sesli arama · 3 dk" gibi bir satır düşer.</li>
+        <li><strong>Harita önizlemesi:</strong> sohbetteki konum mesajlarında harita resmi OpenStreetMap'ten indirilir. OpenStreetMap yalnızca harita bölgesini (ve her web sitesi gibi IP adresini) görür; kimin gönderdiği gitmez. Sohbet ayarlarından kapatılabilir.</li>
       </ul>
     </section>
 
@@ -145,7 +147,9 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
         <li><strong>Takvim (isteğe bağlı):</strong> telefon takvimlerinizi uygulamada göstermek ve aile etkinliklerini seçtiğiniz takvime yazmak.</li>
         <li><strong>Ağ ve Wi-Fi durumu:</strong> aile telefonlarını evdeki ağda bulmak ve eşitlemek.</li>
         <li><strong>Konum (isteğe bağlı):</strong> yalnızca aile sohbetinde "Konumumu gönder"e dokunduğunuzda bir kez alınır ve mesaj olarak ailenize gider. Arka planda konum kullanılmaz, saklanmaz, geliştiriciye gönderilmez. Namaz vakitleri için konum kullanılmaz; şehri siz seçersiniz.</li>
-        <li><strong>Mikrofon (isteğe bağlı):</strong> yalnızca "Nenemin sesinden" ile bir masal kaydederken. Kayıt telefonda ve aile telefonlarında kalır.</li>
+        <li><strong>Mikrofon (isteğe bağlı):</strong> "Nenemin sesinden" ile masal kaydederken, sesli mesaj gönderirken ve uygulama içi aramada. Kayıtlar yalnızca aile telefonlarında kalır.</li>
+        <li><strong>Kamera (isteğe bağlı):</strong> yalnızca görüntülü aramada. Görüntü kaydedilmez.</li>
+        <li><strong>Ön plan hizmeti ve tam ekran bildirim:</strong> arama sürerken ekran kapalıyken devam etmesi ve gelen aramanın kilit ekranında görünmesi için. "Aramaları arka planda al" isteğe bağlıdır ve ayarlardan kapatılır.</li>
       </ul>
     </section>
 
@@ -187,7 +191,7 @@ th { font-weight: 700; color: var(--muted); font-size: .8rem; letter-spacing: .0
     </section>
     <section>
       <h2>Sync</h2>
-      <p>Phones pair with a QR or 6-digit code and connect directly on the same Wi-Fi network. Everything transferred is encrypted with AES-256-GCM using a family key that exists only on the paired phones. Free remote sync stores the encrypted package on Nidova's shared server (Cloudflare) or on the family's own server; neither can read it, the key never leaves the family's phones, and packages unused for 400 days are deleted. Locations, files and voice recordings shared in the app travel the same encrypted way. Location is read once, only when you tap "Send my location" in the family chat; the microphone is used only while you record a story.</p>
+      <p>Phones pair with a QR or 6-digit code and connect directly on the same Wi-Fi network. Everything transferred is encrypted with AES-256-GCM using a family key that exists only on the paired phones. Free remote sync stores the encrypted package on Nidova's shared server (Cloudflare) or on the family's own server; neither can read it, the key never leaves the family's phones, and packages unused for 400 days are deleted. Locations, files and voice recordings shared in the app travel the same encrypted way. Location is read once, only when you tap "Send my location" (or the SOS button) in the family chat; the microphone is used only while you record a story or a voice message, or during a call. In-app calls (4.5): call setup messages are sealed with a key derived from the family key and relayed through the family's call room on Nidova's server (Cloudflare), which cannot see who calls whom; voice and video go over WebRTC (DTLS-SRTP), directly between phones where possible or through Cloudflare's TURN relay, and are never recorded. The camera is used only during video calls. Map previews for shared locations are downloaded from OpenStreetMap (only the map area, no sender); they can be turned off.</p>
     </section>
     <section>
       <h2>Photos</h2>
