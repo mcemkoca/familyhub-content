@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-13",
+ "checked": "2026-11-16",
  "note": "Hikâyeler FamilyHub'ın kendi anlatımıdır ve telefonun sesiyle okunur. Sesli kitaplar LibriVox gönüllülerinin kamu malı (public domain) kayıtlarıdır; archive.org'dan dinlenir. Yeni kitaplar her hafta otomatik eklenir — dinlerken yanında olun.",
  "bands": [
   {
@@ -2711,6 +2711,890 @@
     }
    ],
    "premium": true
+  },
+  {
+   "id": "lv-klaasje-zevenster-deel-3-1903-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Klaasje Zevenster, deel 3",
+   "author": "Jacob van Lennep",
+   "minutes": 616,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/klaasje_zevenster_deel_3_1903_librivox",
+   "base": "https://archive.org/download/klaasje_zevenster_deel_3_1903_librivox/",
+   "tracks": [
+    {
+     "f": "klaasjezevenster_3_01_lennep_64kb.mp3",
+     "t": "01 - 10e bk - 1ste hfst, begin",
+     "s": 1685
+    },
+    {
+     "f": "klaasjezevenster_3_02_lennep_64kb.mp3",
+     "t": "02 - 10e bk - 1ste hfst, einde",
+     "s": 1886
+    },
+    {
+     "f": "klaasjezevenster_3_03_lennep_64kb.mp3",
+     "t": "03 - 10e bk - 2de hfst",
+     "s": 1782
+    },
+    {
+     "f": "klaasjezevenster_3_04_lennep_64kb.mp3",
+     "t": "04 - 10e bk - 3de hfst, begin",
+     "s": 1625
+    },
+    {
+     "f": "klaasjezevenster_3_05_lennep_64kb.mp3",
+     "t": "05 - 10e bk - 3de hfst, einde",
+     "s": 1647
+    },
+    {
+     "f": "klaasjezevenster_3_06_lennep_64kb.mp3",
+     "t": "06 - 10e bk - 4e hfst",
+     "s": 1941
+    },
+    {
+     "f": "klaasjezevenster_3_07_lennep_64kb.mp3",
+     "t": "07 - 11e bk - 1e hfst",
+     "s": 1550
+    },
+    {
+     "f": "klaasjezevenster_3_08_lennep_64kb.mp3",
+     "t": "08 - 11e bk - 2e hfst",
+     "s": 1652
+    },
+    {
+     "f": "klaasjezevenster_3_09_lennep_64kb.mp3",
+     "t": "09 - 11e bk- 3e hfst, begin",
+     "s": 1831
+    },
+    {
+     "f": "klaasjezevenster_3_10_lennep_64kb.mp3",
+     "t": "10 - 11e bk - 3e hfst, einde",
+     "s": 1404
+    },
+    {
+     "f": "klaasjezevenster_3_11_lennep_64kb.mp3",
+     "t": "11 - 11e bk - 4e hfst",
+     "s": 1300
+    },
+    {
+     "f": "klaasjezevenster_3_12_lennep_64kb.mp3",
+     "t": "12 - 12e bk - 1e hfst",
+     "s": 1317
+    },
+    {
+     "f": "klaasjezevenster_3_13_lennep_64kb.mp3",
+     "t": "13 - 12e bk - 2e hfst",
+     "s": 1914
+    },
+    {
+     "f": "klaasjezevenster_3_14_lennep_64kb.mp3",
+     "t": "14 - 12e bk - 3e hfst",
+     "s": 1682
+    },
+    {
+     "f": "klaasjezevenster_3_15_lennep_64kb.mp3",
+     "t": "15 - 12e bk - 4e hfst",
+     "s": 2472
+    },
+    {
+     "f": "klaasjezevenster_3_16_lennep_64kb.mp3",
+     "t": "16 - 12e bk - 5e hfst",
+     "s": 1310
+    },
+    {
+     "f": "klaasjezevenster_3_17_lennep_64kb.mp3",
+     "t": "17 - 13e bk - 1e hfst",
+     "s": 759
+    },
+    {
+     "f": "klaasjezevenster_3_18_lennep_64kb.mp3",
+     "t": "18 - 13e bk - 2e hfst",
+     "s": 1707
+    },
+    {
+     "f": "klaasjezevenster_3_19_lennep_64kb.mp3",
+     "t": "19 - 13e bk - 3e hfst",
+     "s": 2670
+    },
+    {
+     "f": "klaasjezevenster_3_20_lennep_64kb.mp3",
+     "t": "20 - 13e bk - 4e hfst",
+     "s": 1777
+    },
+    {
+     "f": "klaasjezevenster_3_21_lennep_64kb.mp3",
+     "t": "21 - 13e bk - 5e hfst",
+     "s": 1899
+    },
+    {
+     "f": "klaasjezevenster_3_22_lennep_64kb.mp3",
+     "t": "17 - 13e bk - 6e hfst",
+     "s": 1150
+    }
+   ],
+   "premium": true,
+   "auto": true
+  },
+  {
+   "id": "lv-vliegende-hollander-1101-librivox",
+   "kind": "audio",
+   "lang": "nl",
+   "bands": [
+    "6-12"
+   ],
+   "title": "De Vliegende Hollander",
+   "author": "P. Visser",
+   "minutes": 217,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/vliegende_hollander_1101_librivox",
+   "base": "https://archive.org/download/vliegende_hollander_1101_librivox/",
+   "tracks": [
+    {
+     "f": "vliegendehollander_01_visser_64kb.mp3",
+     "t": "01. De uitvinding van Schipper Van Halen",
+     "s": 1396
+    },
+    {
+     "f": "vliegendehollander_02_visser_64kb.mp3",
+     "t": "02. De aanslag in 't bosch",
+     "s": 1737
+    },
+    {
+     "f": "vliegendehollander_03_visser_64kb.mp3",
+     "t": "03. Een nieuwe reisgenoot",
+     "s": 766
+    },
+    {
+     "f": "vliegendehollander_04_visser_64kb.mp3",
+     "t": "04. In ongelegenheid",
+     "s": 806
+    },
+    {
+     "f": "vliegendehollander_05_visser_64kb.mp3",
+     "t": "05. De eerste tocht",
+     "s": 827
+    },
+    {
+     "f": "vliegendehollander_06_visser_64kb.mp3",
+     "t": "06. Van Halen neemt een noodlottig besluit",
+     "s": 1159
+    },
+    {
+     "f": "vliegendehollander_07_visser_64kb.mp3",
+     "t": "07. In de haven van Port-Royal",
+     "s": 1626
+    },
+    {
+     "f": "vliegendehollander_08_visser_64kb.mp3",
+     "t": "08. De Boekaniers",
+     "s": 1790
+    },
+    {
+     "f": "vliegendehollander_09_visser_64kb.mp3",
+     "t": "09. 'De Vliegende Hollander'",
+     "s": 1396
+    },
+    {
+     "f": "vliegendehollander_10_visser_64kb.mp3",
+     "t": "10. De zeeslag tegen de Spanjaarden",
+     "s": 1534
+    }
+   ],
+   "premium": true,
+   "auto": true
+  },
+  {
+   "id": "lv-contesethistoirespreferesdesenfants-001-1003-lib",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Il etait une fois... - 001 (contes pour enfants)",
+   "author": "Various",
+   "minutes": 240,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/contesethistoirespreferesdesenfants_001_1003_librivox",
+   "base": "https://archive.org/download/contesethistoirespreferesdesenfants_001_1003_librivox/",
+   "tracks": [
+    {
+     "f": "contes001_01_tompouce_64kb.mp3",
+     "t": "01 - Tom Pouce",
+     "s": 744
+    },
+    {
+     "f": "contes001_02_petitchaperonrouge_64kb.mp3",
+     "t": "02 - Le petit chaperon rouge",
+     "s": 357
+    },
+    {
+     "f": "contes001_03_nainsmagiques_64kb.mp3",
+     "t": "03 - Les nains magiques",
+     "s": 347
+    },
+    {
+     "f": "contes001_04_princessepetitpois_64kb.mp3",
+     "t": "04 - La princesse au petit pois",
+     "s": 183
+    },
+    {
+     "f": "contes001_05_chatbotte_64kb.mp3",
+     "t": "05 - Le chat botte",
+     "s": 551
+    },
+    {
+     "f": "contes001_06_renardetlechat_64kb.mp3",
+     "t": "06 - Le renard et le chat",
+     "s": 236
+    },
+    {
+     "f": "contes001_07_vilainpetitcanard_64kb.mp3",
+     "t": "07 - Le vilain petit canard",
+     "s": 1065
+    },
+    {
+     "f": "contes001_08_cendrillon_64kb.mp3",
+     "t": "08 - Cendrillon",
+     "s": 787
+    },
+    {
+     "f": "contes001_09_coureurs_64kb.mp3",
+     "t": "09 - Les coureurs",
+     "s": 457
+    },
+    {
+     "f": "contes001_10_petitpatre_64kb.mp3",
+     "t": "10 - Le petit patre",
+     "s": 209
+    },
+    {
+     "f": "contes001_11_habitsneufsgrandduc_64kb.mp3",
+     "t": "11 - Les habits neufs du grand-duc",
+     "s": 686
+    },
+    {
+     "f": "contes001_12_doucebouillie_64kb.mp3",
+     "t": "12 - La douce bouillie",
+     "s": 256
+    },
+    {
+     "f": "contes001_13_cinqdanscossepois_64kb.mp3",
+     "t": "13 - Cinq dans une cosse de pois",
+     "s": 493
+    },
+    {
+     "f": "contes001_14_fees_64kb.mp3",
+     "t": "14 - Les fees",
+     "s": 482
+    },
+    {
+     "f": "contes001_15_musiciensvillebreme_64kb.mp3",
+     "t": "15 - Les musiciens de la ville de Breme",
+     "s": 485
+    },
+    {
+     "f": "contes001_16_stoiquesoldatplomb_64kb.mp3",
+     "t": "16 - Le stoique soldat de plomb",
+     "s": 588
+    },
+    {
+     "f": "contes001_17_oiseaubleu_64kb.mp3",
+     "t": "17 - L'oiseau bleu",
+     "s": 3928
+    },
+    {
+     "f": "contes001_18_tableanebatonmerveilleux_64kb.mp3",
+     "t": "18 - La table l'ane et le baton merveilleux",
+     "s": 1271
+    },
+    {
+     "f": "contes001_19_petitfrerepetitesoeur_64kb.mp3",
+     "t": "19 - Petit frere et petite soeur",
+     "s": 873
+    },
+    {
+     "f": "contes001_20_dameholle_64kb.mp3",
+     "t": "20 - La Dame Holle",
+     "s": 390
+    }
+   ],
+   "premium": true,
+   "auto": true
+  },
+  {
+   "id": "lv-fables-lafontaine-02-librivox",
+   "kind": "audio",
+   "lang": "fr",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Fables de La Fontaine, livre 02",
+   "author": "Jean de La Fontaine",
+   "minutes": 45,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/fables_lafontaine_02_librivox",
+   "base": "https://archive.org/download/fables_lafontaine_02_librivox/",
+   "tracks": [
+    {
+     "f": "fables_02_01_lafontaine_64kb.mp3",
+     "t": "01 - Contre ceux qui ont le goÃÂÃÂÃÂÃÂ»t difficile",
+     "s": 176
+    },
+    {
+     "f": "fables_02_02_lafontaine_64kb.mp3",
+     "t": "02 - Conseil tenu par les Rats",
+     "s": 121
+    },
+    {
+     "f": "fables_02_03_lafontaine_64kb.mp3",
+     "t": "03 - Le Loup plaidant contre le Renard par-devant le Singe",
+     "s": 95
+    },
+    {
+     "f": "fables_02_04_lafontaine_64kb.mp3",
+     "t": "04 - Les Deux Taureaux et une Grenouille",
+     "s": 119
+    },
+    {
+     "f": "fables_02_05_lafontaine_64kb.mp3",
+     "t": "05 - La Chauve-Souris et les Deux Belettes",
+     "s": 113
+    },
+    {
+     "f": "fables_02_06_lafontaine_64kb.mp3",
+     "t": "06 - L'Oiseau blessÃÂÃÂÃÂÃÂ© d'une flÃÂÃÂÃÂÃÂ¨che",
+     "s": 88
+    },
+    {
+     "f": "fables_02_07_lafontaine_64kb.mp3",
+     "t": "07 - La Lice et sa Compagne",
+     "s": 76
+    },
+    {
+     "f": "fables_02_08_lafontaine_64kb.mp3",
+     "t": "08 - L'Aigle et l'Escarbot",
+     "s": 172
+    },
+    {
+     "f": "fables_02_09_lafontaine_64kb.mp3",
+     "t": "09 - Le Lion et le Moucheron",
+     "s": 142
+    },
+    {
+     "f": "fables_02_10_lafontaine_64kb.mp3",
+     "t": "10 - L'ÃÂÃÂÃÂÃÂne chargÃÂÃÂÃÂÃÂ© d'ÃÂÃÂÃÂÃÂ©ponges et l'Ã",
+     "s": 152
+    },
+    {
+     "f": "fables_02_11_lafontaine_64kb.mp3",
+     "t": "11 - Le Lion et le Rat",
+     "s": 116
+    },
+    {
+     "f": "fables_02_12_lafontaine_64kb.mp3",
+     "t": "12 - La Colombe et la Fourmi",
+     "s": 99
+    },
+    {
+     "f": "fables_02_13_lafontaine_64kb.mp3",
+     "t": "13 - L'Astrologue qui se laisse tomber dans un puits",
+     "s": 152
+    },
+    {
+     "f": "fables_02_14_lafontaine_64kb.mp3",
+     "t": "14 - Le LiÃÂÃÂÃÂÃÂ¨vre et les Grenouilles",
+     "s": 155
+    },
+    {
+     "f": "fables_02_15_lafontaine_64kb.mp3",
+     "t": "15 - Le Coq et le Renard",
+     "s": 147
+    },
+    {
+     "f": "fables_02_16_lafontaine_64kb.mp3",
+     "t": "16 - Le Corbeau voulant imiter l'Aigle",
+     "s": 151
+    },
+    {
+     "f": "fables_02_17_lafontaine_64kb.mp3",
+     "t": "17 - Le Paon se plaignant ÃÂÃÂÃÂÃÂ Junon",
+     "s": 151
+    },
+    {
+     "f": "fables_02_18_lafontaine_64kb.mp3",
+     "t": "18 - La Chatte mÃÂÃÂÃÂÃÂ©tamorphosÃÂÃÂÃÂÃÂ©e en Femme",
+     "s": 115
+    },
+    {
+     "f": "fables_02_19_lafontaine_64kb.mp3",
+     "t": "19 - Le Lion et l'ÃÂÃÂÃÂÃÂne chassant",
+     "s": 107
+    },
+    {
+     "f": "fables_02_20_lafontaine_64kb.mp3",
+     "t": "20 - Testament expliquÃÂÃÂÃÂÃÂ© par ÃÂÃÂÃÂÃÂsope",
+     "s": 247
+    }
+   ],
+   "premium": true,
+   "auto": true
+  },
+  {
+   "id": "lv-andersensfairy-1307-librivox",
+   "kind": "audio",
+   "lang": "en",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Andersen's Fairy Tales (Version 2)",
+   "author": "Hans Christian Andersen",
+   "minutes": 349,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/andersensfairy_1307_librivox",
+   "base": "https://archive.org/download/andersensfairy_1307_librivox/",
+   "tracks": [
+    {
+     "f": "andersensfairytales_01_anderson_64kb.mp3",
+     "t": "01 - The Emperor's New Clothes",
+     "s": 767
+    },
+    {
+     "f": "andersensfairytales_02_anderson_64kb.mp3",
+     "t": "02 -The Swineherd",
+     "s": 618
+    },
+    {
+     "f": "andersensfairytales_03_anderson_64kb.mp3",
+     "t": "03 - The Real Princess",
+     "s": 193
+    },
+    {
+     "f": "andersensfairytales_04a_anderson_64kb.mp3",
+     "t": "04b -The Shoes of Fortune",
+     "s": 2343
+    },
+    {
+     "f": "andersensfairytales_04b_anderson_64kb.mp3",
+     "t": "04a - The Shoes of Fortune",
+     "s": 2929
+    },
+    {
+     "f": "andersensfairytales_05_andersen_64kb.mp3",
+     "t": "05 - The Fir Tree",
+     "s": 917
+    },
+    {
+     "f": "andersensfairytales_06_andersen_64kb.mp3",
+     "t": "06 - The Snow Queen",
+     "s": 3822
+    },
+    {
+     "f": "andersensfairytales_07_anderson_64kb.mp3",
+     "t": "07 - The Leap-Frog",
+     "s": 269
+    },
+    {
+     "f": "andersensfairytales_08_anderson_64kb.mp3",
+     "t": "08 - The Elderbush",
+     "s": 1064
+    },
+    {
+     "f": "andersensfairytales_09_andersen_64kb.mp3",
+     "t": "09 - The Bell",
+     "s": 960
+    },
+    {
+     "f": "andersensfairytales_10_andersen_64kb.mp3",
+     "t": "10 - The Old House",
+     "s": 1245
+    },
+    {
+     "f": "andersensfairytales_11_andersen_64kb.mp3",
+     "t": "11 - The Happy Family",
+     "s": 369
+    },
+    {
+     "f": "andersensfairytales_12_andersen_64kb.mp3",
+     "t": "12 - The Story of A Mother",
+     "s": 1013
+    },
+    {
+     "f": "andersensfairytales_13_anderson_64kb.mp3",
+     "t": "13 - The False Collar",
+     "s": 489
+    },
+    {
+     "f": "andersensfairytales_14_anderson_64kb.mp3",
+     "t": "14 - The Shadow",
+     "s": 1722
+    },
+    {
+     "f": "andersensfairytales_15_anderson_64kb.mp3",
+     "t": "15 - The Little Match Girl",
+     "s": 443
+    },
+    {
+     "f": "andersensfairytales_16_anderson_64kb.mp3",
+     "t": "16 - The Dram of Little Tuk",
+     "s": 704
+    },
+    {
+     "f": "andersensfairytales_17_anderson_64kb.mp3",
+     "t": "17 - The Naughty Boy",
+     "s": 324
+    },
+    {
+     "f": "andersensfairytales_18_anderson_64kb.mp3",
+     "t": "18 - The Red Shoes",
+     "s": 763
+    }
+   ],
+   "premium": true,
+   "auto": true
+  },
+  {
+   "id": "lv-grimm-fairy-tales-1202-librivox",
+   "kind": "audio",
+   "lang": "en",
+   "bands": [
+    "6-12"
+   ],
+   "title": "Grimm's Fairy Tales (version 2)",
+   "author": "Jacob & Wilhelm Grimm",
+   "minutes": 668,
+   "license": "public-domain",
+   "source": "LibriVox · archive.org",
+   "page": "https://archive.org/details/grimm_fairy_tales_1202_librivox",
+   "base": "https://archive.org/download/grimm_fairy_tales_1202_librivox/",
+   "tracks": [
+    {
+     "f": "grimmsfairytales_01_grimm_64kb.mp3",
+     "t": "01 - The Golden Bird",
+     "s": 1001
+    },
+    {
+     "f": "grimmsfairytales_02_grimm_64kb.mp3",
+     "t": "02 - Hans In Luck",
+     "s": 970
+    },
+    {
+     "f": "grimmsfairytales_03_grimm_64kb.mp3",
+     "t": "03 - Jorinda and Jorindel",
+     "s": 489
+    },
+    {
+     "f": "grimmsfairytales_04_grimm_64kb.mp3",
+     "t": "04 - The Traveling Musicians",
+     "s": 567
+    },
+    {
+     "f": "grimmsfairytales_05_grimm_64kb.mp3",
+     "t": "05 - Old Sultan",
+     "s": 356
+    },
+    {
+     "f": "grimmsfairytales_06_grimm_64kb.mp3",
+     "t": "06 - The Straw, The Bean, and The Coal",
+     "s": 226
+    },
+    {
+     "f": "grimmsfairytales_07_grimm_64kb.mp3",
+     "t": "07 - Brier Rose",
+     "s": 593
+    },
+    {
+     "f": "grimmsfairytales_08_grimm_64kb.mp3",
+     "t": "08 - The Dog snd The Sparrow",
+     "s": 539
+    },
+    {
+     "f": "grimmsfairytales_09_grimm_64kb.mp3",
+     "t": "09 - The Twelve Dancing Princessess",
+     "s": 624
+    },
+    {
+     "f": "grimmsfairytales_10_grimm_64kb.mp3",
+     "t": "10 - The Fisherman and His Wife",
+     "s": 922
+    },
+    {
+     "f": "grimmsfairytales_11_grimm_64kb.mp3",
+     "t": "11 - The Willow-Wren And The Bear",
+     "s": 392
+    },
+    {
+     "f": "grimmsfairytales_12_grimm_64kb.mp3",
+     "t": "12 - The Frog-Prince",
+     "s": 496
+    },
+    {
+     "f": "grimmsfairytales_13_grimm_64kb.mp3",
+     "t": "13 - Cat and Mouse In Partnership",
+     "s": 432
+    },
+    {
+     "f": "grimmsfairytales_14_grimm_64kb.mp3",
+     "t": "14 - The Goose Girl",
+     "s": 897
+    },
+    {
+     "f": "grimmsfairytales_15_grimm_64kb.mp3",
+     "t": "15 - The Adventurers of Chanticleer and Partlet",
+     "s": 760
+    },
+    {
+     "f": "grimmsfairytales_16_grimm_64kb.mp3",
+     "t": "16 - Rapunzel",
+     "s": 597
+    },
+    {
+     "f": "grimmsfairytales_17_grimm_64kb.mp3",
+     "t": "17 - Fundevogel",
+     "s": 406
+    },
+    {
+     "f": "grimmsfairytales_18_grimm_64kb.mp3",
+     "t": "18 - The Valiant Little Tailor",
+     "s": 1345
+    },
+    {
+     "f": "grimmsfairytales_19_grimm_64kb.mp3",
+     "t": "19 - Hansel and Gretel",
+     "s": 1173
+    },
+    {
+     "f": "grimmsfairytales_20_grimm_64kb.mp3",
+     "t": "20 - The Mouse, The Bird, and the Sausage",
+     "s": 268
+    },
+    {
+     "f": "grimmsfairytales_21_grimm_64kb.mp3",
+     "t": "21 - Mother Holle",
+     "s": 501
+    },
+    {
+     "f": "grimmsfairytales_22_grimm_64kb.mp3",
+     "t": "22 - Little Red Riding Hood",
+     "s": 596
+    },
+    {
+     "f": "grimmsfairytales_23_grimm_64kb.mp3",
+     "t": "23 - The Robber Bridegroom",
+     "s": 573
+    },
+    {
+     "f": "grimmsfairytales_24_grimm_64kb.mp3",
+     "t": "24 - Tom Thumb",
+     "s": 983
+    },
+    {
+     "f": "grimmsfairytales_25_grimm_64kb.mp3",
+     "t": "25 - Rumpelstiltskin",
+     "s": 503
+    },
+    {
+     "f": "grimmsfairytales_26_grimm_64kb.mp3",
+     "t": "26 - Clever Gretel",
+     "s": 390
+    },
+    {
+     "f": "grimmsfairytales_27_grimm_64kb.mp3",
+     "t": "27 - The Old Man and His Grandson",
+     "s": 120
+    },
+    {
+     "f": "grimmsfairytales_28_grimm_64kb.mp3",
+     "t": "28 - The Little Peasant",
+     "s": 823
+    },
+    {
+     "f": "grimmsfairytales_29_grimm_64kb.mp3",
+     "t": "29 - Frederick and Catherine",
+     "s": 763
+    },
+    {
+     "f": "grimmsfairytales_30_grimm_64kb.mp3",
+     "t": "30 - Sweetheart Roland",
+     "s": 595
+    },
+    {
+     "f": "grimmsfairytales_31_grimm_64kb.mp3",
+     "t": "31 - Snowdrop",
+     "s": 971
+    },
+    {
+     "f": "grimmsfairytales_32_grimm_64kb.mp3",
+     "t": "32 - The Pink",
+     "s": 681
+    },
+    {
+     "f": "grimmsfairytales_33_grimm_64kb.mp3",
+     "t": "33 - Clever Elsie",
+     "s": 540
+    },
+    {
+     "f": "grimmsfairytales_34_grimm_64kb.mp3",
+     "t": "34 - The Miser In The Bush",
+     "s": 485
+    },
+    {
+     "f": "grimmsfairytales_35_grimm_64kb.mp3",
+     "t": "35 - Ashputtel",
+     "s": 975
+    },
+    {
+     "f": "grimmsfairytales_36_grimm_64kb.mp3",
+     "t": "36 - The White Snake",
+     "s": 599
+    },
+    {
+     "f": "grimmsfairytales_37_grimm_64kb.mp3",
+     "t": "37 - The Wolf and the Seven Little Kids",
+     "s": 429
+    },
+    {
+     "f": "grimmsfairytales_38_grimm_64kb.mp3",
+     "t": "38 - The Queen Bee",
+     "s": 305
+    },
+    {
+     "f": "grimmsfairytales_39_grimm_64kb.mp3",
+     "t": "39 - The Elves and the Shoemaker",
+     "s": 289
+    },
+    {
+     "f": "grimmsfairytales_40_grimm_64kb.mp3",
+     "t": "40 - The Juniper-Tree",
+     "s": 1219
+    },
+    {
+     "f": "grimmsfairytales_41_grimm_64kb.mp3",
+     "t": "41 - The Turnip",
+     "s": 441
+    },
+    {
+     "f": "grimmsfairytales_42_grimm_64kb.mp3",
+     "t": "42 - Clever Hans",
+     "s": 440
+    },
+    {
+     "f": "grimmsfairytales_43_grimm_64kb.mp3",
+     "t": "43 - The Three Languages",
+     "s": 373
+    },
+    {
+     "f": "grimmsfairytales_44_grimm_64kb.mp3",
+     "t": "44 - The Fox and the Cat",
+     "s": 141
+    },
+    {
+     "f": "grimmsfairytales_45_grimm_64kb.mp3",
+     "t": "45 - The Four Clever Brothers",
+     "s": 633
+    },
+    {
+     "f": "grimmsfairytales_46_grimm_64kb.mp3",
+     "t": "46 - Lily and the Lion",
+     "s": 902
+    },
+    {
+     "f": "grimmsfairytales_47_grimm_64kb.mp3",
+     "t": "47 - The Fox and the Horse",
+     "s": 209
+    },
+    {
+     "f": "grimmsfairytales_48_grimm_64kb.mp3",
+     "t": "48 - The Blue Light",
+     "s": 678
+    },
+    {
+     "f": "grimmsfairytales_49_grimm_64kb.mp3",
+     "t": "49 - The Raven",
+     "s": 928
+    },
+    {
+     "f": "grimmsfairytales_50_grimm_64kb.mp3",
+     "t": "50 - The Golden Goose",
+     "s": 606
+    },
+    {
+     "f": "grimmsfairytales_51_grimm_64kb.mp3",
+     "t": "51 - The Water of Life",
+     "s": 1013
+    },
+    {
+     "f": "grimmsfairytales_52_grimm_64kb.mp3",
+     "t": "52 - The Twelve Huntsmen",
+     "s": 425
+    },
+    {
+     "f": "grimmsfairytales_53_grimm_64kb.mp3",
+     "t": "53 - The King of the Golden Mountain",
+     "s": 916
+    },
+    {
+     "f": "grimmsfairytales_54_grimm_64kb.mp3",
+     "t": "54 - Doctor Knowall",
+     "s": 314
+    },
+    {
+     "f": "grimmsfairytales_55_grimm_64kb.mp3",
+     "t": "55 - The Seven Ravens",
+     "s": 381
+    },
+    {
+     "f": "grimmsfairytales_56_grimm_64kb.mp3",
+     "t": "56 - The Wedding of Mrs. Fox",
+     "s": 348
+    },
+    {
+     "f": "grimmsfairytales_57_grimm_64kb.mp3",
+     "t": "57 - The Salad",
+     "s": 824
+    },
+    {
+     "f": "grimmsfairytales_58_grimm_64kb.mp3",
+     "t": "58 - The Story of the Youth Who Went Forth To Learn What Fear Was",
+     "s": 1482
+    },
+    {
+     "f": "grimmsfairytales_59_grimm_64kb.mp3",
+     "t": "59 - King Grisly-Beard",
+     "s": 582
+    },
+    {
+     "f": "grimmsfairytales_60_grimm_64kb.mp3",
+     "t": "60 - Iron Hans",
+     "s": 1201
+    },
+    {
+     "f": "grimmsfairytales_61_grimm_64kb.mp3",
+     "t": "61 - Cat-Skin",
+     "s": 762
+    },
+    {
+     "f": "grimmsfairytales_62_grimm_64kb.mp3",
+     "t": "62 - Snow-White and Rose-Red",
+     "s": 945
+    },
+    {
+     "f": "grimmsfairytales_63_grimm_64kb.mp3",
+     "t": "63 - About The Grimms",
+     "s": 113
+    }
+   ],
+   "premium": true,
+   "auto": true
   }
  ]
 }
